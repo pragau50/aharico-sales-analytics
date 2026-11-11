@@ -1,0 +1,1518 @@
+order_id,customer_name,age,city,segment,slot,product,quantity,price,revenue,order_date,order_status,payment_mode,month,age_group
+AHR01655,pooja kumar,40.0,delhi ncr,corporate professionals,8am,peri peri makhana,3,149,447,2026-03-05,delivered,net banking,2026-03,36-50
+AHR01077,kritika sharma,21.0,bangalore,govt exam aspirants,4pm,mint makhana,3,149,447,2026-10-20,delivered,credit card,2026-10,18-25
+AHR01317,shreya mehta,40.0,pune,corporate professionals,4pm,black pepper makhana,2,149,298,2026-06-16,delivered,upi,2026-06,36-50
+AHR02348,amit kumar,33.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-02-20,delivered,debit card,2026-02,26-35
+AHR01572,nisha iyer,24.0,delhi,athletes,8am,peri peri makhana,2,149,298,2026-05-30,delivered,upi,2026-05,18-25
+AHR01919,divya das,21.0,bangalore,govt exam aspirants,4pm,black pepper makhana,2,149,298,2026-08-21,delivered,upi,2026-08,18-25
+AHR01755,kritika bose,40.0,bangalore,corporate professionals,4pm,peri peri makhana,1,149,149,2026-10-19,delivered,credit card,2026-10,36-50
+AHR01828,pallavi nair,20.0,bangalore,athletes,8am,ready to mix sattu,1,99,99,2026-01-07,delivered,upi,2026-01,18-25
+AHR02340,sneha sharma,31.0,bangalore,corporate professionals,4pm,black pepper makhana,2,149,298,2026-09-29,delivered,credit card,2026-09,26-35
+AHR02194,madhuri pillai,25.0,delhi,govt exam aspirants,8am,phool makhana,2,129,258,2026-01-07,returned,credit card,2026-01,18-25
+AHR02084,lavanya mehta,33.0,mumbai,corporate professionals,4pm,black pepper makhana,2,149,298,2026-08-20,returned,upi,2026-08,26-35
+AHR01875,priya bose,34.0,delhi,homemakers,8am,ready to mix sattu,3,99,297,2026-04-27,delivered,upi,2026-04,26-35
+AHR02271,sanjay singh,20.0,delhi ncr,students,8am,ready to mix sattu,2,99,198,2026-06-24,delivered,credit card,2026-06,18-25
+AHR02003,nikhil pandey,32.0,pune,corporate professionals,8am,ready to mix sattu,1,99,99,2026-06-05,delivered,credit card,2026-06,26-35
+AHR01986,arjun reddy,23.0,delhi ncr,students,4pm,black pepper makhana,1,149,149,2026-03-23,delivered,upi,2026-03,18-25
+AHR02415,shreya chopra,22.0,bangalore,students,4pm,phool makhana,3,129,387,2026-05-10,shipped,upi,2026-05,18-25
+AHR02499,nisha pandey,27.0,mumbai,govt exam aspirants,4pm,peri peri makhana,1,149,149,2026-10-14,delivered,credit card,2026-10,26-35
+AHR01031,siddharth patel,28.0,mumbai,athletes,4pm,peri peri makhana,2,149,298,2026-01-06,delivered,wallet,2026-01,26-35
+AHR01050,rohit rao,18.0,bangalore,students,4pm,mint makhana,1,149,149,2026-06-19,delivered,net banking,2026-06,18-25
+AHR01241,divya pandey,32.0,pune,athletes,8am,mint makhana,1,149,149,2026-02-02,delivered,credit card,2026-02,26-35
+AHR01310,vinay sharma,36.0,delhi,homemakers,8am,mint makhana,1,149,149,2026-04-18,delivered,upi,2026-04,36-50
+AHR01353,harish pillai,37.0,bangalore,corporate professionals,4pm,ready to mix sattu,1,99,99,2026-07-19,delivered,debit card,2026-07,36-50
+AHR01125,raj singh,21.0,pune,students,4pm,peri peri makhana,4,149,596,2026-01-26,delivered,credit card,2026-01,18-25
+AHR02158,gaurav reddy,21.0,bangalore,athletes,8am,peri peri makhana,2,149,298,2026-03-28,shipped,upi,2026-03,18-25
+AHR01651,rekha patel,23.0,mumbai,govt exam aspirants,4pm,mint makhana,2,149,298,2026-02-21,shipped,upi,2026-02,18-25
+AHR01071,gaurav gupta,35.0,mumbai,athletes,4pm,mint makhana,2,149,298,2026-06-02,delivered,upi,2026-06,26-35
+AHR02498,lavanya gupta,39.0,delhi,homemakers,8am,ready to mix sattu,4,99,396,2026-09-16,delivered,debit card,2026-09,36-50
+AHR01702,pooja sharma,38.0,pune,corporate professionals,8am,phool makhana,2,129,258,2026-08-13,delivered,upi,2026-08,36-50
+AHR02103,karan nair,23.0,delhi,students,4pm,black pepper makhana,2,149,298,2026-10-17,delivered,credit card,2026-10,18-25
+AHR02317,lavanya pillai,25.0,delhi,govt exam aspirants,4pm,phool makhana,1,129,129,2026-10-13,delivered,net banking,2026-10,18-25
+AHR02104,anjali das,27.0,mumbai,athletes,4pm,black pepper makhana,4,149,596,2026-10-22,delivered,wallet,2026-10,26-35
+AHR02314,meera bose,19.0,bangalore,students,8am,ready to mix sattu,1,99,99,2026-04-10,delivered,debit card,2026-04,18-25
+AHR02482,karan iyer,35.0,delhi ncr,corporate professionals,8am,ready to mix sattu,2,99,198,2026-03-31,delivered,credit card,2026-03,26-35
+AHR01584,sunita kumar,24.0,bangalore,students,4pm,black pepper makhana,1,149,149,2026-09-18,delivered,net banking,2026-09,18-25
+AHR02217,anita gupta,35.0,delhi ncr,homemakers,4pm,phool makhana,1,129,129,2026-02-22,delivered,net banking,2026-02,26-35
+AHR02302,rohit pillai,36.0,bangalore,corporate professionals,4pm,black pepper makhana,2,149,298,2026-07-26,pending,upi,2026-07,36-50
+AHR01501,suresh malhotra,26.0,mumbai,corporate professionals,8am,ready to mix sattu,1,99,99,2026-05-31,delivered,debit card,2026-05,26-35
+AHR02401,preeti rao,32.0,bangalore,corporate professionals,4pm,mint makhana,2,149,298,2026-03-11,delivered,upi,2026-03,26-35
+AHR02189,karan mishra,22.0,delhi,students,4pm,black pepper makhana,1,149,149,2026-04-06,delivered,debit card,2026-04,18-25
+AHR01486,nikhil kumar,30.0,bangalore,homemakers,4pm,peri peri makhana,2,149,298,2026-02-06,delivered,credit card,2026-02,26-35
+AHR01883,pallavi kumar,29.0,bangalore,corporate professionals,8am,phool makhana,1,129,129,2026-10-11,delivered,upi,2026-10,26-35
+AHR01950,anita verma,22.0,delhi ncr,govt exam aspirants,4pm,mint makhana,2,149,298,2026-08-30,delivered,net banking,2026-08,18-25
+AHR01611,nikhil verma,31.0,delhi,homemakers,8am,peri peri makhana,1,149,149,2026-03-24,delivered,upi,2026-03,26-35
+AHR01491,anjali chopra,22.0,bangalore,athletes,8am,peri peri makhana,2,149,298,2026-09-26,delivered,upi,2026-09,18-25
+AHR01354,sunita chopra,35.0,delhi,athletes,4pm,mint makhana,1,149,149,2026-02-05,delivered,upi,2026-02,26-35
+AHR01262,deepak pillai,36.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-01-13,shipped,upi,2026-01,36-50
+AHR01060,rekha pandey,22.0,bangalore,govt exam aspirants,8am,ready to mix sattu,2,99,198,2026-06-15,delivered,upi,2026-06,18-25
+AHR02038,suresh pillai,24.0,pune,students,8am,ready to mix sattu,1,99,99,2026-10-25,delivered,upi,2026-10,18-25
+AHR01539,rekha rao,20.0,bangalore,athletes,4pm,mint makhana,3,149,447,2026-06-14,delivered,upi,2026-06,18-25
+AHR02174,anita malhotra,29.235449735449734,bangalore,corporate professionals,4pm,phool makhana,2,129,258,2026-05-08,returned,credit card,2026-05,26-35
+AHR01260,sunita chopra,31.0,bangalore,corporate professionals,4pm,peri peri makhana,1,149,149,2026-10-14,delivered,upi,2026-10,26-35
+AHR01766,lavanya reddy,32.0,delhi,athletes,4pm,peri peri makhana,3,149,447,2026-01-05,delivered,upi,2026-01,26-35
+AHR02496,anita shah,40.0,hyderabad,corporate professionals,8am,ready to mix sattu,2,99,198,2026-06-17,delivered,debit card,2026-06,36-50
+AHR02099,sunita das,28.0,delhi,corporate professionals,8am,black pepper makhana,3,149,447,2026-09-07,shipped,upi,2026-09,26-35
+AHR02188,smita bose,30.0,bangalore,athletes,8am,ready to mix sattu,2,99,198,2026-04-18,delivered,upi,2026-04,26-35
+AHR01463,arun patel,22.0,pune,govt exam aspirants,4pm,mint makhana,3,149,447,2026-08-05,pending,debit card,2026-08,18-25
+AHR01052,harish verma,40.0,bangalore,corporate professionals,8am,mint makhana,2,149,298,2026-06-01,delivered,net banking,2026-06,36-50
+AHR01345,vikram bose,30.0,bangalore,corporate professionals,4pm,black pepper makhana,1,149,149,2026-10-29,shipped,credit card,2026-10,26-35
+AHR01678,madhuri das,35.0,hyderabad,athletes,8am,ready to mix sattu,3,99,297,2026-05-31,delivered,upi,2026-05,26-35
+AHR01304,priya mehta,21.0,bangalore,students,4pm,peri peri makhana,1,149,149,2026-10-01,pending,credit card,2026-10,18-25
+AHR01869,nisha patel,34.0,delhi ncr,corporate professionals,8am,ready to mix sattu,2,99,198,2026-06-19,delivered,debit card,2026-06,26-35
+AHR01024,anita mehta,26.0,delhi,athletes,4pm,black pepper makhana,2,149,298,2026-06-04,delivered,credit card,2026-06,26-35
+AHR01590,anita iyer,24.0,delhi ncr,govt exam aspirants,8am,ready to mix sattu,1,99,99,2026-04-13,delivered,upi,2026-04,18-25
+AHR02409,karan iyer,27.0,bangalore,corporate professionals,8am,black pepper makhana,2,149,298,2026-05-28,delivered,net banking,2026-05,26-35
+AHR01462,nikhil reddy,30.0,bangalore,homemakers,8am,ready to mix sattu,1,99,99,2026-07-28,shipped,upi,2026-07,26-35
+AHR01859,amit malhotra,49.0,bangalore,homemakers,4pm,ready to mix sattu,3,99,297,2026-09-05,delivered,upi,2026-09,36-50
+AHR01765,vishal mishra,26.0,bangalore,corporate professionals,4pm,phool makhana,1,129,129,2026-07-31,delivered,upi,2026-07,26-35
+AHR01760,karan gupta,21.0,mumbai,students,8am,mint makhana,3,149,447,2026-01-21,pending,debit card,2026-01,18-25
+AHR01169,arjun iyer,31.0,mumbai,athletes,4pm,mint makhana,2,149,298,2026-10-04,delivered,debit card,2026-10,26-35
+AHR02479,divya gupta,20.0,mumbai,athletes,8am,phool makhana,1,129,129,2026-07-27,delivered,debit card,2026-07,18-25
+AHR01561,vinay malhotra,29.235449735449734,delhi ncr,corporate professionals,8am,phool makhana,3,129,387,2026-04-25,delivered,net banking,2026-04,26-35
+AHR01568,manish nair,35.0,bangalore,corporate professionals,4pm,ready to mix sattu,1,99,99,2026-08-08,pending,credit card,2026-08,26-35
+AHR01238,suresh das,39.0,pune,corporate professionals,8am,black pepper makhana,1,149,149,2026-03-10,delivered,upi,2026-03,36-50
+AHR01908,manish singh,38.0,bangalore,corporate professionals,4pm,black pepper makhana,1,149,149,2026-02-21,delivered,upi,2026-02,36-50
+AHR02117,vishal verma,31.0,bangalore,corporate professionals,4pm,phool makhana,1,129,129,2026-08-13,delivered,credit card,2026-08,26-35
+AHR01421,lavanya singh,36.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-04-16,delivered,upi,2026-04,36-50
+AHR02329,lavanya bose,28.0,delhi,govt exam aspirants,8am,ready to mix sattu,2,99,198,2026-05-14,delivered,debit card,2026-05,26-35
+AHR01100,siddharth sharma,28.0,bangalore,corporate professionals,4pm,mint makhana,3,149,447,2026-07-10,delivered,upi,2026-07,26-35
+AHR02480,rekha mehta,23.0,mumbai,students,4pm,ready to mix sattu,3,99,297,2026-04-03,delivered,upi,2026-04,18-25
+AHR01825,unknown,37.0,hyderabad,corporate professionals,8am,ready to mix sattu,1,99,99,2026-02-03,delivered,upi,2026-02,36-50
+AHR01416,siddharth bose,23.0,pune,athletes,4pm,black pepper makhana,4,149,596,2026-09-30,delivered,debit card,2026-09,18-25
+AHR01068,suresh chopra,31.0,delhi,homemakers,8am,ready to mix sattu,3,99,297,2026-05-31,delivered,upi,2026-05,26-35
+AHR02106,nisha malhotra,25.0,delhi,athletes,4pm,black pepper makhana,2,149,298,2026-08-10,delivered,upi,2026-08,18-25
+AHR01248,sunita iyer,32.0,bangalore,athletes,8am,peri peri makhana,2,149,298,2026-02-23,delivered,upi,2026-02,26-35
+AHR02177,ravi pillai,21.0,pune,govt exam aspirants,4pm,ready to mix sattu,1,99,99,2026-06-03,delivered,net banking,2026-06,18-25
+AHR01789,divya singh,30.0,delhi,homemakers,4pm,black pepper makhana,1,149,149,2026-10-11,delivered,upi,2026-10,26-35
+AHR02353,unknown,35.0,delhi,corporate professionals,8am,phool makhana,3,129,387,2026-02-14,returned,upi,2026-02,26-35
+AHR01839,karan pandey,25.0,mumbai,corporate professionals,4pm,peri peri makhana,1,149,149,2026-01-03,delivered,credit card,2026-01,18-25
+AHR01555,rekha verma,43.0,delhi ncr,homemakers,4pm,peri peri makhana,3,149,447,2026-06-05,shipped,upi,2026-06,36-50
+AHR01810,kritika kumar,26.0,pune,corporate professionals,8am,ready to mix sattu,1,99,99,2026-02-10,delivered,upi,2026-02,26-35
+AHR01124,vishal das,43.0,bangalore,homemakers,4pm,black pepper makhana,1,149,149,2026-03-22,delivered,upi,2026-03,36-50
+AHR02133,karan malhotra,30.0,bangalore,corporate professionals,4pm,phool makhana,2,129,258,2026-10-21,delivered,upi,2026-10,26-35
+AHR02384,neha gupta,23.0,bangalore,students,8am,phool makhana,1,129,129,2026-05-20,delivered,credit card,2026-05,18-25
+AHR01423,meera joshi,29.0,delhi,athletes,8am,phool makhana,2,129,258,2026-09-28,delivered,upi,2026-09,26-35
+AHR02064,sunita rao,29.0,delhi ncr,athletes,8am,phool makhana,3,129,387,2026-03-20,delivered,upi,2026-03,26-35
+AHR02122,raj pandey,20.0,mumbai,athletes,8am,mint makhana,1,149,149,2026-08-12,delivered,wallet,2026-08,18-25
+AHR02027,arun mishra,29.0,delhi ncr,corporate professionals,4pm,peri peri makhana,1,149,149,2026-05-13,delivered,upi,2026-05,26-35
+AHR02449,rekha patel,34.0,delhi,corporate professionals,8am,phool makhana,1,129,129,2026-06-19,delivered,upi,2026-06,26-35
+AHR01985,nisha gupta,22.0,mumbai,athletes,8am,ready to mix sattu,1,99,99,2026-04-05,delivered,upi,2026-04,18-25
+AHR02260,sneha das,40.0,mumbai,corporate professionals,4pm,ready to mix sattu,2,99,198,2026-07-08,delivered,upi,2026-07,36-50
+AHR01240,nikhil mehta,30.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-01-01,shipped,credit card,2026-01,26-35
+AHR01368,rahul bose,27.0,delhi,corporate professionals,4pm,black pepper makhana,1,149,149,2026-04-03,delivered,credit card,2026-04,26-35
+AHR01482,priya pandey,25.0,bangalore,corporate professionals,4pm,peri peri makhana,3,149,447,2026-10-27,delivered,wallet,2026-10,18-25
+AHR01409,vinay singh,32.0,bangalore,corporate professionals,4pm,black pepper makhana,1,149,149,2026-05-28,delivered,upi,2026-05,26-35
+AHR02400,nisha verma,24.0,mumbai,students,4pm,black pepper makhana,1,149,149,2026-01-28,delivered,debit card,2026-01,18-25
+AHR01991,anjali rao,33.0,mumbai,athletes,8am,ready to mix sattu,1,99,99,2026-09-04,delivered,wallet,2026-09,26-35
+AHR02324,priya bose,37.0,delhi,corporate professionals,4pm,peri peri makhana,2,149,298,2026-03-26,delivered,credit card,2026-03,36-50
+AHR01030,suresh kumar,26.0,mumbai,corporate professionals,4pm,peri peri makhana,1,149,149,2026-08-11,delivered,credit card,2026-08,26-35
+AHR02030,gaurav iyer,24.0,delhi,students,8am,ready to mix sattu,2,99,198,2026-05-13,delivered,credit card,2026-05,18-25
+AHR01343,manish das,26.0,bangalore,corporate professionals,8am,ready to mix sattu,2,99,198,2026-07-15,delivered,wallet,2026-07,26-35
+AHR01847,gaurav rao,29.0,bangalore,homemakers,8am,black pepper makhana,1,149,149,2026-09-23,delivered,upi,2026-09,26-35
+AHR01417,deepak iyer,27.0,mumbai,govt exam aspirants,8am,ready to mix sattu,1,99,99,2026-06-28,delivered,upi,2026-06,26-35
+AHR01066,harish verma,39.0,mumbai,corporate professionals,8am,ready to mix sattu,1,99,99,2026-02-25,shipped,upi,2026-02,36-50
+AHR01359,sunita mishra,26.0,mumbai,corporate professionals,4pm,mint makhana,4,149,596,2026-01-19,delivered,upi,2026-01,26-35
+AHR02233,amit iyer,27.0,bangalore,athletes,4pm,black pepper makhana,3,149,447,2026-09-01,delivered,upi,2026-09,26-35
+AHR02259,pooja iyer,25.0,bangalore,corporate professionals,4pm,phool makhana,1,129,129,2026-03-13,delivered,wallet,2026-03,18-25
+AHR02036,madhuri shah,19.0,hyderabad,students,4pm,peri peri makhana,1,149,149,2026-04-04,delivered,credit card,2026-04,18-25
+AHR02175,pallavi pandey,23.0,pune,students,8am,phool makhana,1,129,129,2026-09-02,delivered,upi,2026-09,18-25
+AHR01142,madhuri pillai,24.0,pune,students,4pm,black pepper makhana,3,149,447,2026-10-15,delivered,credit card,2026-10,18-25
+AHR01800,deepak malhotra,25.0,bangalore,athletes,4pm,peri peri makhana,1,149,149,2026-10-26,shipped,credit card,2026-10,18-25
+AHR01951,rohit iyer,29.0,bangalore,athletes,4pm,peri peri makhana,1,149,149,2026-08-29,delivered,wallet,2026-08,26-35
+AHR01515,preeti singh,48.0,bangalore,homemakers,8am,peri peri makhana,1,149,149,2026-07-10,delivered,upi,2026-07,36-50
+AHR01725,rahul joshi,33.0,delhi ncr,corporate professionals,4pm,peri peri makhana,1,149,149,2026-01-06,shipped,upi,2026-01,26-35
+AHR01276,vishal gupta,29.0,hyderabad,corporate professionals,4pm,black pepper makhana,2,149,298,2026-05-21,delivered,upi,2026-05,26-35
+AHR02275,meera reddy,31.0,delhi,corporate professionals,8am,phool makhana,2,129,258,2026-07-30,delivered,credit card,2026-07,26-35
+AHR02108,arun pillai,22.0,mumbai,govt exam aspirants,8am,ready to mix sattu,1,99,99,2026-08-23,delivered,credit card,2026-08,18-25
+AHR01514,deepak rao,20.0,bangalore,athletes,8am,ready to mix sattu,3,99,297,2026-08-13,returned,debit card,2026-08,18-25
+AHR01627,madhuri joshi,31.0,bangalore,corporate professionals,4pm,peri peri makhana,1,149,149,2026-02-16,delivered,credit card,2026-02,26-35
+AHR02139,divya singh,34.0,delhi,homemakers,4pm,black pepper makhana,2,149,298,2026-05-25,delivered,upi,2026-05,26-35
+AHR02044,swati shah,34.0,hyderabad,corporate professionals,4pm,mint makhana,1,149,149,2026-02-25,shipped,upi,2026-02,26-35
+AHR01926,manish iyer,35.0,delhi,athletes,4pm,black pepper makhana,1,149,149,2026-06-03,pending,net banking,2026-06,26-35
+AHR02007,kavya mehta,32.0,bangalore,athletes,4pm,black pepper makhana,1,149,149,2026-08-04,delivered,upi,2026-08,26-35
+AHR01045,anjali kumar,28.0,bangalore,corporate professionals,4pm,mint makhana,2,149,298,2026-04-17,delivered,upi,2026-04,26-35
+AHR02277,meera joshi,30.0,delhi ncr,athletes,8am,black pepper makhana,3,149,447,2026-05-07,delivered,debit card,2026-05,26-35
+AHR01271,sunita bose,27.0,pune,athletes,4pm,phool makhana,3,129,387,2026-01-16,cancelled,net banking,2026-01,26-35
+AHR01406,akash patel,38.0,bangalore,corporate professionals,4pm,phool makhana,1,129,129,2026-10-30,shipped,upi,2026-10,36-50
+AHR02090,pooja chopra,32.0,pune,corporate professionals,8am,phool makhana,2,129,258,2026-07-11,delivered,credit card,2026-07,26-35
+AHR01116,sneha mehta,23.0,bangalore,students,4pm,phool makhana,3,129,387,2026-07-04,shipped,upi,2026-07,18-25
+AHR02058,karan pandey,21.0,pune,athletes,4pm,ready to mix sattu,4,99,396,2026-07-11,delivered,upi,2026-07,18-25
+AHR02001,vinay verma,20.0,mumbai,students,4pm,black pepper makhana,3,149,447,2026-07-15,delivered,debit card,2026-07,18-25
+AHR01793,arjun shah,25.0,delhi,athletes,4pm,peri peri makhana,1,149,149,2026-03-04,delivered,upi,2026-03,18-25
+AHR01528,preeti das,21.0,mumbai,students,8am,ready to mix sattu,2,99,198,2026-07-26,delivered,credit card,2026-07,18-25
+AHR01433,sunita kumar,24.0,bangalore,athletes,4pm,mint makhana,1,149,149,2026-04-02,delivered,credit card,2026-04,18-25
+AHR01894,ravi singh,29.0,hyderabad,corporate professionals,8am,phool makhana,1,129,129,2026-09-11,delivered,credit card,2026-09,26-35
+AHR02197,sunita rao,21.0,delhi,students,8am,peri peri makhana,1,149,149,2026-07-26,delivered,net banking,2026-07,18-25
+AHR01079,preeti sharma,45.0,bangalore,homemakers,8am,mint makhana,1,149,149,2026-02-04,delivered,credit card,2026-02,36-50
+AHR02234,sanjay singh,32.0,hyderabad,homemakers,4pm,peri peri makhana,1,149,149,2026-10-16,delivered,debit card,2026-10,26-35
+AHR01436,rekha patel,30.0,mumbai,corporate professionals,8am,peri peri makhana,1,149,149,2026-10-13,delivered,debit card,2026-10,26-35
+AHR01937,pallavi mehta,50.0,delhi ncr,homemakers,8am,black pepper makhana,1,149,149,2026-02-13,delivered,credit card,2026-02,36-50
+AHR02081,siddharth singh,33.0,bangalore,corporate professionals,4pm,peri peri makhana,2,149,298,2026-08-25,delivered,credit card,2026-08,26-35
+AHR01630,rahul verma,27.0,bangalore,corporate professionals,4pm,black pepper makhana,2,149,298,2026-09-04,delivered,upi,2026-09,26-35
+AHR02043,rohit shah,28.0,mumbai,corporate professionals,4pm,mint makhana,1,149,149,2026-02-03,shipped,credit card,2026-02,26-35
+AHR01016,shreya verma,33.0,bangalore,athletes,4pm,ready to mix sattu,3,99,297,2026-03-22,delivered,upi,2026-03,26-35
+AHR02118,akash joshi,39.0,mumbai,homemakers,4pm,black pepper makhana,3,149,447,2026-07-18,shipped,debit card,2026-07,36-50
+AHR02028,arun joshi,34.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-05-30,delivered,debit card,2026-05,26-35
+AHR01176,smita rao,33.0,mumbai,corporate professionals,4pm,mint makhana,1,149,149,2026-03-26,delivered,credit card,2026-03,26-35
+AHR01987,siddharth shah,29.0,mumbai,corporate professionals,4pm,mint makhana,1,149,149,2026-05-05,shipped,upi,2026-05,26-35
+AHR02312,siddharth kumar,37.0,mumbai,corporate professionals,4pm,mint makhana,2,149,298,2026-09-17,delivered,wallet,2026-09,36-50
+AHR01866,sanjay bose,49.0,bangalore,homemakers,4pm,mint makhana,1,149,149,2026-10-07,pending,upi,2026-10,36-50
+AHR01507,harish mehta,40.0,delhi,corporate professionals,4pm,phool makhana,1,129,129,2026-04-17,delivered,debit card,2026-04,36-50
+AHR01941,pallavi iyer,20.0,mumbai,govt exam aspirants,4pm,phool makhana,2,129,258,2026-02-25,delivered,credit card,2026-02,18-25
+AHR01366,anjali pandey,22.0,bangalore,athletes,4pm,mint makhana,1,149,149,2026-09-07,delivered,upi,2026-09,18-25
+AHR01549,sunita verma,30.0,bangalore,athletes,4pm,black pepper makhana,4,149,596,2026-08-10,delivered,credit card,2026-08,26-35
+AHR01204,divya reddy,38.0,delhi,homemakers,4pm,black pepper makhana,2,149,298,2026-01-22,pending,upi,2026-01,36-50
+AHR01781,smita singh,31.0,mumbai,homemakers,4pm,mint makhana,1,149,149,2026-02-20,returned,debit card,2026-02,26-35
+AHR02221,priya malhotra,40.0,bangalore,corporate professionals,4pm,mint makhana,1,149,149,2026-07-22,delivered,debit card,2026-07,36-50
+AHR02297,pooja joshi,28.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-04-11,delivered,upi,2026-04,26-35
+AHR02262,smita bose,39.0,pune,homemakers,8am,ready to mix sattu,2,99,198,2026-04-11,delivered,wallet,2026-04,36-50
+AHR01809,shreya rao,21.0,bangalore,govt exam aspirants,8am,peri peri makhana,2,149,298,2026-06-22,delivered,upi,2026-06,18-25
+AHR01911,rekha mehta,22.0,bangalore,govt exam aspirants,4pm,phool makhana,2,129,258,2026-08-12,delivered,upi,2026-08,18-25
+AHR02388,unknown,33.0,delhi ncr,corporate professionals,8am,ready to mix sattu,1,99,99,2026-01-06,cancelled,upi,2026-01,26-35
+AHR01185,shreya rao,28.0,delhi ncr,corporate professionals,4pm,mint makhana,2,149,298,2026-06-29,delivered,debit card,2026-06,26-35
+AHR02465,meera bose,29.0,delhi,corporate professionals,8am,phool makhana,3,129,387,2026-07-26,shipped,upi,2026-07,26-35
+AHR01480,suresh iyer,21.0,bangalore,students,8am,ready to mix sattu,1,99,99,2026-08-28,delivered,wallet,2026-08,18-25
+AHR01057,preeti kumar,31.0,pune,athletes,8am,phool makhana,3,129,387,2026-04-01,delivered,upi,2026-04,26-35
+AHR02146,sunita das,37.0,bangalore,corporate professionals,4pm,black pepper makhana,4,149,596,2026-07-19,shipped,upi,2026-07,36-50
+AHR01487,siddharth patel,34.0,mumbai,corporate professionals,4pm,phool makhana,1,129,129,2026-04-17,delivered,debit card,2026-04,26-35
+AHR01384,rohit nair,27.0,delhi,corporate professionals,4pm,black pepper makhana,2,149,298,2026-10-22,shipped,debit card,2026-10,26-35
+AHR01044,arun mehta,31.0,delhi ncr,homemakers,8am,ready to mix sattu,1,99,99,2026-04-14,delivered,debit card,2026-04,26-35
+AHR01533,raj patel,30.0,bangalore,homemakers,4pm,peri peri makhana,3,149,447,2026-09-08,delivered,credit card,2026-09,26-35
+AHR01756,karan shah,35.0,bangalore,corporate professionals,4pm,ready to mix sattu,1,99,99,2026-05-25,cancelled,credit card,2026-05,26-35
+AHR02183,sanjay kumar,36.0,mumbai,homemakers,4pm,black pepper makhana,1,149,149,2026-06-25,delivered,upi,2026-06,36-50
+AHR01597,lavanya nair,38.0,delhi ncr,homemakers,8am,mint makhana,2,149,298,2026-01-17,cancelled,upi,2026-01,36-50
+AHR01102,siddharth kumar,39.0,delhi,corporate professionals,4pm,peri peri makhana,4,149,596,2026-06-25,delivered,credit card,2026-06,36-50
+AHR01552,unknown,27.0,delhi,corporate professionals,4pm,black pepper makhana,2,149,298,2026-10-03,delivered,net banking,2026-10,26-35
+AHR01579,pallavi bose,32.0,mumbai,athletes,8am,ready to mix sattu,3,99,297,2026-02-21,delivered,credit card,2026-02,26-35
+AHR01108,vinay mishra,22.0,mumbai,govt exam aspirants,8am,ready to mix sattu,3,99,297,2026-07-26,delivered,upi,2026-07,18-25
+AHR02290,pallavi reddy,31.0,delhi,corporate professionals,4pm,black pepper makhana,2,149,298,2026-07-13,delivered,upi,2026-07,26-35
+AHR02069,lavanya malhotra,27.0,bangalore,corporate professionals,4pm,black pepper makhana,1,149,149,2026-06-12,delivered,upi,2026-06,26-35
+AHR01221,rohit singh,29.0,bangalore,corporate professionals,4pm,phool makhana,1,129,129,2026-10-04,cancelled,credit card,2026-10,26-35
+AHR01944,pallavi mehta,38.0,bangalore,corporate professionals,8am,black pepper makhana,3,149,447,2026-01-19,delivered,credit card,2026-01,36-50
+AHR01452,neha nair,33.0,delhi,corporate professionals,4pm,ready to mix sattu,1,99,99,2026-03-11,delivered,debit card,2026-03,26-35
+AHR02497,manish iyer,25.0,bangalore,govt exam aspirants,8am,phool makhana,1,129,129,2026-10-29,delivered,credit card,2026-10,18-25
+AHR01887,deepak pillai,33.0,pune,athletes,8am,phool makhana,1,129,129,2026-10-30,delivered,upi,2026-10,26-35
+AHR01723,siddharth mehta,23.0,delhi,govt exam aspirants,8am,ready to mix sattu,3,99,297,2026-01-27,delivered,upi,2026-01,18-25
+AHR01129,preeti pillai,35.0,mumbai,homemakers,4pm,black pepper makhana,1,149,149,2026-08-20,delivered,debit card,2026-08,26-35
+AHR01333,anita gupta,22.0,bangalore,athletes,4pm,phool makhana,2,129,258,2026-08-27,delivered,credit card,2026-08,18-25
+AHR01298,nisha mehta,31.0,pune,corporate professionals,8am,ready to mix sattu,1,99,99,2026-08-27,delivered,upi,2026-08,26-35
+AHR02462,anita rao,21.0,mumbai,govt exam aspirants,4pm,ready to mix sattu,1,99,99,2026-09-28,delivered,credit card,2026-09,18-25
+AHR01705,nikhil iyer,28.0,mumbai,homemakers,4pm,mint makhana,3,149,447,2026-07-19,delivered,wallet,2026-07,26-35
+AHR01679,smita reddy,21.0,delhi ncr,athletes,4pm,mint makhana,2,149,298,2026-04-18,delivered,credit card,2026-04,18-25
+AHR01245,suresh joshi,29.0,hyderabad,homemakers,4pm,black pepper makhana,1,149,149,2026-08-01,shipped,debit card,2026-08,26-35
+AHR01184,amit sharma,20.0,delhi,govt exam aspirants,4pm,ready to mix sattu,3,99,297,2026-08-09,delivered,upi,2026-08,18-25
+AHR01662,sanjay chopra,38.0,bangalore,homemakers,4pm,black pepper makhana,1,149,149,2026-05-30,delivered,upi,2026-05,36-50
+AHR01845,neha gupta,28.0,delhi,homemakers,8am,ready to mix sattu,1,99,99,2026-07-30,delivered,net banking,2026-07,26-35
+AHR01707,pallavi malhotra,33.0,mumbai,corporate professionals,4pm,black pepper makhana,1,149,149,2026-03-20,shipped,upi,2026-03,26-35
+AHR02168,rahul verma,25.0,bangalore,corporate professionals,4pm,peri peri makhana,1,149,149,2026-09-22,delivered,net banking,2026-09,18-25
+AHR01232,rekha kumar,23.0,hyderabad,athletes,8am,phool makhana,1,129,129,2026-01-18,delivered,debit card,2026-01,18-25
+AHR01033,sunita shah,25.0,bangalore,athletes,4pm,ready to mix sattu,1,99,99,2026-07-04,delivered,net banking,2026-07,18-25
+AHR02198,gaurav chopra,24.0,bangalore,athletes,8am,phool makhana,3,129,387,2026-06-12,delivered,net banking,2026-06,18-25
+AHR01495,deepak joshi,30.0,bangalore,corporate professionals,4pm,peri peri makhana,2,149,298,2026-08-19,delivered,upi,2026-08,26-35
+AHR01599,nisha chopra,30.0,mumbai,corporate professionals,8am,phool makhana,2,129,258,2026-06-05,delivered,upi,2026-06,26-35
+AHR02289,arun joshi,39.0,pune,corporate professionals,4pm,mint makhana,1,149,149,2026-09-13,delivered,upi,2026-09,36-50
+AHR02182,meera nair,21.0,delhi ncr,students,8am,phool makhana,1,129,129,2026-01-19,delivered,upi,2026-01,18-25
+AHR01351,divya bose,38.0,bangalore,corporate professionals,4pm,black pepper makhana,1,149,149,2026-09-09,delivered,credit card,2026-09,36-50
+AHR01990,karan das,30.0,delhi,homemakers,4pm,black pepper makhana,1,149,149,2026-04-07,delivered,upi,2026-04,26-35
+AHR02152,sunita verma,22.0,bangalore,students,4pm,phool makhana,4,129,516,2026-10-12,pending,upi,2026-10,18-25
+AHR01965,ravi nair,29.0,mumbai,corporate professionals,4pm,black pepper makhana,3,149,447,2026-01-20,delivered,credit card,2026-01,26-35
+AHR02311,nikhil rao,40.0,delhi ncr,corporate professionals,4pm,peri peri makhana,1,149,149,2026-09-22,delivered,net banking,2026-09,36-50
+AHR01412,neha nair,36.0,bangalore,corporate professionals,4pm,mint makhana,1,149,149,2026-07-04,delivered,net banking,2026-07,36-50
+AHR01164,harish joshi,20.0,delhi,students,8am,ready to mix sattu,1,99,99,2026-09-06,delivered,credit card,2026-09,18-25
+AHR01904,gaurav mehta,26.0,delhi ncr,govt exam aspirants,8am,ready to mix sattu,4,99,396,2026-05-04,delivered,wallet,2026-05,26-35
+AHR01498,anjali chopra,20.0,delhi ncr,govt exam aspirants,4pm,black pepper makhana,1,149,149,2026-03-11,delivered,upi,2026-03,18-25
+AHR01307,ravi pandey,24.0,mumbai,students,4pm,mint makhana,1,149,149,2026-09-05,shipped,credit card,2026-09,18-25
+AHR01434,siddharth verma,35.0,mumbai,athletes,4pm,black pepper makhana,2,149,298,2026-09-10,shipped,upi,2026-09,26-35
+AHR01670,rekha reddy,27.0,bangalore,corporate professionals,8am,mint makhana,1,149,149,2026-07-12,shipped,wallet,2026-07,26-35
+AHR01600,anita rao,22.0,bangalore,athletes,4pm,peri peri makhana,1,149,149,2026-07-17,delivered,upi,2026-07,18-25
+AHR01372,kavya pillai,25.0,mumbai,corporate professionals,4pm,black pepper makhana,1,149,149,2026-01-27,cancelled,upi,2026-01,18-25
+AHR02422,preeti mishra,37.0,bangalore,homemakers,4pm,black pepper makhana,1,149,149,2026-06-07,delivered,upi,2026-06,36-50
+AHR02213,deepak iyer,35.0,bangalore,corporate professionals,4pm,peri peri makhana,2,149,298,2026-10-12,delivered,upi,2026-10,26-35
+AHR02085,pooja nair,20.0,delhi,students,8am,phool makhana,3,129,387,2026-06-22,returned,upi,2026-06,18-25
+AHR01193,smita rao,26.0,delhi,athletes,4pm,mint makhana,3,149,447,2026-03-31,delivered,upi,2026-03,26-35
+AHR02111,anita mishra,35.0,delhi,corporate professionals,4pm,peri peri makhana,1,149,149,2026-05-16,pending,upi,2026-05,26-35
+AHR02098,arun gupta,21.0,bangalore,govt exam aspirants,4pm,peri peri makhana,1,149,149,2026-01-21,delivered,net banking,2026-01,18-25
+AHR01927,amit shah,29.0,mumbai,athletes,4pm,mint makhana,1,149,149,2026-04-23,delivered,net banking,2026-04,26-35
+AHR01064,rohit das,35.0,pune,athletes,4pm,peri peri makhana,1,149,149,2026-04-24,delivered,upi,2026-04,26-35
+AHR01708,arun mishra,21.0,delhi ncr,govt exam aspirants,4pm,peri peri makhana,3,149,447,2026-04-12,delivered,debit card,2026-04,18-25
+AHR02147,kritika pillai,23.0,bangalore,students,8am,black pepper makhana,3,149,447,2026-08-05,delivered,debit card,2026-08,18-25
+AHR02204,meera mishra,33.0,bangalore,athletes,4pm,phool makhana,1,129,129,2026-08-31,delivered,upi,2026-08,26-35
+AHR01940,vishal shah,27.0,bangalore,athletes,4pm,peri peri makhana,1,149,149,2026-07-28,delivered,upi,2026-07,26-35
+AHR01909,shreya verma,37.0,bangalore,corporate professionals,8am,peri peri makhana,2,149,298,2026-07-18,cancelled,upi,2026-07,36-50
+AHR01275,rekha das,33.0,mumbai,athletes,4pm,peri peri makhana,1,149,149,2026-03-16,shipped,debit card,2026-03,26-35
+AHR02376,anjali rao,20.0,mumbai,govt exam aspirants,8am,ready to mix sattu,1,99,99,2026-03-23,delivered,net banking,2026-03,18-25
+AHR01669,raj reddy,18.0,bangalore,students,4pm,black pepper makhana,2,149,298,2026-03-18,delivered,upi,2026-03,18-25
+AHR02378,deepak reddy,36.0,mumbai,homemakers,8am,peri peri makhana,1,149,149,2026-04-25,delivered,credit card,2026-04,36-50
+AHR01199,manish das,20.0,delhi ncr,govt exam aspirants,4pm,black pepper makhana,2,149,298,2026-08-23,delivered,net banking,2026-08,18-25
+AHR01454,priya verma,22.0,delhi,govt exam aspirants,4pm,mint makhana,1,149,149,2026-02-16,delivered,debit card,2026-02,18-25
+AHR01340,raj malhotra,27.0,hyderabad,govt exam aspirants,4pm,black pepper makhana,3,149,447,2026-07-31,shipped,upi,2026-07,26-35
+AHR02037,sneha singh,22.0,bangalore,athletes,8am,phool makhana,1,129,129,2026-05-23,delivered,upi,2026-05,18-25
+AHR01890,priya shah,28.0,delhi ncr,govt exam aspirants,8am,ready to mix sattu,2,99,198,2026-05-21,delivered,upi,2026-05,26-35
+AHR01272,smita pandey,41.0,bangalore,homemakers,4pm,ready to mix sattu,1,99,99,2026-04-27,delivered,credit card,2026-04,36-50
+AHR01577,divya joshi,30.0,bangalore,govt exam aspirants,8am,ready to mix sattu,1,99,99,2026-02-28,delivered,upi,2026-02,26-35
+AHR01219,anita verma,30.0,bangalore,homemakers,4pm,ready to mix sattu,1,99,99,2026-02-12,delivered,credit card,2026-02,26-35
+AHR01797,sneha reddy,26.0,bangalore,athletes,4pm,peri peri makhana,1,149,149,2026-01-12,delivered,debit card,2026-01,26-35
+AHR02237,siddharth das,21.0,hyderabad,students,4pm,black pepper makhana,4,149,596,2026-01-23,pending,debit card,2026-01,18-25
+AHR01428,rahul chopra,23.0,bangalore,students,4pm,mint makhana,2,149,298,2026-04-02,delivered,credit card,2026-04,18-25
+AHR01352,anjali pandey,34.0,bangalore,athletes,4pm,black pepper makhana,1,149,149,2026-02-07,delivered,debit card,2026-02,26-35
+AHR02031,preeti malhotra,36.0,hyderabad,corporate professionals,4pm,peri peri makhana,1,149,149,2026-03-21,delivered,credit card,2026-03,36-50
+AHR02263,ravi mehta,29.0,delhi,corporate professionals,4pm,black pepper makhana,2,149,298,2026-03-01,delivered,upi,2026-03,26-35
+AHR01325,karan sharma,26.0,pune,govt exam aspirants,4pm,phool makhana,4,129,516,2026-10-26,delivered,wallet,2026-10,26-35
+AHR01414,nikhil pandey,22.0,delhi,govt exam aspirants,4pm,black pepper makhana,1,149,149,2026-07-05,delivered,credit card,2026-07,18-25
+AHR02336,neha singh,29.0,delhi ncr,govt exam aspirants,8am,phool makhana,2,129,258,2026-08-05,delivered,wallet,2026-08,26-35
+AHR02041,rahul patel,34.0,hyderabad,corporate professionals,8am,ready to mix sattu,2,99,198,2026-06-18,delivered,credit card,2026-06,26-35
+AHR01695,sanjay verma,34.0,bangalore,athletes,4pm,black pepper makhana,3,149,447,2026-09-28,delivered,upi,2026-09,26-35
+AHR02094,ravi bose,37.0,mumbai,corporate professionals,4pm,phool makhana,4,129,516,2026-07-20,shipped,credit card,2026-07,36-50
+AHR02484,deepak sharma,30.0,delhi,athletes,4pm,phool makhana,4,129,516,2026-03-06,pending,upi,2026-03,26-35
+AHR02156,divya pandey,23.0,pune,students,8am,phool makhana,2,129,258,2026-04-26,delivered,upi,2026-04,18-25
+AHR01290,nikhil reddy,21.0,hyderabad,students,4pm,ready to mix sattu,1,99,99,2026-09-13,delivered,upi,2026-09,18-25
+AHR02170,sneha patel,26.0,bangalore,corporate professionals,8am,black pepper makhana,2,149,298,2026-09-07,delivered,net banking,2026-09,26-35
+AHR02423,kavya reddy,28.0,delhi,govt exam aspirants,4pm,phool makhana,1,129,129,2026-04-26,shipped,upi,2026-04,26-35
+AHR02006,nisha pillai,35.0,delhi,corporate professionals,4pm,black pepper makhana,2,149,298,2026-02-19,delivered,upi,2026-02,26-35
+AHR02005,harish malhotra,21.0,delhi,students,8am,ready to mix sattu,1,99,99,2026-01-03,delivered,upi,2026-01,18-25
+AHR01619,karan patel,30.0,mumbai,athletes,4pm,peri peri makhana,2,149,298,2026-10-19,delivered,wallet,2026-10,26-35
+AHR01998,shreya mishra,18.0,delhi,students,8am,ready to mix sattu,1,99,99,2026-01-19,delivered,upi,2026-01,18-25
+AHR01278,rohit nair,35.0,mumbai,athletes,4pm,mint makhana,2,149,298,2026-07-11,delivered,upi,2026-07,26-35
+AHR02190,harish rao,22.0,pune,students,8am,ready to mix sattu,1,99,99,2026-04-12,delivered,net banking,2026-04,18-25
+AHR01862,lavanya sharma,33.0,bangalore,athletes,4pm,black pepper makhana,1,149,149,2026-03-31,shipped,upi,2026-03,26-35
+AHR01237,arun mehta,36.0,bangalore,corporate professionals,8am,peri peri makhana,1,149,149,2026-09-07,delivered,wallet,2026-09,36-50
+AHR01615,pallavi patel,24.0,bangalore,students,8am,ready to mix sattu,3,99,297,2026-02-02,delivered,net banking,2026-02,18-25
+AHR02331,anjali mehta,35.0,hyderabad,corporate professionals,4pm,black pepper makhana,1,149,149,2026-05-01,shipped,debit card,2026-05,26-35
+AHR02476,shreya das,32.0,bangalore,corporate professionals,4pm,mint makhana,2,149,298,2026-08-13,delivered,upi,2026-08,26-35
+AHR02398,deepak gupta,33.0,hyderabad,homemakers,8am,phool makhana,2,129,258,2026-10-18,delivered,upi,2026-10,26-35
+AHR02303,preeti iyer,24.0,delhi ncr,athletes,4pm,mint makhana,1,149,149,2026-07-28,delivered,net banking,2026-07,18-25
+AHR01209,siddharth joshi,35.0,mumbai,homemakers,8am,ready to mix sattu,1,99,99,2026-10-20,delivered,credit card,2026-10,26-35
+AHR01381,smita reddy,27.0,mumbai,corporate professionals,4pm,ready to mix sattu,2,99,198,2026-04-22,delivered,upi,2026-04,26-35
+AHR02248,smita mishra,25.0,delhi ncr,corporate professionals,4pm,peri peri makhana,1,149,149,2026-02-19,cancelled,upi,2026-02,18-25
+AHR01939,sanjay rao,23.0,bangalore,athletes,8am,ready to mix sattu,2,99,198,2026-01-12,delivered,upi,2026-01,18-25
+AHR01059,pooja gupta,40.0,pune,corporate professionals,8am,peri peri makhana,1,149,149,2026-04-30,delivered,upi,2026-04,36-50
+AHR01383,anjali malhotra,35.0,pune,corporate professionals,4pm,mint makhana,1,149,149,2026-01-01,pending,upi,2026-01,26-35
+AHR01375,suresh nair,23.0,delhi,students,8am,ready to mix sattu,2,99,198,2026-04-02,delivered,upi,2026-04,18-25
+AHR01430,akash malhotra,27.0,bangalore,govt exam aspirants,8am,mint makhana,4,149,596,2026-03-04,delivered,upi,2026-03,26-35
+AHR01995,madhuri mishra,27.0,mumbai,corporate professionals,8am,phool makhana,4,129,516,2026-09-30,shipped,net banking,2026-09,26-35
+AHR02226,manish rao,50.0,bangalore,homemakers,4pm,phool makhana,1,129,129,2026-10-19,shipped,upi,2026-10,36-50
+AHR01742,anita mehta,35.0,delhi,athletes,8am,phool makhana,3,129,387,2026-07-16,delivered,upi,2026-07,26-35
+AHR02236,swati iyer,24.0,delhi,govt exam aspirants,4pm,black pepper makhana,2,149,298,2026-04-14,shipped,upi,2026-04,18-25
+AHR01362,preeti reddy,24.0,bangalore,students,8am,phool makhana,1,129,129,2026-03-29,shipped,upi,2026-03,18-25
+AHR02080,madhuri mishra,28.0,bangalore,corporate professionals,4pm,peri peri makhana,2,149,298,2026-02-18,delivered,upi,2026-02,26-35
+AHR01465,nikhil pillai,18.0,delhi,students,8am,mint makhana,1,149,149,2026-04-13,delivered,upi,2026-04,18-25
+AHR01583,shreya patel,40.0,pune,corporate professionals,8am,ready to mix sattu,2,99,198,2026-05-24,pending,net banking,2026-05,36-50
+AHR02179,sanjay shah,28.0,bangalore,homemakers,8am,ready to mix sattu,3,99,297,2026-04-09,delivered,wallet,2026-04,26-35
+AHR01842,pallavi das,25.0,mumbai,govt exam aspirants,8am,ready to mix sattu,1,99,99,2026-06-09,delivered,upi,2026-06,18-25
+AHR02068,arjun mehta,28.0,mumbai,corporate professionals,8am,ready to mix sattu,1,99,99,2026-03-05,delivered,upi,2026-03,26-35
+AHR01234,arun patel,38.0,delhi,corporate professionals,4pm,peri peri makhana,3,149,447,2026-04-22,returned,upi,2026-04,36-50
+AHR02432,vikram chopra,22.0,delhi,students,4pm,peri peri makhana,2,149,298,2026-09-12,delivered,upi,2026-09,18-25
+AHR01197,manish joshi,41.0,mumbai,homemakers,8am,phool makhana,1,129,129,2026-07-26,delivered,upi,2026-07,36-50
+AHR01665,rekha iyer,31.0,hyderabad,homemakers,8am,peri peri makhana,1,149,149,2026-04-10,delivered,credit card,2026-04,26-35
+AHR02288,raj pillai,31.0,mumbai,corporate professionals,8am,phool makhana,3,129,387,2026-07-14,delivered,debit card,2026-07,26-35
+AHR01082,sneha nair,36.0,pune,homemakers,4pm,peri peri makhana,2,149,298,2026-10-20,delivered,upi,2026-10,36-50
+AHR02434,nisha nair,29.235449735449734,bangalore,students,8am,ready to mix sattu,1,99,99,2026-09-27,delivered,credit card,2026-09,26-35
+AHR01999,amit sharma,33.0,delhi,corporate professionals,8am,peri peri makhana,1,149,149,2026-03-16,delivered,upi,2026-03,26-35
+AHR02430,sunita joshi,22.0,bangalore,govt exam aspirants,4pm,black pepper makhana,2,149,298,2026-09-26,pending,upi,2026-09,18-25
+AHR01112,raj chopra,43.0,delhi,homemakers,8am,phool makhana,2,129,258,2026-03-02,delivered,debit card,2026-03,36-50
+AHR02305,arjun rao,29.0,mumbai,corporate professionals,8am,ready to mix sattu,2,99,198,2026-03-17,delivered,credit card,2026-03,26-35
+AHR01807,neha malhotra,30.0,mumbai,corporate professionals,8am,phool makhana,1,129,129,2026-05-21,delivered,upi,2026-05,26-35
+AHR02014,pooja reddy,27.0,mumbai,athletes,8am,ready to mix sattu,1,99,99,2026-06-12,delivered,credit card,2026-06,26-35
+AHR02441,nikhil das,25.0,mumbai,athletes,8am,ready to mix sattu,1,99,99,2026-06-24,delivered,debit card,2026-06,18-25
+AHR02294,rohit das,20.0,pune,govt exam aspirants,8am,phool makhana,1,129,129,2026-03-23,delivered,credit card,2026-03,18-25
+AHR01675,rekha patel,33.0,bangalore,homemakers,4pm,black pepper makhana,2,149,298,2026-04-17,returned,net banking,2026-04,26-35
+AHR01311,neha chopra,44.0,delhi,homemakers,4pm,peri peri makhana,1,149,149,2026-02-28,delivered,credit card,2026-02,36-50
+AHR01612,amit shah,20.0,bangalore,students,4pm,peri peri makhana,2,149,298,2026-01-06,delivered,upi,2026-01,18-25
+AHR01923,nisha iyer,24.0,bangalore,athletes,8am,ready to mix sattu,1,99,99,2026-04-23,delivered,upi,2026-04,18-25
+AHR01918,rekha pandey,25.0,bangalore,govt exam aspirants,4pm,mint makhana,2,149,298,2026-01-04,delivered,debit card,2026-01,18-25
+AHR01846,anjali iyer,34.0,hyderabad,corporate professionals,4pm,black pepper makhana,1,149,149,2026-05-05,delivered,upi,2026-05,26-35
+AHR02134,arun malhotra,24.0,delhi,govt exam aspirants,8am,mint makhana,3,149,447,2026-03-03,shipped,upi,2026-03,18-25
+AHR01620,sunita kumar,30.0,hyderabad,athletes,4pm,phool makhana,2,129,258,2026-06-20,delivered,debit card,2026-06,26-35
+AHR01367,unknown,28.0,delhi ncr,athletes,8am,black pepper makhana,2,149,298,2026-09-01,delivered,upi,2026-09,26-35
+AHR02278,anita pillai,30.0,bangalore,athletes,4pm,peri peri makhana,1,149,149,2026-05-19,cancelled,upi,2026-05,26-35
+AHR02243,arun nair,23.0,pune,athletes,4pm,black pepper makhana,3,149,447,2026-07-22,delivered,upi,2026-07,18-25
+AHR01426,divya das,21.0,bangalore,students,8am,phool makhana,2,129,258,2026-10-13,shipped,upi,2026-10,18-25
+AHR01882,neha bose,40.0,pune,corporate professionals,4pm,peri peri makhana,2,149,298,2026-02-23,delivered,net banking,2026-02,36-50
+AHR01830,suresh iyer,30.0,pune,corporate professionals,8am,ready to mix sattu,2,99,198,2026-05-29,shipped,credit card,2026-05,26-35
+AHR02354,swati kumar,41.0,bangalore,homemakers,4pm,mint makhana,3,149,447,2026-06-29,delivered,net banking,2026-06,36-50
+AHR02404,nikhil malhotra,22.0,bangalore,athletes,4pm,ready to mix sattu,1,99,99,2026-08-15,delivered,debit card,2026-08,18-25
+AHR01650,akash mehta,27.0,bangalore,corporate professionals,8am,phool makhana,1,129,129,2026-08-16,delivered,upi,2026-08,26-35
+AHR01589,rohit das,27.0,pune,corporate professionals,8am,ready to mix sattu,1,99,99,2026-02-08,delivered,upi,2026-02,26-35
+AHR02210,suresh chopra,31.0,pune,corporate professionals,8am,ready to mix sattu,1,99,99,2026-06-10,delivered,credit card,2026-06,26-35
+AHR02431,vishal malhotra,22.0,bangalore,students,4pm,mint makhana,1,149,149,2026-08-01,delivered,upi,2026-08,18-25
+AHR01783,karan reddy,35.0,pune,athletes,4pm,peri peri makhana,2,149,298,2026-10-10,delivered,upi,2026-10,26-35
+AHR02310,sneha sharma,30.0,bangalore,athletes,8am,ready to mix sattu,1,99,99,2026-09-24,delivered,upi,2026-09,26-35
+AHR01255,nisha nair,22.0,pune,athletes,4pm,ready to mix sattu,2,99,198,2026-01-20,shipped,credit card,2026-01,18-25
+AHR01323,vikram singh,42.0,bangalore,homemakers,4pm,phool makhana,2,129,258,2026-01-01,shipped,credit card,2026-01,36-50
+AHR02115,amit malhotra,24.0,pune,athletes,4pm,phool makhana,1,129,129,2026-04-26,delivered,upi,2026-04,18-25
+AHR01429,vishal pandey,30.0,bangalore,corporate professionals,4pm,ready to mix sattu,1,99,99,2026-07-25,delivered,wallet,2026-07,26-35
+AHR01576,arun chopra,37.0,delhi ncr,corporate professionals,8am,peri peri makhana,2,149,298,2026-06-19,shipped,upi,2026-06,36-50
+AHR02076,anita chopra,21.0,delhi,students,8am,ready to mix sattu,1,99,99,2026-03-15,cancelled,upi,2026-03,18-25
+AHR01870,sneha nair,34.0,hyderabad,corporate professionals,4pm,ready to mix sattu,3,99,297,2026-05-28,delivered,credit card,2026-05,26-35
+AHR01355,madhuri verma,27.0,bangalore,corporate professionals,4pm,peri peri makhana,1,149,149,2026-01-29,delivered,wallet,2026-01,26-35
+AHR01444,sunita malhotra,34.0,bangalore,corporate professionals,4pm,peri peri makhana,2,149,298,2026-02-08,pending,credit card,2026-02,26-35
+AHR01087,akash das,26.0,bangalore,athletes,8am,phool makhana,2,129,258,2026-10-19,delivered,upi,2026-10,26-35
+AHR02451,rohit nair,22.0,bangalore,students,4pm,mint makhana,2,149,298,2026-01-29,delivered,credit card,2026-01,18-25
+AHR01266,siddharth gupta,24.0,delhi,govt exam aspirants,4pm,black pepper makhana,1,149,149,2026-09-27,delivered,upi,2026-09,18-25
+AHR01288,pooja joshi,19.0,delhi,students,4pm,ready to mix sattu,1,99,99,2026-06-21,delivered,credit card,2026-06,18-25
+AHR02402,vikram gupta,35.0,delhi ncr,corporate professionals,8am,phool makhana,2,129,258,2026-02-07,delivered,credit card,2026-02,26-35
+AHR01439,pooja kumar,25.0,delhi ncr,corporate professionals,8am,mint makhana,1,149,149,2026-07-07,delivered,debit card,2026-07,18-25
+AHR02425,swati shah,31.0,delhi,corporate professionals,8am,mint makhana,4,149,596,2026-05-30,delivered,net banking,2026-05,26-35
+AHR02086,amit mishra,36.0,pune,corporate professionals,4pm,black pepper makhana,2,149,298,2026-06-25,shipped,upi,2026-06,36-50
+AHR01440,sneha gupta,27.0,delhi ncr,athletes,8am,ready to mix sattu,4,99,396,2026-07-30,delivered,credit card,2026-07,26-35
+AHR01757,manish rao,44.0,delhi ncr,homemakers,4pm,black pepper makhana,1,149,149,2026-07-28,pending,credit card,2026-07,36-50
+AHR01222,raj pandey,29.0,hyderabad,athletes,8am,mint makhana,2,149,298,2026-10-16,delivered,credit card,2026-10,26-35
+AHR01114,nikhil iyer,35.0,pune,athletes,4pm,peri peri makhana,1,149,149,2026-02-15,cancelled,debit card,2026-02,26-35
+AHR01591,pallavi verma,45.0,mumbai,homemakers,4pm,peri peri makhana,2,149,298,2026-03-12,returned,debit card,2026-03,36-50
+AHR01602,nisha pillai,23.0,mumbai,students,4pm,phool makhana,1,129,129,2026-04-16,delivered,debit card,2026-04,18-25
+AHR01175,anita patel,25.0,delhi,govt exam aspirants,8am,ready to mix sattu,4,99,396,2026-04-25,delivered,upi,2026-04,18-25
+AHR01553,vishal shah,22.0,delhi,govt exam aspirants,4pm,mint makhana,1,149,149,2026-07-12,shipped,upi,2026-07,18-25
+AHR01382,manish iyer,24.0,bangalore,athletes,8am,peri peri makhana,2,149,298,2026-10-26,delivered,upi,2026-10,18-25
+AHR02201,sunita malhotra,36.0,bangalore,corporate professionals,4pm,mint makhana,3,149,447,2026-03-23,delivered,credit card,2026-03,36-50
+AHR01019,neha mehta,28.0,bangalore,corporate professionals,8am,ready to mix sattu,2,99,198,2026-01-05,delivered,upi,2026-01,26-35
+AHR02191,arjun reddy,32.0,hyderabad,athletes,4pm,ready to mix sattu,1,99,99,2026-06-14,shipped,upi,2026-06,26-35
+AHR01286,ravi rao,30.0,bangalore,corporate professionals,4pm,phool makhana,3,129,387,2026-02-16,delivered,credit card,2026-02,26-35
+AHR02211,divya rao,27.0,hyderabad,athletes,8am,black pepper makhana,2,149,298,2026-04-10,delivered,credit card,2026-04,26-35
+AHR01747,raj nair,22.0,mumbai,athletes,4pm,ready to mix sattu,3,99,297,2026-03-22,delivered,upi,2026-03,18-25
+AHR02222,sunita das,20.0,bangalore,athletes,8am,ready to mix sattu,1,99,99,2026-01-19,delivered,credit card,2026-01,18-25
+AHR01032,deepak verma,22.0,bangalore,students,4pm,peri peri makhana,3,149,447,2026-01-16,delivered,upi,2026-01,18-25
+AHR02162,unknown,40.0,mumbai,homemakers,4pm,phool makhana,1,129,129,2026-05-27,delivered,upi,2026-05,36-50
+AHR01211,nisha nair,21.0,mumbai,students,8am,ready to mix sattu,3,99,297,2026-09-22,delivered,upi,2026-09,18-25
+AHR02000,neha singh,35.0,mumbai,corporate professionals,4pm,phool makhana,3,129,387,2026-09-26,delivered,upi,2026-09,26-35
+AHR01479,smita rao,39.0,delhi,corporate professionals,8am,black pepper makhana,1,149,149,2026-03-19,delivered,net banking,2026-03,36-50
+AHR01766,lavanya reddy,32.0,delhi,athletes,4pm,peri peri makhana,3,149,447,2026-01-05,delivered,upi,2026-01,26-35
+AHR01963,gaurav nair,37.0,bangalore,corporate professionals,8am,phool makhana,2,129,258,2026-01-18,delivered,credit card,2026-01,36-50
+AHR01395,nisha sharma,29.0,bangalore,corporate professionals,4pm,black pepper makhana,1,149,149,2026-10-02,delivered,wallet,2026-10,26-35
+AHR02193,anita joshi,29.0,delhi,homemakers,4pm,peri peri makhana,2,149,298,2026-02-03,delivered,upi,2026-02,26-35
+AHR01189,rahul patel,50.0,mumbai,homemakers,4pm,mint makhana,2,149,298,2026-05-10,returned,credit card,2026-05,36-50
+AHR02176,siddharth nair,36.0,hyderabad,corporate professionals,8am,mint makhana,1,149,149,2026-01-11,returned,net banking,2026-01,36-50
+AHR01967,pallavi das,38.0,mumbai,homemakers,8am,phool makhana,2,129,258,2026-01-09,delivered,credit card,2026-01,36-50
+AHR01635,rahul shah,27.0,pune,athletes,4pm,mint makhana,2,149,298,2026-01-30,delivered,net banking,2026-01,26-35
+AHR01494,smita rao,32.0,mumbai,athletes,4pm,ready to mix sattu,2,99,198,2026-08-25,delivered,upi,2026-08,26-35
+AHR02342,preeti chopra,39.0,bangalore,corporate professionals,8am,mint makhana,2,149,298,2026-08-31,shipped,upi,2026-08,36-50
+AHR01932,arjun sharma,28.0,delhi,homemakers,8am,phool makhana,2,129,258,2026-03-08,delivered,upi,2026-03,26-35
+AHR01084,neha pillai,49.0,hyderabad,homemakers,8am,phool makhana,1,129,129,2026-05-24,pending,net banking,2026-05,36-50
+AHR01694,unknown,31.0,pune,athletes,8am,mint makhana,3,149,447,2026-01-04,delivered,debit card,2026-01,26-35
+AHR01049,sunita rao,30.0,bangalore,homemakers,8am,mint makhana,2,149,298,2026-10-26,delivered,net banking,2026-10,26-35
+AHR02138,divya chopra,28.0,pune,govt exam aspirants,4pm,black pepper makhana,1,149,149,2026-09-24,delivered,credit card,2026-09,26-35
+AHR01156,meera reddy,28.0,pune,govt exam aspirants,8am,peri peri makhana,1,149,149,2026-06-11,delivered,credit card,2026-06,26-35
+AHR01427,vikram gupta,38.0,bangalore,corporate professionals,4pm,peri peri makhana,4,149,596,2026-08-16,delivered,upi,2026-08,36-50
+AHR02164,deepak nair,27.0,pune,govt exam aspirants,8am,mint makhana,1,149,149,2026-07-27,delivered,upi,2026-07,26-35
+AHR01436,rekha patel,30.0,mumbai,corporate professionals,8am,peri peri makhana,1,149,149,2026-10-13,delivered,debit card,2026-10,26-35
+AHR02074,akash sharma,30.0,delhi,corporate professionals,8am,ready to mix sattu,1,99,99,2026-09-23,returned,debit card,2026-09,26-35
+AHR01835,vishal iyer,39.0,hyderabad,homemakers,4pm,phool makhana,1,129,129,2026-09-27,delivered,net banking,2026-09,36-50
+AHR02256,divya das,34.0,pune,corporate professionals,4pm,peri peri makhana,1,149,149,2026-09-22,delivered,net banking,2026-09,26-35
+AHR02494,deepak pandey,29.0,hyderabad,corporate professionals,4pm,peri peri makhana,1,149,149,2026-05-31,delivered,upi,2026-05,26-35
+AHR01536,amit reddy,22.0,mumbai,govt exam aspirants,8am,ready to mix sattu,2,99,198,2026-08-15,shipped,credit card,2026-08,18-25
+AHR01180,unknown,33.0,pune,athletes,4pm,phool makhana,1,129,129,2026-08-30,pending,upi,2026-08,26-35
+AHR01544,lavanya mehta,23.0,mumbai,athletes,8am,ready to mix sattu,2,99,198,2026-01-10,delivered,wallet,2026-01,18-25
+AHR02274,meera pillai,32.0,bangalore,corporate professionals,8am,ready to mix sattu,2,99,198,2026-06-10,cancelled,upi,2026-06,26-35
+AHR01632,harish verma,31.0,mumbai,athletes,8am,ready to mix sattu,1,99,99,2026-03-21,cancelled,upi,2026-03,26-35
+AHR01715,sanjay iyer,18.0,bangalore,students,4pm,black pepper makhana,1,149,149,2026-04-08,delivered,upi,2026-04,18-25
+AHR01844,anita malhotra,35.0,hyderabad,corporate professionals,8am,phool makhana,3,129,387,2026-02-19,delivered,upi,2026-02,26-35
+AHR01364,meera shah,25.0,mumbai,govt exam aspirants,4pm,peri peri makhana,3,149,447,2026-04-20,shipped,credit card,2026-04,18-25
+AHR02202,priya mehta,19.0,hyderabad,students,8am,peri peri makhana,1,149,149,2026-05-01,delivered,upi,2026-05,18-25
+AHR02224,deepak nair,31.0,delhi ncr,corporate professionals,4pm,mint makhana,1,149,149,2026-04-14,shipped,upi,2026-04,26-35
+AHR01347,nikhil pillai,28.0,delhi ncr,corporate professionals,8am,mint makhana,1,149,149,2026-04-22,cancelled,credit card,2026-04,26-35
+AHR01819,raj bose,22.0,delhi,govt exam aspirants,4pm,peri peri makhana,1,149,149,2026-03-20,pending,upi,2026-03,18-25
+AHR01535,nisha sharma,33.0,delhi ncr,athletes,4pm,mint makhana,1,149,149,2026-06-16,delivered,credit card,2026-06,26-35
+AHR01680,anita chopra,29.0,bangalore,corporate professionals,8am,phool makhana,4,129,516,2026-10-10,delivered,upi,2026-10,26-35
+AHR02321,rahul sharma,27.0,mumbai,corporate professionals,8am,peri peri makhana,1,149,149,2026-07-24,delivered,upi,2026-07,26-35
+AHR01608,madhuri rao,38.0,pune,corporate professionals,4pm,peri peri makhana,1,149,149,2026-02-23,delivered,debit card,2026-02,36-50
+AHR02270,deepak pandey,29.0,bangalore,corporate professionals,4pm,ready to mix sattu,2,99,198,2026-08-02,delivered,upi,2026-08,26-35
+AHR01942,vikram mishra,27.0,mumbai,corporate professionals,8am,mint makhana,2,149,298,2026-06-20,delivered,credit card,2026-06,26-35
+AHR01244,rahul malhotra,35.0,delhi,athletes,4pm,peri peri makhana,1,149,149,2026-02-06,delivered,net banking,2026-02,26-35
+AHR02486,anjali kumar,27.0,delhi,corporate professionals,8am,phool makhana,1,129,129,2026-09-20,delivered,upi,2026-09,26-35
+AHR02426,anita mishra,32.0,hyderabad,homemakers,8am,peri peri makhana,2,149,298,2026-03-04,delivered,upi,2026-03,26-35
+AHR01637,arun sharma,37.0,bangalore,corporate professionals,4pm,black pepper makhana,1,149,149,2026-03-01,shipped,credit card,2026-03,36-50
+AHR02129,raj rao,19.0,mumbai,students,8am,black pepper makhana,3,149,447,2026-09-13,delivered,upi,2026-09,18-25
+AHR02186,vikram mishra,24.0,bangalore,students,4pm,black pepper makhana,1,149,149,2026-02-06,delivered,credit card,2026-02,18-25
+AHR02091,meera chopra,32.0,pune,athletes,8am,phool makhana,2,129,258,2026-04-14,delivered,wallet,2026-04,26-35
+AHR02450,rahul patel,35.0,delhi,homemakers,4pm,phool makhana,3,129,387,2026-02-25,delivered,debit card,2026-02,26-35
+AHR01813,pallavi malhotra,28.0,pune,corporate professionals,4pm,phool makhana,3,129,387,2026-01-27,delivered,debit card,2026-01,26-35
+AHR01431,amit nair,32.0,bangalore,athletes,4pm,peri peri makhana,2,149,298,2026-07-24,delivered,credit card,2026-07,26-35
+AHR02102,lavanya pillai,26.0,pune,govt exam aspirants,8am,ready to mix sattu,3,99,297,2026-05-05,delivered,upi,2026-05,26-35
+AHR01399,suresh rao,42.0,bangalore,homemakers,4pm,black pepper makhana,4,149,596,2026-03-17,shipped,debit card,2026-03,36-50
+AHR01424,rohit kumar,25.0,bangalore,athletes,8am,black pepper makhana,3,149,447,2026-09-16,pending,upi,2026-09,18-25
+AHR01371,preeti das,23.0,delhi ncr,govt exam aspirants,4pm,peri peri makhana,2,149,298,2026-01-23,delivered,upi,2026-01,18-25
+AHR01055,pallavi nair,32.0,bangalore,corporate professionals,8am,phool makhana,1,129,129,2026-08-30,delivered,debit card,2026-08,26-35
+AHR01788,neha bose,18.0,hyderabad,students,4pm,mint makhana,1,149,149,2026-02-20,delivered,upi,2026-02,18-25
+AHR02166,shreya malhotra,26.0,delhi,govt exam aspirants,4pm,black pepper makhana,1,149,149,2026-08-26,delivered,debit card,2026-08,26-35
+AHR01994,gaurav gupta,50.0,mumbai,homemakers,8am,ready to mix sattu,2,99,198,2026-08-19,delivered,debit card,2026-08,36-50
+AHR01313,divya singh,38.0,delhi,corporate professionals,8am,ready to mix sattu,1,99,99,2026-01-26,delivered,upi,2026-01,36-50
+AHR02341,arjun kumar,27.0,mumbai,govt exam aspirants,4pm,mint makhana,2,149,298,2026-10-08,delivered,wallet,2026-10,26-35
+AHR01592,madhuri mehta,24.0,pune,students,8am,phool makhana,2,129,258,2026-07-26,cancelled,debit card,2026-07,18-25
+AHR01110,akash chopra,21.0,delhi,students,4pm,black pepper makhana,2,149,298,2026-01-11,delivered,upi,2026-01,18-25
+AHR02089,arun chopra,21.0,bangalore,athletes,4pm,peri peri makhana,2,149,298,2026-09-27,delivered,upi,2026-09,18-25
+AHR01811,rekha bose,23.0,mumbai,athletes,4pm,black pepper makhana,4,149,596,2026-03-04,pending,net banking,2026-03,18-25
+AHR01101,vikram singh,40.0,mumbai,homemakers,4pm,phool makhana,1,129,129,2026-04-10,delivered,net banking,2026-04,36-50
+AHR01483,kavya gupta,23.0,mumbai,athletes,8am,ready to mix sattu,2,99,198,2026-02-18,pending,upi,2026-02,18-25
+AHR01692,rekha das,35.0,pune,athletes,8am,ready to mix sattu,1,99,99,2026-10-22,delivered,debit card,2026-10,26-35
+AHR02405,akash kumar,25.0,delhi ncr,corporate professionals,8am,ready to mix sattu,3,99,297,2026-01-16,delivered,upi,2026-01,18-25
+AHR01267,kritika iyer,31.0,bangalore,athletes,8am,peri peri makhana,3,149,447,2026-02-04,delivered,upi,2026-02,26-35
+AHR01701,swati kumar,26.0,mumbai,govt exam aspirants,8am,phool makhana,1,129,129,2026-08-29,delivered,upi,2026-08,26-35
+AHR01297,rahul shah,22.0,delhi,govt exam aspirants,8am,ready to mix sattu,2,99,198,2026-09-24,shipped,upi,2026-09,18-25
+AHR02344,raj bose,34.0,pune,athletes,4pm,mint makhana,1,149,149,2026-04-28,delivered,wallet,2026-04,26-35
+AHR01975,vinay kumar,24.0,mumbai,students,8am,ready to mix sattu,2,99,198,2026-09-25,delivered,credit card,2026-09,18-25
+AHR01721,preeti bose,22.0,bangalore,students,4pm,mint makhana,1,149,149,2026-09-20,delivered,debit card,2026-09,18-25
+AHR02205,vikram singh,29.0,bangalore,govt exam aspirants,4pm,phool makhana,3,129,387,2026-09-01,shipped,credit card,2026-09,26-35
+AHR01378,pallavi pillai,35.0,bangalore,homemakers,4pm,phool makhana,2,129,258,2026-08-25,delivered,debit card,2026-08,26-35
+AHR01287,siddharth mehta,22.0,delhi ncr,students,8am,ready to mix sattu,1,99,99,2026-09-26,delivered,debit card,2026-09,18-25
+AHR02469,arun kumar,30.0,pune,corporate professionals,4pm,phool makhana,1,129,129,2026-04-15,pending,net banking,2026-04,26-35
+AHR01753,arjun kumar,27.0,delhi,corporate professionals,8am,ready to mix sattu,1,99,99,2026-08-06,delivered,upi,2026-08,26-35
+AHR01127,neha nair,23.0,delhi ncr,students,8am,ready to mix sattu,2,99,198,2026-02-16,shipped,wallet,2026-02,18-25
+AHR01328,akash patel,49.0,delhi,homemakers,4pm,peri peri makhana,1,149,149,2026-07-04,shipped,upi,2026-07,36-50
+AHR01293,meera chopra,39.0,bangalore,corporate professionals,8am,black pepper makhana,2,149,298,2026-10-21,shipped,upi,2026-10,36-50
+AHR01567,siddharth pandey,38.0,delhi,corporate professionals,8am,ready to mix sattu,1,99,99,2026-07-15,delivered,credit card,2026-07,36-50
+AHR02396,kavya mishra,41.0,delhi,homemakers,4pm,peri peri makhana,2,149,298,2026-04-19,delivered,upi,2026-04,36-50
+AHR01671,rohit shah,21.0,delhi ncr,govt exam aspirants,4pm,peri peri makhana,2,149,298,2026-07-08,delivered,upi,2026-07,18-25
+AHR01356,arun nair,29.0,mumbai,homemakers,8am,phool makhana,2,129,258,2026-05-29,delivered,upi,2026-05,26-35
+AHR01171,lavanya bose,29.0,bangalore,corporate professionals,4pm,phool makhana,2,129,258,2026-09-21,delivered,upi,2026-09,26-35
+AHR02392,arun mehta,20.0,bangalore,athletes,4pm,black pepper makhana,2,149,298,2026-03-26,delivered,upi,2026-03,18-25
+AHR01529,amit pandey,25.0,pune,athletes,4pm,phool makhana,2,129,258,2026-09-08,shipped,upi,2026-09,18-25
+AHR01644,madhuri patel,25.0,bangalore,corporate professionals,4pm,mint makhana,2,149,298,2026-02-21,delivered,upi,2026-02,18-25
+AHR02296,nikhil malhotra,30.0,mumbai,corporate professionals,8am,phool makhana,2,129,258,2026-10-21,delivered,debit card,2026-10,26-35
+AHR01210,sunita shah,24.0,pune,athletes,4pm,mint makhana,3,149,447,2026-04-11,delivered,wallet,2026-04,18-25
+AHR01621,meera pandey,27.0,hyderabad,athletes,8am,ready to mix sattu,3,99,297,2026-08-18,delivered,credit card,2026-08,26-35
+AHR02350,vinay singh,32.0,mumbai,corporate professionals,4pm,ready to mix sattu,4,99,396,2026-03-04,pending,upi,2026-03,26-35
+AHR01141,sneha singh,20.0,delhi ncr,students,8am,ready to mix sattu,3,99,297,2026-06-01,delivered,credit card,2026-06,18-25
+AHR02101,manish verma,23.0,bangalore,students,4pm,black pepper makhana,2,149,298,2026-05-09,delivered,upi,2026-05,18-25
+AHR02055,swati shah,35.0,bangalore,corporate professionals,8am,ready to mix sattu,2,99,198,2026-02-04,pending,credit card,2026-02,26-35
+AHR02171,sunita malhotra,39.0,delhi,homemakers,8am,ready to mix sattu,3,99,297,2026-01-28,delivered,upi,2026-01,36-50
+AHR02214,deepak mehta,25.0,bangalore,corporate professionals,8am,black pepper makhana,1,149,149,2026-03-25,delivered,upi,2026-03,18-25
+AHR01818,vikram malhotra,24.0,bangalore,students,8am,phool makhana,1,129,129,2026-02-23,delivered,debit card,2026-02,18-25
+AHR02247,anjali singh,30.0,pune,homemakers,8am,ready to mix sattu,2,99,198,2026-09-16,shipped,upi,2026-09,26-35
+AHR01616,pallavi das,26.0,pune,athletes,4pm,ready to mix sattu,2,99,198,2026-06-17,delivered,credit card,2026-06,26-35
+AHR01200,nikhil pandey,36.0,mumbai,corporate professionals,8am,phool makhana,1,129,129,2026-04-28,shipped,upi,2026-04,36-50
+AHR02051,vishal das,18.0,pune,students,8am,ready to mix sattu,1,99,99,2026-10-31,delivered,wallet,2026-10,18-25
+AHR02241,vinay reddy,39.0,delhi,corporate professionals,4pm,ready to mix sattu,1,99,99,2026-03-12,delivered,upi,2026-03,36-50
+AHR01731,divya rao,28.0,pune,athletes,8am,ready to mix sattu,3,99,297,2026-01-23,delivered,debit card,2026-01,26-35
+AHR01746,neha chopra,41.0,bangalore,homemakers,8am,ready to mix sattu,4,99,396,2026-03-15,delivered,upi,2026-03,36-50
+AHR02427,karan mishra,19.0,pune,students,4pm,mint makhana,1,149,149,2026-03-05,delivered,credit card,2026-03,18-25
+AHR01011,karan das,23.0,pune,govt exam aspirants,4pm,peri peri makhana,3,149,447,2026-05-08,delivered,upi,2026-05,18-25
+AHR01148,kavya mehta,32.0,bangalore,athletes,4pm,phool makhana,2,129,258,2026-09-16,delivered,credit card,2026-09,26-35
+AHR01744,arjun pandey,28.0,delhi ncr,corporate professionals,8am,phool makhana,1,129,129,2026-10-13,delivered,upi,2026-10,26-35
+AHR01283,kavya verma,34.0,delhi,corporate professionals,4pm,mint makhana,2,149,298,2026-01-26,delivered,upi,2026-01,26-35
+AHR01299,nikhil das,24.0,delhi ncr,govt exam aspirants,8am,ready to mix sattu,2,99,198,2026-04-19,delivered,upi,2026-04,18-25
+AHR01722,nisha singh,29.0,bangalore,homemakers,8am,ready to mix sattu,1,99,99,2026-04-25,delivered,upi,2026-04,26-35
+AHR01292,nikhil singh,18.0,bangalore,students,4pm,ready to mix sattu,3,99,297,2026-10-23,shipped,upi,2026-10,18-25
+AHR01527,deepak reddy,18.0,delhi,students,4pm,mint makhana,1,149,149,2026-08-06,shipped,upi,2026-08,18-25
+AHR02059,gaurav mehta,46.0,hyderabad,homemakers,8am,peri peri makhana,1,149,149,2026-06-20,delivered,debit card,2026-06,36-50
+AHR02375,vikram kumar,32.0,mumbai,corporate professionals,8am,black pepper makhana,3,149,447,2026-03-16,delivered,upi,2026-03,26-35
+AHR01571,raj singh,20.0,bangalore,students,8am,ready to mix sattu,2,99,198,2026-09-20,cancelled,debit card,2026-09,18-25
+AHR01523,akash verma,33.0,bangalore,corporate professionals,4pm,black pepper makhana,1,149,149,2026-01-15,pending,credit card,2026-01,26-35
+AHR01130,meera mehta,30.0,bangalore,corporate professionals,4pm,black pepper makhana,2,149,298,2026-07-11,delivered,upi,2026-07,26-35
+AHR01598,vikram iyer,45.0,delhi,homemakers,4pm,mint makhana,1,149,149,2026-07-15,delivered,upi,2026-07,36-50
+AHR01332,sanjay pandey,27.0,mumbai,corporate professionals,8am,phool makhana,2,129,258,2026-07-08,delivered,upi,2026-07,26-35
+AHR01324,priya nair,34.0,delhi,corporate professionals,4pm,peri peri makhana,2,149,298,2026-06-12,delivered,debit card,2026-06,26-35
+AHR02454,vinay nair,49.0,bangalore,homemakers,4pm,black pepper makhana,4,149,596,2026-01-02,pending,wallet,2026-01,36-50
+AHR02019,arun nair,31.0,mumbai,corporate professionals,8am,phool makhana,1,129,129,2026-05-03,delivered,net banking,2026-05,26-35
+AHR01652,preeti iyer,24.0,delhi ncr,govt exam aspirants,4pm,black pepper makhana,2,149,298,2026-01-17,delivered,debit card,2026-01,18-25
+AHR01136,preeti rao,28.0,bangalore,govt exam aspirants,4pm,mint makhana,1,149,149,2026-07-31,delivered,net banking,2026-07,26-35
+AHR01545,lavanya nair,29.0,bangalore,corporate professionals,4pm,peri peri makhana,1,149,149,2026-02-12,pending,credit card,2026-02,26-35
+AHR01947,priya gupta,19.0,delhi ncr,students,4pm,peri peri makhana,1,149,149,2026-02-28,delivered,upi,2026-02,18-25
+AHR01681,manish chopra,33.0,delhi ncr,corporate professionals,4pm,peri peri makhana,2,149,298,2026-03-25,delivered,upi,2026-03,26-35
+AHR01712,sneha kumar,28.0,delhi ncr,corporate professionals,4pm,peri peri makhana,1,149,149,2026-06-14,delivered,upi,2026-06,26-35
+AHR01159,nisha iyer,24.0,delhi,students,8am,phool makhana,2,129,258,2026-03-15,delivered,net banking,2026-03,18-25
+AHR01853,pallavi nair,32.0,delhi,corporate professionals,4pm,peri peri makhana,1,149,149,2026-01-12,delivered,debit card,2026-01,26-35
+AHR02493,arun pandey,19.0,delhi,students,8am,ready to mix sattu,2,99,198,2026-06-25,pending,upi,2026-06,18-25
+AHR01196,pallavi singh,36.0,mumbai,corporate professionals,8am,black pepper makhana,3,149,447,2026-10-09,delivered,debit card,2026-10,36-50
+AHR02487,vinay patel,36.0,bangalore,corporate professionals,4pm,mint makhana,3,149,447,2026-01-19,delivered,upi,2026-01,36-50
+AHR01530,vikram nair,21.0,bangalore,students,4pm,peri peri makhana,2,149,298,2026-09-28,delivered,upi,2026-09,18-25
+AHR01411,vinay malhotra,26.0,delhi,corporate professionals,4pm,peri peri makhana,2,149,298,2026-10-22,delivered,upi,2026-10,26-35
+AHR01097,shreya sharma,32.0,bangalore,corporate professionals,8am,ready to mix sattu,2,99,198,2026-10-20,shipped,upi,2026-10,26-35
+AHR01603,anita patel,24.0,mumbai,athletes,4pm,mint makhana,2,149,298,2026-08-23,delivered,upi,2026-08,18-25
+AHR01157,kavya verma,29.0,bangalore,athletes,8am,black pepper makhana,1,149,149,2026-02-07,delivered,credit card,2026-02,26-35
+AHR01420,nisha mishra,28.0,bangalore,athletes,4pm,ready to mix sattu,1,99,99,2026-09-20,delivered,upi,2026-09,26-35
+AHR01661,sunita bose,28.0,pune,corporate professionals,4pm,black pepper makhana,1,149,149,2026-01-18,delivered,upi,2026-01,26-35
+AHR01478,meera verma,24.0,mumbai,govt exam aspirants,8am,ready to mix sattu,1,99,99,2026-05-15,delivered,debit card,2026-05,18-25
+AHR01629,pooja pandey,37.0,bangalore,corporate professionals,4pm,peri peri makhana,2,149,298,2026-02-10,cancelled,upi,2026-02,36-50
+AHR01880,kavya mishra,21.0,hyderabad,students,8am,black pepper makhana,2,149,298,2026-02-09,delivered,credit card,2026-02,18-25
+AHR01966,preeti sharma,18.0,delhi ncr,students,4pm,ready to mix sattu,3,99,297,2026-03-03,delivered,credit card,2026-03,18-25
+AHR01448,neha pandey,33.0,delhi,athletes,8am,peri peri makhana,2,149,298,2026-08-28,delivered,credit card,2026-08,26-35
+AHR01179,shreya joshi,25.0,bangalore,corporate professionals,4pm,peri peri makhana,1,149,149,2026-04-03,delivered,upi,2026-04,18-25
+AHR01391,sanjay malhotra,29.0,bangalore,corporate professionals,8am,phool makhana,1,129,129,2026-08-02,returned,credit card,2026-08,26-35
+AHR02318,preeti sharma,32.0,delhi,corporate professionals,8am,black pepper makhana,2,149,298,2026-09-24,delivered,debit card,2026-09,26-35
+AHR02145,shreya malhotra,34.0,delhi ncr,corporate professionals,4pm,black pepper makhana,1,149,149,2026-07-15,delivered,credit card,2026-07,26-35
+AHR02269,sneha verma,25.0,mumbai,athletes,4pm,black pepper makhana,1,149,149,2026-09-18,pending,credit card,2026-09,18-25
+AHR02079,akash verma,26.0,bangalore,athletes,8am,mint makhana,2,149,298,2026-09-02,delivered,debit card,2026-09,26-35
+AHR02421,arun malhotra,24.0,delhi ncr,govt exam aspirants,8am,ready to mix sattu,1,99,99,2026-07-08,delivered,credit card,2026-07,18-25
+AHR01888,amit mehta,29.0,pune,athletes,4pm,black pepper makhana,3,149,447,2026-10-11,delivered,debit card,2026-10,26-35
+AHR01933,pooja pandey,19.0,pune,students,4pm,phool makhana,2,129,258,2026-10-11,delivered,upi,2026-10,18-25
+AHR01814,divya joshi,29.0,bangalore,corporate professionals,8am,black pepper makhana,2,149,298,2026-07-14,delivered,upi,2026-07,26-35
+AHR01768,vishal kumar,35.0,bangalore,corporate professionals,8am,phool makhana,1,129,129,2026-08-10,delivered,upi,2026-08,26-35
+AHR01812,pallavi sharma,23.0,bangalore,students,8am,ready to mix sattu,1,99,99,2026-08-12,delivered,upi,2026-08,18-25
+AHR01295,priya mishra,18.0,bangalore,students,4pm,peri peri makhana,2,149,298,2026-09-26,delivered,upi,2026-09,18-25
+AHR01562,suresh sharma,27.0,mumbai,corporate professionals,8am,phool makhana,3,129,387,2026-04-26,returned,upi,2026-04,26-35
+AHR01900,amit malhotra,19.0,pune,students,4pm,black pepper makhana,2,149,298,2026-09-18,shipped,debit card,2026-09,18-25
+AHR01089,kritika pandey,22.0,delhi,students,8am,ready to mix sattu,2,99,198,2026-04-01,returned,upi,2026-04,18-25
+AHR02008,nisha iyer,26.0,mumbai,athletes,8am,ready to mix sattu,3,99,297,2026-03-19,delivered,debit card,2026-03,26-35
+AHR02232,raj pandey,31.0,bangalore,corporate professionals,8am,phool makhana,3,129,387,2026-06-04,delivered,upi,2026-06,26-35
+AHR02490,karan iyer,28.0,delhi,govt exam aspirants,4pm,mint makhana,1,149,149,2026-03-20,shipped,upi,2026-03,26-35
+AHR01716,nikhil verma,29.0,bangalore,corporate professionals,8am,black pepper makhana,4,149,596,2026-04-14,delivered,upi,2026-04,26-35
+AHR02417,nisha reddy,29.0,delhi,corporate professionals,4pm,mint makhana,1,149,149,2026-05-18,delivered,credit card,2026-05,26-35
+AHR01719,rekha patel,23.0,delhi ncr,students,8am,mint makhana,2,149,298,2026-04-08,shipped,upi,2026-04,18-25
+AHR01974,nikhil chopra,23.0,bangalore,students,8am,ready to mix sattu,1,99,99,2026-04-13,delivered,upi,2026-04,18-25
+AHR01291,harish iyer,31.0,bangalore,corporate professionals,4pm,mint makhana,1,149,149,2026-01-04,delivered,credit card,2026-01,26-35
+AHR02448,swati reddy,24.0,pune,athletes,4pm,black pepper makhana,2,149,298,2026-08-22,delivered,credit card,2026-08,18-25
+AHR01614,vishal nair,32.0,mumbai,corporate professionals,8am,ready to mix sattu,2,99,198,2026-04-14,cancelled,upi,2026-04,26-35
+AHR01349,pallavi iyer,30.0,bangalore,athletes,8am,peri peri makhana,4,149,596,2026-08-07,delivered,credit card,2026-08,26-35
+AHR01586,swati das,26.0,delhi,athletes,4pm,black pepper makhana,1,149,149,2026-04-14,delivered,upi,2026-04,26-35
+AHR02442,amit shah,24.0,mumbai,students,4pm,mint makhana,2,149,298,2026-03-15,delivered,wallet,2026-03,18-25
+AHR01713,anjali iyer,29.0,mumbai,corporate professionals,4pm,peri peri makhana,1,149,149,2026-01-07,delivered,debit card,2026-01,26-35
+AHR01856,priya reddy,29.0,bangalore,corporate professionals,4pm,phool makhana,2,129,258,2026-01-22,cancelled,upi,2026-01,26-35
+AHR01618,swati verma,38.0,bangalore,corporate professionals,8am,black pepper makhana,1,149,149,2026-07-08,delivered,net banking,2026-07,36-50
+AHR01459,madhuri chopra,21.0,mumbai,athletes,4pm,ready to mix sattu,4,99,396,2026-01-18,pending,credit card,2026-01,18-25
+AHR01376,swati nair,39.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-10-19,delivered,upi,2026-10,36-50
+AHR01334,nisha patel,21.0,bangalore,athletes,4pm,black pepper makhana,2,149,298,2026-10-04,shipped,upi,2026-10,18-25
+AHR01782,vishal mishra,22.0,bangalore,students,4pm,peri peri makhana,2,149,298,2026-10-06,delivered,upi,2026-10,18-25
+AHR02352,priya joshi,31.0,delhi,corporate professionals,4pm,black pepper makhana,1,149,149,2026-02-17,delivered,upi,2026-02,26-35
+AHR02410,raj rao,42.0,bangalore,homemakers,8am,mint makhana,1,149,149,2026-07-14,delivered,credit card,2026-07,36-50
+AHR02419,akash reddy,28.0,pune,athletes,8am,black pepper makhana,3,149,447,2026-08-09,delivered,upi,2026-08,26-35
+AHR01585,pooja nair,33.0,delhi,corporate professionals,4pm,peri peri makhana,1,149,149,2026-09-05,delivered,upi,2026-09,26-35
+AHR01329,vinay joshi,19.0,bangalore,students,4pm,peri peri makhana,3,149,447,2026-08-12,returned,upi,2026-08,18-25
+AHR01319,rohit kumar,25.0,mumbai,athletes,4pm,mint makhana,1,149,149,2026-07-31,delivered,upi,2026-07,18-25
+AHR02178,pooja iyer,43.0,hyderabad,homemakers,4pm,phool makhana,1,129,129,2026-02-12,delivered,wallet,2026-02,36-50
+AHR01983,sneha patel,29.0,hyderabad,corporate professionals,8am,peri peri makhana,3,149,447,2026-09-26,delivered,wallet,2026-09,26-35
+AHR01013,vishal mishra,22.0,mumbai,athletes,4pm,phool makhana,1,129,129,2026-09-07,delivered,upi,2026-09,18-25
+AHR01172,rahul das,31.0,delhi ncr,corporate professionals,8am,ready to mix sattu,1,99,99,2026-02-02,delivered,upi,2026-02,26-35
+AHR01261,vinay joshi,21.0,delhi,govt exam aspirants,4pm,peri peri makhana,1,149,149,2026-08-09,delivered,net banking,2026-08,18-25
+AHR01848,rekha kumar,20.0,bangalore,govt exam aspirants,8am,mint makhana,3,149,447,2026-10-17,delivered,upi,2026-10,18-25
+AHR01889,pallavi verma,27.0,pune,govt exam aspirants,4pm,mint makhana,2,149,298,2026-09-23,delivered,wallet,2026-09,26-35
+AHR02142,amit sharma,29.0,mumbai,athletes,4pm,mint makhana,2,149,298,2026-01-25,delivered,upi,2026-01,26-35
+AHR01139,madhuri das,45.0,delhi ncr,homemakers,4pm,mint makhana,3,149,447,2026-08-02,delivered,net banking,2026-08,36-50
+AHR01550,rahul iyer,25.0,pune,govt exam aspirants,4pm,phool makhana,2,129,258,2026-05-20,delivered,wallet,2026-05,18-25
+AHR02358,harish reddy,29.0,bangalore,corporate professionals,4pm,peri peri makhana,1,149,149,2026-09-24,delivered,upi,2026-09,26-35
+AHR01874,sanjay das,35.0,delhi,athletes,8am,mint makhana,3,149,447,2026-05-19,shipped,upi,2026-05,26-35
+AHR01959,vikram das,36.0,mumbai,homemakers,8am,ready to mix sattu,2,99,198,2026-04-20,cancelled,net banking,2026-04,36-50
+AHR01559,kavya mehta,20.0,bangalore,athletes,4pm,black pepper makhana,2,149,298,2026-05-10,delivered,net banking,2026-05,18-25
+AHR01140,sneha reddy,36.0,bangalore,homemakers,4pm,mint makhana,1,149,149,2026-03-16,delivered,upi,2026-03,36-50
+AHR01780,sunita mishra,41.0,pune,homemakers,8am,ready to mix sattu,1,99,99,2026-04-01,delivered,upi,2026-04,36-50
+AHR01902,karan singh,20.0,delhi,govt exam aspirants,4pm,black pepper makhana,2,149,298,2026-03-04,pending,credit card,2026-03,18-25
+AHR01225,sanjay bose,40.0,delhi ncr,homemakers,4pm,black pepper makhana,2,149,298,2026-04-07,delivered,credit card,2026-04,36-50
+AHR01606,sunita shah,26.0,bangalore,corporate professionals,4pm,black pepper makhana,1,149,149,2026-04-04,delivered,upi,2026-04,26-35
+AHR01410,pooja rao,28.0,bangalore,athletes,4pm,phool makhana,2,129,258,2026-07-05,delivered,credit card,2026-07,26-35
+AHR01326,lavanya rao,39.0,pune,homemakers,8am,phool makhana,4,129,516,2026-01-01,delivered,debit card,2026-01,36-50
+AHR01300,harish pandey,23.0,bangalore,students,8am,peri peri makhana,2,149,298,2026-02-28,delivered,upi,2026-02,18-25
+AHR01915,pallavi bose,22.0,bangalore,students,4pm,black pepper makhana,4,149,596,2026-04-18,delivered,upi,2026-04,18-25
+AHR02054,ravi patel,49.0,pune,homemakers,4pm,mint makhana,2,149,298,2026-08-13,delivered,credit card,2026-08,36-50
+AHR02047,smita joshi,36.0,delhi ncr,corporate professionals,4pm,mint makhana,3,149,447,2026-06-05,delivered,upi,2026-06,36-50
+AHR02420,divya mehta,39.0,bangalore,homemakers,4pm,peri peri makhana,4,149,596,2026-07-19,delivered,net banking,2026-07,36-50
+AHR01977,vikram iyer,26.0,bangalore,athletes,4pm,black pepper makhana,2,149,298,2026-02-16,delivered,upi,2026-02,26-35
+AHR01901,karan singh,27.0,mumbai,athletes,4pm,peri peri makhana,2,149,298,2026-02-10,cancelled,wallet,2026-02,26-35
+AHR01574,pallavi rao,35.0,delhi ncr,corporate professionals,4pm,black pepper makhana,4,149,596,2026-06-19,pending,credit card,2026-06,26-35
+AHR01504,vishal das,36.0,mumbai,corporate professionals,8am,phool makhana,1,129,129,2026-08-31,delivered,credit card,2026-08,36-50
+AHR02245,kritika nair,49.0,delhi ncr,homemakers,4pm,peri peri makhana,3,149,447,2026-07-11,delivered,upi,2026-07,36-50
+AHR01004,raj das,32.0,delhi,corporate professionals,4pm,mint makhana,3,149,447,2026-09-08,delivered,credit card,2026-09,26-35
+AHR01786,sneha iyer,21.0,bangalore,students,4pm,black pepper makhana,2,149,298,2026-06-12,delivered,wallet,2026-06,18-25
+AHR01468,sunita kumar,32.0,mumbai,corporate professionals,8am,phool makhana,2,129,258,2026-01-11,cancelled,net banking,2026-01,26-35
+AHR01322,manish nair,18.0,pune,students,4pm,ready to mix sattu,1,99,99,2026-07-14,delivered,credit card,2026-07,18-25
+AHR01006,rekha singh,28.0,bangalore,corporate professionals,4pm,mint makhana,2,149,298,2026-08-14,delivered,wallet,2026-08,26-35
+AHR02151,shreya gupta,33.0,hyderabad,corporate professionals,4pm,phool makhana,1,129,129,2026-10-02,delivered,net banking,2026-10,26-35
+AHR01548,sunita verma,37.0,hyderabad,homemakers,8am,phool makhana,1,129,129,2026-03-24,shipped,credit card,2026-03,36-50
+AHR01773,vikram malhotra,21.0,bangalore,students,4pm,mint makhana,4,149,596,2026-06-02,delivered,upi,2026-06,18-25
+AHR01040,deepak verma,34.0,bangalore,corporate professionals,4pm,phool makhana,4,129,516,2026-01-01,shipped,upi,2026-01,26-35
+AHR01543,divya kumar,26.0,bangalore,corporate professionals,4pm,peri peri makhana,2,149,298,2026-09-16,delivered,upi,2026-09,26-35
+AHR01243,swati das,26.0,bangalore,govt exam aspirants,8am,ready to mix sattu,1,99,99,2026-04-09,delivered,credit card,2026-04,26-35
+AHR01137,karan malhotra,29.0,bangalore,athletes,4pm,black pepper makhana,3,149,447,2026-04-22,delivered,credit card,2026-04,26-35
+AHR02212,nikhil shah,38.0,delhi ncr,corporate professionals,4pm,ready to mix sattu,1,99,99,2026-03-15,delivered,upi,2026-03,36-50
+AHR01622,priya singh,35.0,delhi,homemakers,8am,ready to mix sattu,2,99,198,2026-03-05,delivered,debit card,2026-03,26-35
+AHR01799,raj das,28.0,mumbai,athletes,8am,black pepper makhana,1,149,149,2026-09-20,cancelled,net banking,2026-09,26-35
+AHR02480,rekha mehta,23.0,mumbai,students,4pm,ready to mix sattu,3,99,297,2026-04-03,delivered,upi,2026-04,18-25
+AHR02088,priya iyer,31.0,pune,corporate professionals,8am,phool makhana,1,129,129,2026-09-16,delivered,debit card,2026-09,26-35
+AHR02474,kritika gupta,18.0,mumbai,students,8am,peri peri makhana,2,149,298,2026-09-20,delivered,upi,2026-09,18-25
+AHR02395,neha das,21.0,bangalore,athletes,8am,ready to mix sattu,3,99,297,2026-08-31,delivered,upi,2026-08,18-25
+AHR01582,akash malhotra,31.0,bangalore,corporate professionals,8am,mint makhana,4,149,596,2026-05-06,cancelled,debit card,2026-05,26-35
+AHR01367,anjali das,28.0,delhi ncr,athletes,8am,black pepper makhana,2,149,298,2026-09-01,delivered,upi,2026-09,26-35
+AHR01850,manish sharma,34.0,bangalore,homemakers,4pm,peri peri makhana,2,149,298,2026-01-04,shipped,credit card,2026-01,26-35
+AHR02418,sanjay joshi,27.0,delhi ncr,athletes,8am,ready to mix sattu,2,99,198,2026-06-07,delivered,upi,2026-06,26-35
+AHR01377,nisha mishra,29.235449735449734,mumbai,corporate professionals,8am,phool makhana,2,129,258,2026-03-29,delivered,credit card,2026-03,26-35
+AHR01315,arun joshi,50.0,delhi ncr,homemakers,4pm,phool makhana,2,129,258,2026-08-27,delivered,upi,2026-08,36-50
+AHR01443,vishal patel,35.0,mumbai,corporate professionals,4pm,black pepper makhana,1,149,149,2026-04-16,delivered,credit card,2026-04,26-35
+AHR01320,akash sharma,32.0,hyderabad,corporate professionals,8am,phool makhana,2,129,258,2026-08-11,delivered,upi,2026-08,26-35
+AHR01968,vinay shah,24.0,pune,students,4pm,black pepper makhana,1,149,149,2026-01-08,cancelled,upi,2026-01,18-25
+AHR01820,harish bose,30.0,bangalore,corporate professionals,4pm,phool makhana,2,129,258,2026-07-24,delivered,upi,2026-07,26-35
+AHR02444,neha patel,32.0,mumbai,corporate professionals,4pm,phool makhana,2,129,258,2026-09-28,delivered,upi,2026-09,26-35
+AHR01425,arjun nair,25.0,mumbai,govt exam aspirants,8am,ready to mix sattu,1,99,99,2026-04-20,delivered,upi,2026-04,18-25
+AHR01554,madhuri malhotra,28.0,pune,homemakers,4pm,peri peri makhana,1,149,149,2026-04-09,delivered,upi,2026-04,26-35
+AHR01595,priya pandey,22.0,mumbai,govt exam aspirants,8am,ready to mix sattu,3,99,297,2026-01-16,delivered,credit card,2026-01,18-25
+AHR01924,sanjay chopra,31.0,mumbai,corporate professionals,4pm,peri peri makhana,2,149,298,2026-02-15,cancelled,net banking,2026-02,26-35
+AHR01673,vikram kumar,23.0,delhi ncr,students,4pm,black pepper makhana,1,149,149,2026-10-20,delivered,upi,2026-10,18-25
+AHR02365,lavanya pandey,30.0,pune,athletes,8am,ready to mix sattu,3,99,297,2026-06-09,cancelled,upi,2026-06,26-35
+AHR02244,nisha rao,32.0,hyderabad,corporate professionals,4pm,mint makhana,1,149,149,2026-10-09,delivered,upi,2026-10,26-35
+AHR02366,swati reddy,24.0,bangalore,students,8am,phool makhana,2,129,258,2026-02-24,pending,upi,2026-02,18-25
+AHR01228,rohit singh,28.0,delhi,corporate professionals,4pm,peri peri makhana,1,149,149,2026-01-26,returned,upi,2026-01,26-35
+AHR01737,priya iyer,22.0,delhi,students,4pm,phool makhana,3,129,387,2026-03-19,delivered,credit card,2026-03,18-25
+AHR02252,deepak bose,43.0,delhi ncr,homemakers,8am,mint makhana,3,149,447,2026-09-09,returned,upi,2026-09,36-50
+AHR02010,arjun iyer,19.0,hyderabad,students,4pm,mint makhana,1,149,149,2026-06-11,delivered,upi,2026-06,18-25
+AHR01711,arjun pandey,36.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-02-26,delivered,upi,2026-02,36-50
+AHR01067,shreya patel,29.0,delhi ncr,govt exam aspirants,4pm,mint makhana,1,149,149,2026-10-07,delivered,debit card,2026-10,26-35
+AHR01394,pallavi gupta,20.0,delhi,govt exam aspirants,8am,phool makhana,1,129,129,2026-07-10,returned,debit card,2026-07,18-25
+AHR01580,gaurav verma,28.0,delhi,govt exam aspirants,8am,ready to mix sattu,1,99,99,2026-07-09,shipped,credit card,2026-07,26-35
+AHR02230,priya nair,25.0,pune,corporate professionals,4pm,phool makhana,3,129,387,2026-01-26,pending,net banking,2026-01,18-25
+AHR01212,siddharth sharma,23.0,mumbai,athletes,4pm,mint makhana,2,149,298,2026-01-31,delivered,upi,2026-01,18-25
+AHR02363,siddharth kumar,18.0,mumbai,students,8am,ready to mix sattu,3,99,297,2026-04-04,delivered,credit card,2026-04,18-25
+AHR01808,smita mehta,29.0,delhi,athletes,8am,ready to mix sattu,1,99,99,2026-10-22,returned,net banking,2026-10,26-35
+AHR01537,sneha malhotra,21.0,delhi ncr,athletes,4pm,black pepper makhana,2,149,298,2026-03-05,delivered,upi,2026-03,18-25
+AHR02049,suresh kumar,37.0,mumbai,homemakers,4pm,black pepper makhana,1,149,149,2026-04-14,delivered,debit card,2026-04,36-50
+AHR02349,anjali das,34.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-03-25,delivered,debit card,2026-03,26-35
+AHR01086,ravi rao,30.0,bangalore,corporate professionals,4pm,mint makhana,1,149,149,2026-09-22,pending,debit card,2026-09,26-35
+AHR02379,pallavi patel,27.0,pune,govt exam aspirants,8am,peri peri makhana,1,149,149,2026-03-10,delivered,upi,2026-03,26-35
+AHR01273,arun iyer,23.0,hyderabad,govt exam aspirants,8am,peri peri makhana,1,149,149,2026-03-12,delivered,credit card,2026-03,18-25
+AHR01980,smita mishra,22.0,delhi,students,4pm,peri peri makhana,1,149,149,2026-04-06,shipped,upi,2026-04,18-25
+AHR01683,sanjay malhotra,32.0,delhi ncr,athletes,4pm,mint makhana,1,149,149,2026-03-20,delivered,debit card,2026-03,26-35
+AHR02380,neha sharma,21.0,mumbai,govt exam aspirants,4pm,black pepper makhana,1,149,149,2026-05-18,shipped,credit card,2026-05,18-25
+AHR01631,pooja rao,24.0,delhi ncr,govt exam aspirants,4pm,peri peri makhana,2,149,298,2026-05-12,delivered,upi,2026-05,18-25
+AHR02050,deepak bose,21.0,pune,students,8am,ready to mix sattu,2,99,198,2026-04-13,shipped,credit card,2026-04,18-25
+AHR02429,smita sharma,32.0,pune,athletes,4pm,phool makhana,2,129,258,2026-09-16,delivered,wallet,2026-09,26-35
+AHR01506,shreya das,49.0,hyderabad,homemakers,4pm,mint makhana,3,149,447,2026-07-19,cancelled,debit card,2026-07,36-50
+AHR01274,lavanya bose,30.0,pune,corporate professionals,4pm,mint makhana,1,149,149,2026-03-16,delivered,credit card,2026-03,26-35
+AHR01745,sunita shah,38.0,bangalore,corporate professionals,4pm,phool makhana,3,129,387,2026-05-31,delivered,debit card,2026-05,36-50
+AHR01363,divya pillai,37.0,bangalore,corporate professionals,4pm,peri peri makhana,3,149,447,2026-08-07,delivered,debit card,2026-08,36-50
+AHR01623,shreya nair,23.0,delhi,students,8am,ready to mix sattu,1,99,99,2026-04-15,delivered,upi,2026-04,18-25
+AHR01003,siddharth rao,45.0,bangalore,homemakers,4pm,phool makhana,4,129,516,2026-09-06,delivered,debit card,2026-09,36-50
+AHR01007,priya kumar,42.0,delhi ncr,homemakers,8am,phool makhana,1,129,129,2026-05-15,delivered,debit card,2026-05,36-50
+AHR01312,ravi iyer,34.0,bangalore,corporate professionals,4pm,peri peri makhana,3,149,447,2026-05-26,delivered,upi,2026-05,26-35
+AHR02109,manish das,35.0,bangalore,athletes,4pm,peri peri makhana,1,149,149,2026-06-28,shipped,upi,2026-06,26-35
+AHR01666,siddharth chopra,24.0,bangalore,athletes,4pm,black pepper makhana,3,149,447,2026-06-05,delivered,upi,2026-06,18-25
+AHR01969,sunita das,20.0,delhi,students,8am,phool makhana,1,129,129,2026-05-17,delivered,upi,2026-05,18-25
+AHR01273,arun iyer,23.0,hyderabad,govt exam aspirants,8am,peri peri makhana,1,149,149,2026-03-12,delivered,credit card,2026-03,18-25
+AHR01216,manish bose,25.0,delhi,govt exam aspirants,8am,mint makhana,1,149,149,2026-02-06,delivered,upi,2026-02,18-25
+AHR01706,shreya gupta,25.0,bangalore,corporate professionals,8am,black pepper makhana,1,149,149,2026-06-25,delivered,credit card,2026-06,18-25
+AHR01028,karan kumar,24.0,delhi,athletes,4pm,mint makhana,2,149,298,2026-02-12,delivered,credit card,2026-02,18-25
+AHR02114,pooja malhotra,24.0,pune,students,8am,ready to mix sattu,1,99,99,2026-07-17,delivered,wallet,2026-07,18-25
+AHR02165,vishal verma,31.0,mumbai,corporate professionals,8am,ready to mix sattu,1,99,99,2026-09-29,delivered,upi,2026-09,26-35
+AHR02035,kavya joshi,27.0,delhi,corporate professionals,8am,ready to mix sattu,1,99,99,2026-10-11,returned,debit card,2026-10,26-35
+AHR01639,sneha rao,31.0,delhi,athletes,4pm,mint makhana,2,149,298,2026-02-15,delivered,credit card,2026-02,26-35
+AHR01775,amit singh,24.0,bangalore,athletes,4pm,peri peri makhana,4,149,596,2026-06-12,delivered,net banking,2026-06,18-25
+AHR02334,vinay nair,40.0,delhi,homemakers,4pm,peri peri makhana,2,149,298,2026-08-31,delivered,upi,2026-08,36-50
+AHR01625,meera kumar,27.0,pune,athletes,8am,black pepper makhana,1,149,149,2026-04-16,delivered,net banking,2026-04,26-35
+AHR02261,nikhil chopra,32.0,bangalore,corporate professionals,4pm,ready to mix sattu,1,99,99,2026-07-03,delivered,credit card,2026-07,26-35
+AHR01257,priya singh,22.0,pune,govt exam aspirants,4pm,black pepper makhana,1,149,149,2026-09-26,delivered,credit card,2026-09,18-25
+AHR01026,suresh pandey,22.0,delhi,govt exam aspirants,4pm,phool makhana,1,129,129,2026-10-19,delivered,credit card,2026-10,18-25
+AHR01337,deepak mehta,18.0,bangalore,students,4pm,black pepper makhana,2,149,298,2026-05-27,delivered,upi,2026-05,18-25
+AHR01573,amit mishra,31.0,bangalore,corporate professionals,4pm,phool makhana,1,129,129,2026-04-11,returned,credit card,2026-04,26-35
+AHR01048,preeti mehta,27.0,bangalore,athletes,8am,ready to mix sattu,2,99,198,2026-03-04,delivered,debit card,2026-03,26-35
+AHR01107,harish rao,32.0,bangalore,homemakers,8am,ready to mix sattu,2,99,198,2026-09-26,delivered,net banking,2026-09,26-35
+AHR01350,pooja chopra,25.0,bangalore,athletes,8am,ready to mix sattu,1,99,99,2026-01-31,delivered,debit card,2026-01,18-25
+AHR01056,ravi bose,22.0,hyderabad,students,4pm,peri peri makhana,3,149,447,2026-01-29,shipped,net banking,2026-01,18-25
+AHR02327,kritika rao,18.0,delhi,students,8am,ready to mix sattu,1,99,99,2026-10-26,delivered,upi,2026-10,18-25
+AHR01214,shreya verma,25.0,pune,govt exam aspirants,8am,mint makhana,2,149,298,2026-03-31,returned,upi,2026-03,18-25
+AHR01121,rekha gupta,30.0,pune,athletes,4pm,mint makhana,1,149,149,2026-07-30,delivered,upi,2026-07,26-35
+AHR01899,vikram iyer,29.0,mumbai,corporate professionals,4pm,mint makhana,4,149,596,2026-01-16,delivered,upi,2026-01,26-35
+AHR01758,kavya patel,21.0,pune,students,4pm,mint makhana,2,149,298,2026-01-20,delivered,upi,2026-01,18-25
+AHR01073,nisha bose,21.0,delhi,govt exam aspirants,4pm,peri peri makhana,2,149,298,2026-08-30,delivered,credit card,2026-08,18-25
+AHR01178,sanjay joshi,30.0,mumbai,corporate professionals,8am,ready to mix sattu,3,99,297,2026-01-12,delivered,upi,2026-01,26-35
+AHR02385,rekha iyer,30.0,pune,athletes,4pm,ready to mix sattu,1,99,99,2026-04-11,pending,upi,2026-04,26-35
+AHR01046,meera mishra,30.0,bangalore,homemakers,8am,black pepper makhana,2,149,298,2026-04-21,shipped,upi,2026-04,26-35
+AHR02343,shreya mishra,21.0,pune,athletes,8am,ready to mix sattu,2,99,198,2026-08-19,delivered,net banking,2026-08,18-25
+AHR01524,shreya pandey,31.0,bangalore,athletes,4pm,phool makhana,1,129,129,2026-01-31,pending,upi,2026-01,26-35
+AHR02471,anita sharma,34.0,mumbai,corporate professionals,4pm,phool makhana,1,129,129,2026-04-08,delivered,upi,2026-04,26-35
+AHR01893,madhuri reddy,35.0,hyderabad,corporate professionals,4pm,peri peri makhana,1,149,149,2026-02-10,delivered,credit card,2026-02,26-35
+AHR01821,amit reddy,27.0,delhi ncr,govt exam aspirants,4pm,peri peri makhana,1,149,149,2026-02-24,shipped,upi,2026-02,26-35
+AHR01534,vishal gupta,29.0,pune,corporate professionals,4pm,mint makhana,3,149,447,2026-07-13,delivered,debit card,2026-07,26-35
+AHR02160,raj gupta,20.0,delhi ncr,students,4pm,ready to mix sattu,3,99,297,2026-09-01,cancelled,credit card,2026-09,18-25
+AHR01604,kavya das,46.0,mumbai,homemakers,4pm,peri peri makhana,1,149,149,2026-10-19,pending,upi,2026-10,36-50
+AHR01466,suresh mehta,35.0,bangalore,corporate professionals,4pm,black pepper makhana,2,149,298,2026-03-08,pending,credit card,2026-03,26-35
+AHR02112,harish mehta,44.0,pune,homemakers,4pm,phool makhana,1,129,129,2026-02-27,delivered,upi,2026-02,36-50
+AHR02306,harish pillai,39.0,delhi,corporate professionals,8am,ready to mix sattu,1,99,99,2026-08-13,delivered,upi,2026-08,36-50
+AHR01803,neha mishra,35.0,delhi,corporate professionals,4pm,black pepper makhana,4,149,596,2026-06-30,delivered,upi,2026-06,26-35
+AHR02048,pallavi das,38.0,pune,corporate professionals,8am,mint makhana,2,149,298,2026-01-03,shipped,upi,2026-01,36-50
+AHR01061,vikram mehta,25.0,delhi ncr,govt exam aspirants,4pm,phool makhana,1,129,129,2026-07-22,delivered,upi,2026-07,18-25
+AHR01916,anjali kumar,33.0,mumbai,corporate professionals,8am,ready to mix sattu,1,99,99,2026-04-25,pending,upi,2026-04,26-35
+AHR01093,pallavi iyer,28.0,mumbai,corporate professionals,8am,ready to mix sattu,1,99,99,2026-09-24,shipped,upi,2026-09,26-35
+AHR01667,shreya iyer,28.0,mumbai,corporate professionals,4pm,peri peri makhana,3,149,447,2026-04-11,shipped,upi,2026-04,26-35
+AHR01728,suresh reddy,30.0,bangalore,corporate professionals,4pm,mint makhana,3,149,447,2026-02-17,delivered,upi,2026-02,26-35
+AHR01195,amit malhotra,37.0,delhi,corporate professionals,4pm,phool makhana,1,129,129,2026-05-22,shipped,upi,2026-05,36-50
+AHR01281,anjali iyer,47.0,mumbai,homemakers,4pm,black pepper makhana,2,149,298,2026-07-21,delivered,debit card,2026-07,36-50
+AHR01696,priya gupta,31.0,hyderabad,athletes,4pm,mint makhana,1,149,149,2026-02-08,delivered,upi,2026-02,26-35
+AHR01360,lavanya mehta,27.0,mumbai,corporate professionals,4pm,mint makhana,3,149,447,2026-10-02,delivered,credit card,2026-10,26-35
+AHR01520,sunita sharma,32.0,pune,athletes,8am,ready to mix sattu,3,99,297,2026-09-28,delivered,upi,2026-09,26-35
+AHR01840,ravi verma,20.0,bangalore,students,4pm,black pepper makhana,2,149,298,2026-10-15,delivered,upi,2026-10,18-25
+AHR01794,pallavi malhotra,40.0,bangalore,corporate professionals,8am,phool makhana,1,129,129,2026-09-09,shipped,upi,2026-09,36-50
+AHR01183,rekha verma,35.0,pune,athletes,8am,phool makhana,2,129,258,2026-09-30,delivered,upi,2026-09,26-35
+AHR02206,rekha shah,46.0,delhi ncr,homemakers,4pm,phool makhana,2,129,258,2026-10-21,returned,upi,2026-10,36-50
+AHR01111,karan patel,33.0,mumbai,corporate professionals,4pm,peri peri makhana,2,149,298,2026-01-05,delivered,credit card,2026-01,26-35
+AHR01043,siddharth singh,37.0,bangalore,corporate professionals,8am,phool makhana,1,129,129,2026-05-14,pending,net banking,2026-05,36-50
+AHR01945,arun verma,35.0,pune,corporate professionals,8am,mint makhana,1,149,149,2026-09-13,delivered,credit card,2026-09,26-35
+AHR01205,nikhil nair,29.0,mumbai,govt exam aspirants,4pm,phool makhana,1,129,129,2026-09-19,delivered,upi,2026-09,26-35
+AHR02075,pallavi reddy,24.0,mumbai,govt exam aspirants,4pm,ready to mix sattu,1,99,99,2026-07-26,delivered,net banking,2026-07,18-25
+AHR01053,madhuri chopra,25.0,bangalore,corporate professionals,8am,ready to mix sattu,3,99,297,2026-09-27,delivered,wallet,2026-09,18-25
+AHR01546,preeti mishra,27.0,mumbai,govt exam aspirants,4pm,mint makhana,1,149,149,2026-10-12,delivered,upi,2026-10,26-35
+AHR02023,raj singh,20.0,delhi ncr,govt exam aspirants,4pm,mint makhana,2,149,298,2026-10-01,delivered,upi,2026-10,18-25
+AHR01925,arjun iyer,23.0,bangalore,students,4pm,peri peri makhana,1,149,149,2026-08-03,delivered,credit card,2026-08,18-25
+AHR02024,suresh mehta,28.0,bangalore,corporate professionals,4pm,black pepper makhana,1,149,149,2026-09-19,delivered,upi,2026-09,26-35
+AHR01778,lavanya pandey,20.0,delhi,students,8am,ready to mix sattu,2,99,198,2026-01-08,delivered,upi,2026-01,18-25
+AHR01184,amit sharma,20.0,delhi,govt exam aspirants,4pm,ready to mix sattu,3,99,297,2026-08-09,delivered,upi,2026-08,18-25
+AHR01138,meera singh,25.0,delhi ncr,govt exam aspirants,8am,black pepper makhana,4,149,596,2026-04-02,delivered,credit card,2026-04,18-25
+AHR02002,meera mishra,22.0,hyderabad,athletes,8am,ready to mix sattu,4,99,396,2026-05-12,shipped,debit card,2026-05,18-25
+AHR01081,nisha nair,34.0,bangalore,corporate professionals,4pm,phool makhana,1,129,129,2026-02-24,delivered,upi,2026-02,26-35
+AHR01864,rohit joshi,40.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-10-21,delivered,upi,2026-10,36-50
+AHR01106,preeti joshi,29.0,bangalore,athletes,4pm,peri peri makhana,2,149,298,2026-06-26,delivered,upi,2026-06,26-35
+AHR01542,divya gupta,18.0,bangalore,students,8am,ready to mix sattu,1,99,99,2026-06-15,delivered,net banking,2026-06,18-25
+AHR02092,gaurav pandey,21.0,bangalore,govt exam aspirants,4pm,phool makhana,1,129,129,2026-03-11,shipped,upi,2026-03,18-25
+AHR01481,preeti patel,34.0,bangalore,corporate professionals,4pm,mint makhana,1,149,149,2026-03-17,delivered,upi,2026-03,26-35
+AHR01166,ravi shah,31.0,delhi ncr,athletes,8am,ready to mix sattu,2,99,198,2026-06-19,pending,upi,2026-06,26-35
+AHR01249,vishal joshi,39.0,delhi,homemakers,4pm,mint makhana,3,149,447,2026-06-11,delivered,wallet,2026-06,36-50
+AHR01308,harish sharma,40.0,mumbai,homemakers,8am,phool makhana,2,129,258,2026-03-09,delivered,upi,2026-03,36-50
+AHR01447,preeti iyer,25.0,mumbai,corporate professionals,8am,ready to mix sattu,2,99,198,2026-08-21,delivered,credit card,2026-08,18-25
+AHR01785,gaurav rao,38.0,delhi,corporate professionals,4pm,peri peri makhana,3,149,447,2026-08-01,delivered,upi,2026-08,36-50
+AHR01335,madhuri sharma,34.0,pune,corporate professionals,8am,peri peri makhana,3,149,447,2026-10-21,shipped,upi,2026-10,26-35
+AHR01098,madhuri das,25.0,delhi ncr,athletes,4pm,phool makhana,1,129,129,2026-06-03,pending,debit card,2026-06,18-25
+AHR02192,kritika iyer,27.0,delhi,athletes,4pm,mint makhana,1,149,149,2026-08-07,delivered,upi,2026-08,26-35
+AHR01738,vikram reddy,40.0,bangalore,corporate professionals,4pm,black pepper makhana,2,149,298,2026-05-27,delivered,upi,2026-05,36-50
+AHR01907,karan malhotra,25.0,bangalore,corporate professionals,4pm,mint makhana,2,149,298,2026-04-12,pending,net banking,2026-04,18-25
+AHR01865,pooja das,28.0,mumbai,corporate professionals,8am,ready to mix sattu,3,99,297,2026-04-09,delivered,upi,2026-04,26-35
+AHR02356,vinay nair,31.0,hyderabad,athletes,4pm,phool makhana,2,129,258,2026-10-13,shipped,upi,2026-10,26-35
+AHR01103,amit reddy,42.0,bangalore,homemakers,8am,ready to mix sattu,1,99,99,2026-04-01,delivered,upi,2026-04,36-50
+AHR01435,madhuri joshi,28.0,mumbai,corporate professionals,8am,phool makhana,2,129,258,2026-01-17,returned,net banking,2026-01,26-35
+AHR01075,pooja shah,27.0,pune,athletes,8am,black pepper makhana,1,149,149,2026-06-26,shipped,upi,2026-06,26-35
+AHR02473,arjun nair,21.0,hyderabad,students,8am,phool makhana,1,129,129,2026-04-15,delivered,debit card,2026-04,18-25
+AHR01906,rohit singh,28.0,hyderabad,corporate professionals,4pm,black pepper makhana,2,149,298,2026-05-14,shipped,upi,2026-05,26-35
+AHR02389,neha shah,29.0,delhi,govt exam aspirants,4pm,ready to mix sattu,3,99,297,2026-03-02,delivered,upi,2026-03,26-35
+AHR01303,rekha pillai,36.0,pune,corporate professionals,4pm,peri peri makhana,2,149,298,2026-04-17,delivered,upi,2026-04,36-50
+AHR02322,kritika verma,24.0,bangalore,athletes,4pm,black pepper makhana,2,149,298,2026-01-30,delivered,debit card,2026-01,18-25
+AHR02291,nikhil singh,32.0,mumbai,corporate professionals,8am,ready to mix sattu,1,99,99,2026-08-29,returned,credit card,2026-08,26-35
+AHR02250,smita pillai,21.0,delhi,students,4pm,peri peri makhana,1,149,149,2026-06-05,delivered,credit card,2026-06,18-25
+AHR01763,preeti iyer,39.0,bangalore,corporate professionals,8am,ready to mix sattu,2,99,198,2026-05-13,returned,wallet,2026-05,36-50
+AHR01734,smita shah,18.0,delhi,students,4pm,peri peri makhana,1,149,149,2026-09-19,pending,upi,2026-09,18-25
+AHR01389,akash verma,27.0,mumbai,corporate professionals,4pm,phool makhana,1,129,129,2026-07-08,shipped,net banking,2026-07,26-35
+AHR01236,nisha chopra,23.0,delhi ncr,students,4pm,peri peri makhana,1,149,149,2026-06-23,cancelled,wallet,2026-06,18-25
+AHR02273,madhuri das,30.0,delhi,homemakers,8am,ready to mix sattu,2,99,198,2026-06-25,delivered,credit card,2026-06,26-35
+AHR01268,sneha das,20.0,pune,students,4pm,black pepper makhana,1,149,149,2026-07-14,delivered,debit card,2026-07,18-25
+AHR01306,arjun iyer,30.0,mumbai,homemakers,8am,peri peri makhana,1,149,149,2026-07-11,shipped,debit card,2026-07,26-35
+AHR01118,kavya joshi,32.0,bangalore,athletes,8am,ready to mix sattu,1,99,99,2026-07-24,returned,upi,2026-07,26-35
+AHR02238,meera singh,42.0,delhi,homemakers,4pm,black pepper makhana,2,149,298,2026-05-27,delivered,credit card,2026-05,36-50
+AHR01674,neha kumar,35.0,pune,athletes,8am,phool makhana,1,129,129,2026-10-12,shipped,debit card,2026-10,26-35
+AHR01250,gaurav pillai,28.0,mumbai,athletes,4pm,peri peri makhana,1,149,149,2026-10-07,delivered,debit card,2026-10,26-35
+AHR02113,swati shah,32.0,delhi ncr,athletes,4pm,mint makhana,1,149,149,2026-02-08,delivered,upi,2026-02,26-35
+AHR02097,kritika mehta,32.0,delhi,homemakers,4pm,peri peri makhana,1,149,149,2026-03-05,delivered,credit card,2026-03,26-35
+AHR01072,gaurav patel,30.0,bangalore,corporate professionals,8am,ready to mix sattu,2,99,198,2026-09-03,delivered,upi,2026-09,26-35
+AHR01095,anita nair,32.0,mumbai,corporate professionals,8am,ready to mix sattu,2,99,198,2026-06-02,delivered,credit card,2026-06,26-35
+AHR01953,suresh pillai,22.0,delhi,students,4pm,phool makhana,1,129,129,2026-08-07,delivered,upi,2026-08,18-25
+AHR01034,arjun shah,25.0,mumbai,corporate professionals,8am,mint makhana,2,149,298,2026-04-27,shipped,upi,2026-04,18-25
+AHR02121,anjali rao,27.0,delhi ncr,athletes,8am,phool makhana,1,129,129,2026-06-28,delivered,credit card,2026-06,26-35
+AHR01449,amit chopra,29.0,hyderabad,athletes,8am,ready to mix sattu,1,99,99,2026-05-04,delivered,credit card,2026-05,26-35
+AHR01446,gaurav das,34.0,bangalore,corporate professionals,4pm,mint makhana,1,149,149,2026-02-09,delivered,upi,2026-02,26-35
+AHR01772,manish bose,33.0,bangalore,corporate professionals,8am,phool makhana,1,129,129,2026-08-03,delivered,credit card,2026-08,26-35
+AHR01717,meera bose,39.0,bangalore,corporate professionals,8am,phool makhana,3,129,387,2026-10-14,returned,net banking,2026-10,36-50
+AHR01917,rekha kumar,33.0,hyderabad,homemakers,4pm,black pepper makhana,1,149,149,2026-04-16,delivered,credit card,2026-04,26-35
+AHR02304,arjun shah,25.0,pune,corporate professionals,4pm,mint makhana,1,149,149,2026-07-31,delivered,upi,2026-07,18-25
+AHR01931,pallavi bose,30.0,mumbai,corporate professionals,8am,peri peri makhana,1,149,149,2026-01-24,delivered,upi,2026-01,26-35
+AHR02470,nisha singh,23.0,delhi,students,8am,ready to mix sattu,1,99,99,2026-08-05,delivered,credit card,2026-08,18-25
+AHR01078,sanjay reddy,38.0,hyderabad,corporate professionals,4pm,peri peri makhana,1,149,149,2026-04-09,delivered,upi,2026-04,36-50
+AHR01085,vikram das,48.0,bangalore,homemakers,8am,phool makhana,1,129,129,2026-06-14,delivered,upi,2026-06,36-50
+AHR01863,neha sharma,24.0,hyderabad,students,8am,ready to mix sattu,2,99,198,2026-08-15,shipped,credit card,2026-08,18-25
+AHR01083,vinay kumar,35.0,mumbai,athletes,4pm,mint makhana,1,149,149,2026-06-19,delivered,upi,2026-06,26-35
+AHR01458,anjali gupta,29.0,mumbai,corporate professionals,4pm,peri peri makhana,1,149,149,2026-05-07,returned,net banking,2026-05,26-35
+AHR01949,deepak das,29.235449735449734,delhi ncr,govt exam aspirants,8am,ready to mix sattu,3,99,297,2026-10-16,delivered,upi,2026-10,26-35
+AHR01677,smita singh,38.0,bangalore,corporate professionals,4pm,ready to mix sattu,1,99,99,2026-06-02,delivered,credit card,2026-06,36-50
+AHR02282,arun malhotra,29.235449735449734,bangalore,students,8am,peri peri makhana,1,149,149,2026-02-19,cancelled,credit card,2026-02,26-35
+AHR02095,meera das,23.0,delhi,students,8am,ready to mix sattu,3,99,297,2026-03-13,pending,upi,2026-03,18-25
+AHR01437,harish nair,22.0,mumbai,students,4pm,mint makhana,1,149,149,2026-09-09,delivered,credit card,2026-09,18-25
+AHR01771,madhuri singh,27.0,hyderabad,corporate professionals,8am,ready to mix sattu,2,99,198,2026-08-05,delivered,credit card,2026-08,26-35
+AHR01645,vishal bose,36.0,delhi,homemakers,8am,ready to mix sattu,2,99,198,2026-07-12,delivered,wallet,2026-07,36-50
+AHR02459,priya pillai,18.0,mumbai,students,4pm,black pepper makhana,3,149,447,2026-05-20,delivered,upi,2026-05,18-25
+AHR02141,divya malhotra,21.0,mumbai,govt exam aspirants,4pm,black pepper makhana,2,149,298,2026-09-28,shipped,upi,2026-09,18-25
+AHR02372,madhuri mehta,20.0,delhi,govt exam aspirants,4pm,phool makhana,1,129,129,2026-01-21,delivered,upi,2026-01,18-25
+AHR01405,sneha verma,32.0,bangalore,homemakers,4pm,mint makhana,3,149,447,2026-03-13,shipped,credit card,2026-03,26-35
+AHR02332,neha shah,29.0,bangalore,corporate professionals,4pm,ready to mix sattu,1,99,99,2026-03-02,delivered,wallet,2026-03,26-35
+AHR01964,anita joshi,34.0,bangalore,athletes,8am,mint makhana,4,149,596,2026-01-16,pending,net banking,2026-01,26-35
+AHR02062,ravi reddy,37.0,delhi,corporate professionals,4pm,black pepper makhana,3,149,447,2026-01-11,delivered,upi,2026-01,36-50
+AHR01105,kavya verma,28.0,mumbai,govt exam aspirants,8am,ready to mix sattu,1,99,99,2026-07-11,cancelled,net banking,2026-07,26-35
+AHR01610,preeti pandey,22.0,mumbai,students,8am,phool makhana,1,129,129,2026-08-26,delivered,upi,2026-08,18-25
+AHR01860,akash rao,32.0,bangalore,athletes,4pm,black pepper makhana,1,149,149,2026-06-15,delivered,credit card,2026-06,26-35
+AHR01689,smita shah,39.0,delhi ncr,homemakers,4pm,peri peri makhana,2,149,298,2026-05-17,delivered,debit card,2026-05,36-50
+AHR01979,manish rao,30.0,mumbai,athletes,8am,black pepper makhana,2,149,298,2026-01-05,delivered,upi,2026-01,26-35
+AHR01827,amit chopra,32.0,bangalore,corporate professionals,4pm,ready to mix sattu,2,99,198,2026-09-02,shipped,net banking,2026-09,26-35
+AHR02377,deepak rao,20.0,delhi ncr,athletes,8am,ready to mix sattu,1,99,99,2026-05-26,delivered,upi,2026-05,18-25
+AHR01063,sunita bose,37.0,bangalore,corporate professionals,8am,ready to mix sattu,2,99,198,2026-03-07,delivered,upi,2026-03,36-50
+AHR01282,vikram malhotra,27.0,delhi,athletes,4pm,ready to mix sattu,1,99,99,2026-08-22,shipped,upi,2026-08,26-35
+AHR01779,gaurav mehta,38.0,pune,corporate professionals,4pm,black pepper makhana,2,149,298,2026-08-22,delivered,upi,2026-08,36-50
+AHR02034,gaurav iyer,31.0,delhi,athletes,8am,black pepper makhana,3,149,447,2026-09-26,pending,debit card,2026-09,26-35
+AHR01239,ravi joshi,25.0,delhi,athletes,4pm,mint makhana,2,149,298,2026-06-15,shipped,upi,2026-06,18-25
+AHR01224,arun chopra,28.0,delhi,homemakers,8am,ready to mix sattu,2,99,198,2026-09-09,cancelled,upi,2026-09,26-35
+AHR01146,divya kumar,29.0,mumbai,corporate professionals,4pm,peri peri makhana,2,149,298,2026-05-11,delivered,upi,2026-05,26-35
+AHR02428,harish gupta,21.0,bangalore,students,4pm,mint makhana,1,149,149,2026-06-15,returned,upi,2026-06,18-25
+AHR01374,priya kumar,21.0,bangalore,students,8am,ready to mix sattu,1,99,99,2026-04-13,delivered,upi,2026-04,18-25
+AHR02362,raj chopra,28.0,mumbai,corporate professionals,8am,phool makhana,1,129,129,2026-02-17,pending,net banking,2026-02,26-35
+AHR01119,karan das,30.0,delhi ncr,corporate professionals,8am,phool makhana,1,129,129,2026-03-09,delivered,upi,2026-03,26-35
+AHR02150,karan patel,19.0,delhi,students,4pm,peri peri makhana,3,149,447,2026-09-08,delivered,credit card,2026-09,18-25
+AHR01251,arjun kumar,34.0,mumbai,corporate professionals,4pm,ready to mix sattu,1,99,99,2026-05-26,delivered,credit card,2026-05,26-35
+AHR02475,smita gupta,33.0,pune,athletes,4pm,phool makhana,2,129,258,2026-04-04,delivered,upi,2026-04,26-35
+AHR02235,kavya singh,26.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-08-27,delivered,wallet,2026-08,26-35
+AHR01922,arun malhotra,23.0,pune,students,8am,black pepper makhana,2,149,298,2026-04-08,pending,credit card,2026-04,18-25
+AHR01010,priya das,33.0,mumbai,athletes,8am,ready to mix sattu,3,99,297,2026-02-18,delivered,debit card,2026-02,26-35
+AHR01450,arun pandey,30.0,pune,corporate professionals,4pm,phool makhana,2,129,258,2026-07-31,delivered,upi,2026-07,26-35
+AHR01989,neha verma,20.0,mumbai,athletes,4pm,peri peri makhana,2,149,298,2026-05-01,delivered,upi,2026-05,18-25
+AHR01709,sanjay kumar,21.0,delhi ncr,athletes,8am,phool makhana,2,129,258,2026-03-18,delivered,upi,2026-03,18-25
+AHR01256,karan rao,30.0,delhi ncr,govt exam aspirants,8am,phool makhana,1,129,129,2026-03-03,pending,upi,2026-03,26-35
+AHR01594,siddharth pillai,31.0,mumbai,corporate professionals,4pm,black pepper makhana,2,149,298,2026-08-25,delivered,upi,2026-08,26-35
+AHR01390,madhuri bose,50.0,bangalore,homemakers,8am,ready to mix sattu,1,99,99,2026-02-09,delivered,upi,2026-02,36-50
+AHR01988,kritika malhotra,25.0,mumbai,govt exam aspirants,8am,ready to mix sattu,1,99,99,2026-08-06,delivered,credit card,2026-08,18-25
+AHR02227,anjali joshi,24.0,delhi,govt exam aspirants,4pm,mint makhana,1,149,149,2026-04-28,delivered,net banking,2026-04,18-25
+AHR01558,akash patel,20.0,bangalore,students,8am,ready to mix sattu,2,99,198,2026-04-27,pending,debit card,2026-04,18-25
+AHR02316,sneha pandey,35.0,delhi ncr,corporate professionals,4pm,peri peri makhana,2,149,298,2026-02-28,delivered,upi,2026-02,26-35
+AHR01868,suresh nair,24.0,delhi,athletes,8am,ready to mix sattu,1,99,99,2026-07-12,pending,credit card,2026-07,18-25
+AHR01461,akash shah,35.0,pune,homemakers,8am,phool makhana,1,129,129,2026-05-11,delivered,net banking,2026-05,26-35
+AHR01724,sanjay singh,20.0,delhi,students,8am,mint makhana,1,149,149,2026-02-12,cancelled,net banking,2026-02,18-25
+AHR02411,nisha sharma,33.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-06-26,delivered,upi,2026-06,26-35
+AHR01145,gaurav kumar,23.0,bangalore,athletes,8am,ready to mix sattu,4,99,396,2026-02-08,delivered,upi,2026-02,18-25
+AHR01502,madhuri mishra,22.0,mumbai,students,4pm,mint makhana,1,149,149,2026-09-11,shipped,credit card,2026-09,18-25
+AHR02119,karan das,29.0,pune,corporate professionals,8am,phool makhana,3,129,387,2026-06-13,delivered,upi,2026-06,26-35
+AHR01740,vinay mehta,23.0,bangalore,students,8am,phool makhana,4,129,516,2026-02-04,delivered,upi,2026-02,18-25
+AHR02457,madhuri bose,22.0,delhi,govt exam aspirants,8am,mint makhana,3,149,447,2026-02-20,delivered,credit card,2026-02,18-25
+AHR01732,deepak das,22.0,bangalore,athletes,8am,phool makhana,4,129,516,2026-02-24,delivered,debit card,2026-02,18-25
+AHR01540,kavya bose,30.0,mumbai,corporate professionals,8am,peri peri makhana,1,149,149,2026-02-16,delivered,upi,2026-02,26-35
+AHR01178,sanjay joshi,30.0,mumbai,corporate professionals,8am,ready to mix sattu,3,99,297,2026-01-12,delivered,upi,2026-01,26-35
+AHR02477,rekha iyer,39.0,pune,corporate professionals,4pm,black pepper makhana,1,149,149,2026-06-13,delivered,upi,2026-06,36-50
+AHR01698,shreya shah,26.0,bangalore,corporate professionals,8am,ready to mix sattu,2,99,198,2026-07-21,delivered,upi,2026-07,26-35
+AHR01971,neha kumar,22.0,bangalore,athletes,4pm,mint makhana,1,149,149,2026-03-01,cancelled,upi,2026-03,18-25
+AHR02066,ravi reddy,36.0,mumbai,corporate professionals,8am,ready to mix sattu,1,99,99,2026-05-19,delivered,net banking,2026-05,36-50
+AHR01905,harish pillai,29.0,mumbai,corporate professionals,4pm,phool makhana,2,129,258,2026-04-28,delivered,upi,2026-04,26-35
+AHR02301,smita reddy,20.0,mumbai,athletes,4pm,peri peri makhana,2,149,298,2026-01-22,delivered,upi,2026-01,18-25
+AHR02256,divya das,34.0,pune,corporate professionals,4pm,peri peri makhana,1,149,149,2026-09-22,delivered,net banking,2026-09,26-35
+AHR01008,meera nair,21.0,pune,students,4pm,peri peri makhana,2,149,298,2026-06-29,pending,credit card,2026-06,18-25
+AHR02387,gaurav chopra,39.0,pune,corporate professionals,4pm,peri peri makhana,1,149,149,2026-02-07,delivered,wallet,2026-02,36-50
+AHR01668,swati chopra,27.0,delhi,govt exam aspirants,8am,phool makhana,1,129,129,2026-03-28,cancelled,upi,2026-03,26-35
+AHR02203,rohit sharma,22.0,mumbai,students,8am,ready to mix sattu,2,99,198,2026-08-08,delivered,credit card,2026-08,18-25
+AHR01358,vishal nair,23.0,delhi ncr,students,8am,black pepper makhana,2,149,298,2026-09-08,delivered,debit card,2026-09,18-25
+AHR01784,sanjay pillai,29.235449735449734,hyderabad,corporate professionals,4pm,mint makhana,3,149,447,2026-07-22,delivered,upi,2026-07,26-35
+AHR01736,amit chopra,30.0,pune,homemakers,8am,ready to mix sattu,1,99,99,2026-02-22,cancelled,upi,2026-02,26-35
+AHR01330,sunita verma,38.0,delhi,corporate professionals,4pm,black pepper makhana,2,149,298,2026-08-06,delivered,upi,2026-08,36-50
+AHR02407,kavya pillai,20.0,bangalore,athletes,4pm,black pepper makhana,1,149,149,2026-10-03,delivered,upi,2026-10,18-25
+AHR02173,gaurav malhotra,29.235449735449734,mumbai,corporate professionals,8am,phool makhana,1,129,129,2026-03-19,delivered,upi,2026-03,26-35
+AHR02325,rekha gupta,24.0,pune,students,8am,black pepper makhana,1,149,149,2026-08-08,delivered,upi,2026-08,18-25
+AHR01259,lavanya kumar,33.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-10-20,shipped,credit card,2026-10,26-35
+AHR02200,sneha das,20.0,mumbai,students,8am,ready to mix sattu,1,99,99,2026-06-05,shipped,net banking,2026-06,18-25
+AHR01373,preeti iyer,20.0,mumbai,students,4pm,black pepper makhana,2,149,298,2026-06-16,delivered,debit card,2026-06,18-25
+AHR02125,kritika nair,30.0,mumbai,athletes,8am,ready to mix sattu,2,99,198,2026-09-18,cancelled,upi,2026-09,26-35
+AHR02467,akash patel,23.0,delhi,govt exam aspirants,8am,phool makhana,1,129,129,2026-09-26,delivered,upi,2026-09,18-25
+AHR01143,gaurav bose,33.0,delhi ncr,corporate professionals,4pm,phool makhana,1,129,129,2026-06-10,returned,upi,2026-06,26-35
+AHR01526,shreya das,35.0,mumbai,corporate professionals,4pm,black pepper makhana,2,149,298,2026-07-13,delivered,upi,2026-07,26-35
+AHR02161,ravi pillai,39.0,pune,corporate professionals,4pm,peri peri makhana,1,149,149,2026-05-09,delivered,wallet,2026-05,36-50
+AHR01233,shreya pandey,28.0,delhi,govt exam aspirants,4pm,black pepper makhana,1,149,149,2026-06-15,delivered,debit card,2026-06,26-35
+AHR02272,vikram joshi,47.0,pune,homemakers,4pm,mint makhana,2,149,298,2026-10-29,delivered,net banking,2026-10,36-50
+AHR02453,smita mishra,28.0,mumbai,govt exam aspirants,4pm,mint makhana,1,149,149,2026-07-05,delivered,net banking,2026-07,26-35
+AHR01441,nisha pandey,35.0,bangalore,corporate professionals,8am,black pepper makhana,3,149,447,2026-02-28,delivered,upi,2026-02,26-35
+AHR01532,neha chopra,38.0,bangalore,corporate professionals,8am,phool makhana,1,129,129,2026-09-06,delivered,upi,2026-09,36-50
+AHR02228,anita singh,23.0,bangalore,students,8am,phool makhana,3,129,387,2026-04-16,delivered,debit card,2026-04,18-25
+AHR01227,vinay joshi,34.0,bangalore,athletes,4pm,mint makhana,3,149,447,2026-04-04,delivered,upi,2026-04,26-35
+AHR02053,lavanya patel,38.0,bangalore,corporate professionals,4pm,peri peri makhana,1,149,149,2026-02-07,delivered,debit card,2026-02,36-50
+AHR01229,rekha sharma,20.0,bangalore,students,8am,ready to mix sattu,1,99,99,2026-01-08,delivered,upi,2026-01,18-25
+AHR02308,sneha bose,40.0,mumbai,corporate professionals,4pm,phool makhana,3,129,387,2026-02-09,delivered,upi,2026-02,36-50
+AHR02326,raj patel,31.0,pune,athletes,4pm,ready to mix sattu,1,99,99,2026-03-10,delivered,debit card,2026-03,26-35
+AHR01213,karan mehta,36.0,mumbai,corporate professionals,8am,mint makhana,3,149,447,2026-05-12,delivered,upi,2026-05,36-50
+AHR01886,smita sharma,25.0,mumbai,corporate professionals,8am,black pepper makhana,2,149,298,2026-06-06,delivered,debit card,2026-06,18-25
+AHR01080,anita shah,38.0,mumbai,corporate professionals,4pm,phool makhana,2,129,258,2026-10-28,delivered,upi,2026-10,36-50
+AHR01149,anita mishra,40.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-04-22,cancelled,upi,2026-04,36-50
+AHR01815,shreya pillai,22.0,delhi,students,8am,ready to mix sattu,2,99,198,2026-07-31,delivered,credit card,2026-07,18-25
+AHR01934,vishal singh,36.0,mumbai,corporate professionals,8am,peri peri makhana,3,149,447,2026-04-28,delivered,upi,2026-04,36-50
+AHR01943,ravi bose,32.0,bangalore,corporate professionals,4pm,mint makhana,1,149,149,2026-03-14,delivered,debit card,2026-03,26-35
+AHR01672,pooja pillai,23.0,mumbai,athletes,4pm,ready to mix sattu,2,99,198,2026-10-21,delivered,credit card,2026-10,18-25
+AHR02180,nikhil das,24.0,mumbai,govt exam aspirants,8am,ready to mix sattu,1,99,99,2026-08-18,returned,upi,2026-08,18-25
+AHR01556,sunita malhotra,21.0,hyderabad,students,4pm,black pepper makhana,2,149,298,2026-01-04,delivered,debit card,2026-01,18-25
+AHR01938,vinay singh,37.0,delhi ncr,corporate professionals,8am,phool makhana,2,129,258,2026-03-19,delivered,credit card,2026-03,36-50
+AHR01134,sunita malhotra,32.0,hyderabad,homemakers,4pm,mint makhana,3,149,447,2026-04-01,delivered,upi,2026-04,26-35
+AHR02266,neha iyer,29.0,bangalore,corporate professionals,4pm,black pepper makhana,3,149,447,2026-02-06,delivered,upi,2026-02,26-35
+AHR01824,pooja gupta,32.0,bangalore,corporate professionals,8am,ready to mix sattu,2,99,198,2026-09-23,delivered,credit card,2026-09,26-35
+AHR01409,vinay singh,32.0,bangalore,corporate professionals,4pm,black pepper makhana,1,149,149,2026-05-28,delivered,upi,2026-05,26-35
+AHR01369,karan kumar,47.0,delhi,homemakers,8am,ready to mix sattu,1,99,99,2026-03-02,returned,wallet,2026-03,36-50
+AHR01508,sunita reddy,26.0,bangalore,corporate professionals,4pm,peri peri makhana,1,149,149,2026-09-10,delivered,upi,2026-09,26-35
+AHR02207,vikram das,22.0,delhi,govt exam aspirants,8am,mint makhana,3,149,447,2026-06-10,delivered,upi,2026-06,18-25
+AHR01505,akash shah,35.0,mumbai,corporate professionals,8am,black pepper makhana,1,149,149,2026-08-13,delivered,upi,2026-08,26-35
+AHR02361,manish singh,40.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-02-08,returned,upi,2026-02,36-50
+AHR01348,raj chopra,28.0,bangalore,athletes,8am,phool makhana,2,129,258,2026-04-05,pending,credit card,2026-04,26-35
+AHR01387,harish gupta,20.0,bangalore,students,4pm,phool makhana,2,129,258,2026-04-18,shipped,debit card,2026-04,18-25
+AHR01001,anita sharma,29.0,delhi,corporate professionals,8am,ready to mix sattu,1,99,99,2026-03-14,delivered,upi,2026-03,26-35
+AHR01361,shreya sharma,18.0,bangalore,students,4pm,mint makhana,3,149,447,2026-01-24,delivered,credit card,2026-01,18-25
+AHR01895,manish das,21.0,pune,athletes,8am,black pepper makhana,1,149,149,2026-09-17,pending,credit card,2026-09,18-25
+AHR01829,vishal pandey,40.0,bangalore,corporate professionals,8am,black pepper makhana,3,149,447,2026-06-30,returned,credit card,2026-06,36-50
+AHR02445,kavya shah,31.0,delhi,athletes,8am,ready to mix sattu,1,99,99,2026-01-10,delivered,upi,2026-01,26-35
+AHR01476,lavanya pillai,40.0,mumbai,corporate professionals,8am,phool makhana,2,129,258,2026-10-25,delivered,upi,2026-10,36-50
+AHR02309,amit kumar,21.0,bangalore,govt exam aspirants,4pm,ready to mix sattu,1,99,99,2026-06-08,cancelled,upi,2026-06,18-25
+AHR01058,sneha patel,24.0,pune,students,4pm,phool makhana,2,129,258,2026-10-16,cancelled,debit card,2026-10,18-25
+AHR01638,divya verma,29.0,mumbai,athletes,4pm,mint makhana,1,149,149,2026-08-05,delivered,upi,2026-08,26-35
+AHR02335,siddharth malhotra,21.0,bangalore,students,8am,phool makhana,1,129,129,2026-04-06,shipped,upi,2026-04,18-25
+AHR02220,siddharth sharma,24.0,bangalore,students,4pm,ready to mix sattu,2,99,198,2026-04-26,delivered,upi,2026-04,18-25
+AHR01984,kritika rao,30.0,bangalore,corporate professionals,4pm,phool makhana,1,129,129,2026-03-14,shipped,upi,2026-03,26-35
+AHR01173,nisha patel,50.0,delhi,homemakers,8am,phool makhana,3,129,387,2026-01-21,returned,upi,2026-01,36-50
+AHR01451,rohit sharma,35.0,bangalore,athletes,8am,ready to mix sattu,1,99,99,2026-05-06,shipped,upi,2026-05,26-35
+AHR01126,harish sharma,40.0,mumbai,corporate professionals,4pm,black pepper makhana,1,149,149,2026-09-13,delivered,upi,2026-09,36-50
+AHR02011,nikhil pillai,23.0,delhi,students,8am,ready to mix sattu,4,99,396,2026-01-12,shipped,upi,2026-01,18-25
+AHR01531,suresh nair,34.0,bangalore,corporate professionals,4pm,phool makhana,1,129,129,2026-07-29,delivered,upi,2026-07,26-35
+AHR01858,pooja rao,20.0,delhi,students,8am,black pepper makhana,2,149,298,2026-08-24,delivered,debit card,2026-08,18-25
+AHR01714,rekha pillai,32.0,mumbai,athletes,8am,phool makhana,2,129,258,2026-07-10,delivered,upi,2026-07,26-35
+AHR01091,harish joshi,20.0,pune,athletes,4pm,peri peri makhana,1,149,149,2026-01-11,pending,wallet,2026-01,18-25
+AHR02481,priya pandey,21.0,bangalore,govt exam aspirants,4pm,black pepper makhana,1,149,149,2026-06-21,delivered,upi,2026-06,18-25
+AHR01182,sneha kumar,21.0,delhi,students,8am,ready to mix sattu,1,99,99,2026-09-25,pending,credit card,2026-09,18-25
+AHR01876,vinay nair,22.0,delhi,govt exam aspirants,4pm,black pepper makhana,2,149,298,2026-01-27,delivered,upi,2026-01,18-25
+AHR02032,preeti sharma,21.0,mumbai,govt exam aspirants,4pm,phool makhana,1,129,129,2026-09-05,pending,upi,2026-09,18-25
+AHR01787,raj reddy,26.0,bangalore,govt exam aspirants,8am,mint makhana,3,149,447,2026-10-23,delivered,net banking,2026-10,26-35
+AHR01415,sanjay pandey,32.0,bangalore,corporate professionals,8am,peri peri makhana,1,149,149,2026-03-25,delivered,upi,2026-03,26-35
+AHR01252,suresh bose,29.0,bangalore,govt exam aspirants,8am,ready to mix sattu,2,99,198,2026-05-22,cancelled,credit card,2026-05,26-35
+AHR01070,rahul verma,31.0,delhi ncr,corporate professionals,4pm,black pepper makhana,1,149,149,2026-01-28,delivered,upi,2026-01,26-35
+AHR01804,pooja shah,35.0,mumbai,corporate professionals,8am,ready to mix sattu,1,99,99,2026-03-16,shipped,upi,2026-03,26-35
+AHR01132,deepak sharma,46.0,bangalore,homemakers,8am,ready to mix sattu,2,99,198,2026-01-24,cancelled,debit card,2026-01,36-50
+AHR01301,siddharth pillai,30.0,delhi,govt exam aspirants,4pm,peri peri makhana,3,149,447,2026-09-03,cancelled,debit card,2026-09,26-35
+AHR02042,rekha rao,30.0,bangalore,corporate professionals,8am,black pepper makhana,2,149,298,2026-08-14,delivered,debit card,2026-08,26-35
+AHR01327,kavya rao,38.0,bangalore,corporate professionals,8am,ready to mix sattu,2,99,198,2026-06-12,delivered,upi,2026-06,36-50
+AHR02495,swati mishra,46.0,delhi ncr,homemakers,4pm,black pepper makhana,3,149,447,2026-04-24,pending,upi,2026-04,36-50
+AHR02135,sneha kumar,30.0,bangalore,athletes,4pm,peri peri makhana,1,149,149,2026-04-09,delivered,wallet,2026-04,26-35
+AHR01500,anjali sharma,23.0,delhi,students,4pm,peri peri makhana,1,149,149,2026-03-01,delivered,upi,2026-03,18-25
+AHR01342,vinay singh,40.0,mumbai,corporate professionals,4pm,phool makhana,3,129,387,2026-04-30,delivered,debit card,2026-04,36-50
+AHR01833,akash joshi,35.0,bangalore,athletes,4pm,ready to mix sattu,4,99,396,2026-04-23,delivered,upi,2026-04,26-35
+AHR01365,rohit reddy,26.0,bangalore,corporate professionals,4pm,peri peri makhana,1,149,149,2026-03-26,delivered,net banking,2026-03,26-35
+AHR01496,sanjay bose,18.0,bangalore,students,4pm,peri peri makhana,2,149,298,2026-08-11,delivered,upi,2026-08,18-25
+AHR02424,deepak verma,21.0,delhi ncr,athletes,4pm,peri peri makhana,2,149,298,2026-03-10,delivered,debit card,2026-03,18-25
+AHR01339,madhuri nair,35.0,delhi,corporate professionals,8am,phool makhana,1,129,129,2026-04-03,shipped,net banking,2026-04,26-35
+AHR01422,lavanya patel,23.0,bangalore,students,4pm,peri peri makhana,2,149,298,2026-06-30,delivered,credit card,2026-06,18-25
+AHR01165,gaurav verma,19.0,delhi,students,4pm,black pepper makhana,4,149,596,2026-03-28,delivered,upi,2026-03,18-25
+AHR01029,amit nair,27.0,bangalore,corporate professionals,4pm,peri peri makhana,3,149,447,2026-10-02,delivered,credit card,2026-10,26-35
+AHR01517,madhuri reddy,27.0,hyderabad,corporate professionals,4pm,phool makhana,1,129,129,2026-01-06,delivered,credit card,2026-01,26-35
+AHR01194,rekha rao,22.0,pune,govt exam aspirants,4pm,peri peri makhana,2,149,298,2026-09-19,delivered,upi,2026-09,18-25
+AHR02157,swati chopra,20.0,delhi ncr,students,8am,phool makhana,2,129,258,2026-05-28,delivered,upi,2026-05,18-25
+AHR02468,unknown,36.0,bangalore,corporate professionals,8am,ready to mix sattu,3,99,297,2026-07-03,delivered,upi,2026-07,36-50
+AHR01946,unknown,29.0,mumbai,corporate professionals,4pm,black pepper makhana,2,149,298,2026-02-23,delivered,upi,2026-02,26-35
+AHR02390,smita kumar,20.0,delhi,athletes,4pm,ready to mix sattu,2,99,198,2026-10-05,delivered,upi,2026-10,18-25
+AHR01170,unknown,44.0,mumbai,homemakers,4pm,phool makhana,1,129,129,2026-09-14,delivered,upi,2026-09,36-50
+AHR01168,pallavi malhotra,46.0,bangalore,homemakers,8am,ready to mix sattu,1,99,99,2026-09-17,delivered,debit card,2026-09,36-50
+AHR01653,vikram kumar,23.0,pune,govt exam aspirants,4pm,mint makhana,3,149,447,2026-03-01,delivered,credit card,2026-03,18-25
+AHR01174,ravi verma,31.0,hyderabad,athletes,8am,black pepper makhana,2,149,298,2026-10-19,delivered,credit card,2026-10,26-35
+AHR01519,raj bose,28.0,delhi,govt exam aspirants,4pm,phool makhana,4,129,516,2026-08-03,delivered,credit card,2026-08,26-35
+AHR02240,suresh nair,35.0,mumbai,athletes,8am,phool makhana,2,129,258,2026-03-17,shipped,debit card,2026-03,26-35
+AHR02206,rekha shah,46.0,delhi ncr,homemakers,4pm,phool makhana,2,129,258,2026-10-21,returned,upi,2026-10,36-50
+AHR01913,shreya gupta,34.0,delhi,corporate professionals,8am,ready to mix sattu,2,99,198,2026-05-24,cancelled,upi,2026-05,26-35
+AHR01492,akash pillai,26.0,pune,corporate professionals,8am,ready to mix sattu,3,99,297,2026-05-08,delivered,upi,2026-05,26-35
+AHR01954,karan patel,24.0,delhi ncr,govt exam aspirants,4pm,black pepper makhana,1,149,149,2026-10-31,delivered,debit card,2026-10,18-25
+AHR01074,sanjay joshi,32.0,delhi,corporate professionals,8am,ready to mix sattu,1,99,99,2026-01-23,delivered,upi,2026-01,26-35
+AHR02281,kavya das,26.0,delhi,corporate professionals,8am,ready to mix sattu,1,99,99,2026-03-13,delivered,upi,2026-03,26-35
+AHR01588,swati sharma,36.0,mumbai,corporate professionals,4pm,mint makhana,2,149,298,2026-08-07,delivered,upi,2026-08,36-50
+AHR01751,nisha reddy,34.0,delhi,homemakers,8am,ready to mix sattu,4,99,396,2026-09-25,delivered,wallet,2026-09,26-35
+AHR01658,smita reddy,20.0,mumbai,athletes,8am,phool makhana,2,129,258,2026-03-07,pending,wallet,2026-03,18-25
+AHR01843,raj bose,22.0,pune,students,4pm,peri peri makhana,1,149,149,2026-04-13,delivered,upi,2026-04,18-25
+AHR01235,nisha bose,40.0,mumbai,corporate professionals,8am,ready to mix sattu,2,99,198,2026-01-05,returned,credit card,2026-01,36-50
+AHR01733,siddharth bose,33.0,bangalore,corporate professionals,4pm,mint makhana,1,149,149,2026-06-19,delivered,upi,2026-06,26-35
+AHR01215,vikram verma,30.0,delhi,corporate professionals,4pm,phool makhana,1,129,129,2026-05-27,delivered,wallet,2026-05,26-35
+AHR01163,raj kumar,19.0,delhi,students,4pm,peri peri makhana,1,149,149,2026-10-25,delivered,upi,2026-10,18-25
+AHR01133,deepak verma,45.0,bangalore,homemakers,4pm,mint makhana,2,149,298,2026-09-13,delivered,debit card,2026-09,36-50
+AHR02126,siddharth singh,22.0,pune,govt exam aspirants,8am,phool makhana,2,129,258,2026-02-06,delivered,credit card,2026-02,18-25
+AHR01223,rekha shah,25.0,pune,corporate professionals,8am,ready to mix sattu,1,99,99,2026-07-31,delivered,upi,2026-07,18-25
+AHR02254,nikhil rao,25.0,delhi,corporate professionals,8am,mint makhana,2,149,298,2026-08-20,delivered,upi,2026-08,18-25
+AHR01935,ravi kumar,37.0,mumbai,corporate professionals,4pm,phool makhana,1,129,129,2026-01-11,shipped,credit card,2026-01,36-50
+AHR01186,rohit gupta,25.0,mumbai,corporate professionals,4pm,phool makhana,1,129,129,2026-10-06,delivered,upi,2026-10,18-25
+AHR01042,arun singh,37.0,pune,corporate professionals,4pm,mint makhana,4,149,596,2026-02-13,delivered,credit card,2026-02,36-50
+AHR01693,lavanya pandey,23.0,pune,students,4pm,black pepper makhana,3,149,447,2026-03-11,delivered,credit card,2026-03,18-25
+AHR01109,akash nair,24.0,bangalore,students,4pm,peri peri makhana,2,149,298,2026-01-20,delivered,credit card,2026-01,18-25
+AHR01039,arjun iyer,25.0,delhi,corporate professionals,4pm,peri peri makhana,3,149,447,2026-05-06,delivered,net banking,2026-05,18-25
+AHR01569,karan pandey,30.0,delhi,homemakers,8am,peri peri makhana,2,149,298,2026-02-25,delivered,credit card,2026-02,26-35
+AHR02025,lavanya chopra,32.0,bangalore,homemakers,4pm,mint makhana,2,149,298,2026-03-28,delivered,credit card,2026-03,26-35
+AHR02446,arjun pandey,28.0,hyderabad,athletes,8am,ready to mix sattu,2,99,198,2026-01-09,delivered,upi,2026-01,26-35
+AHR01484,nisha das,35.0,mumbai,athletes,4pm,black pepper makhana,1,149,149,2026-02-11,delivered,debit card,2026-02,26-35
+AHR01469,arun verma,22.0,pune,govt exam aspirants,8am,black pepper makhana,1,149,149,2026-07-25,delivered,credit card,2026-07,18-25
+AHR01891,vikram shah,25.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-05-09,shipped,debit card,2026-05,18-25
+AHR01948,preeti bose,29.0,delhi,athletes,8am,phool makhana,1,129,129,2026-01-05,delivered,upi,2026-01,26-35
+AHR01025,neha das,27.0,delhi ncr,corporate professionals,8am,phool makhana,4,129,516,2026-09-11,delivered,upi,2026-09,26-35
+AHR02033,neha mehta,39.0,mumbai,corporate professionals,8am,ready to mix sattu,2,99,198,2026-03-03,delivered,upi,2026-03,36-50
+AHR02218,harish mehta,38.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-02-05,delivered,credit card,2026-02,36-50
+AHR01069,arjun iyer,40.0,bangalore,corporate professionals,8am,black pepper makhana,2,149,298,2026-02-17,delivered,wallet,2026-02,36-50
+AHR01885,gaurav bose,37.0,delhi,corporate professionals,4pm,ready to mix sattu,3,99,297,2026-07-16,delivered,net banking,2026-07,36-50
+AHR02293,pooja sharma,31.0,mumbai,corporate professionals,8am,ready to mix sattu,1,99,99,2026-05-14,delivered,upi,2026-05,26-35
+AHR01851,nikhil singh,22.0,bangalore,students,4pm,peri peri makhana,1,149,149,2026-04-15,delivered,upi,2026-04,18-25
+AHR01735,vikram mehta,23.0,pune,students,8am,ready to mix sattu,2,99,198,2026-04-26,cancelled,credit card,2026-04,18-25
+AHR01718,anita shah,20.0,delhi,students,8am,peri peri makhana,2,149,298,2026-09-15,shipped,upi,2026-09,18-25
+AHR01455,vinay singh,33.0,bangalore,corporate professionals,4pm,peri peri makhana,2,149,298,2026-10-25,cancelled,net banking,2026-10,26-35
+AHR01265,raj chopra,40.0,mumbai,corporate professionals,8am,black pepper makhana,1,149,149,2026-10-07,delivered,upi,2026-10,36-50
+AHR01076,arjun das,24.0,delhi,govt exam aspirants,4pm,mint makhana,2,149,298,2026-09-01,delivered,upi,2026-09,18-25
+AHR01445,swati verma,35.0,bangalore,corporate professionals,4pm,black pepper makhana,2,149,298,2026-02-17,delivered,credit card,2026-02,26-35
+AHR01396,harish rao,18.0,bangalore,students,4pm,mint makhana,1,149,149,2026-07-09,delivered,credit card,2026-07,18-25
+AHR01177,anjali malhotra,28.0,bangalore,corporate professionals,8am,black pepper makhana,1,149,149,2026-04-28,delivered,upi,2026-04,26-35
+AHR02339,smita pillai,31.0,bangalore,corporate professionals,8am,mint makhana,1,149,149,2026-02-23,delivered,debit card,2026-02,26-35
+AHR02313,pooja sharma,32.0,mumbai,athletes,4pm,black pepper makhana,1,149,149,2026-04-11,delivered,upi,2026-04,26-35
+AHR02056,shreya das,35.0,hyderabad,corporate professionals,4pm,black pepper makhana,1,149,149,2026-06-14,delivered,upi,2026-06,26-35
+AHR01596,smita reddy,32.0,mumbai,athletes,4pm,black pepper makhana,1,149,149,2026-04-26,delivered,credit card,2026-04,26-35
+AHR01062,deepak pandey,36.0,bangalore,corporate professionals,4pm,black pepper makhana,4,149,596,2026-06-12,delivered,wallet,2026-06,36-50
+AHR01873,anita pillai,21.0,bangalore,students,4pm,phool makhana,2,129,258,2026-01-19,delivered,upi,2026-01,18-25
+AHR02143,nisha mishra,30.0,mumbai,corporate professionals,4pm,black pepper makhana,2,149,298,2026-08-11,shipped,credit card,2026-08,26-35
+AHR02436,rekha mehta,30.0,bangalore,athletes,4pm,black pepper makhana,2,149,298,2026-02-07,delivered,upi,2026-02,26-35
+AHR01279,anjali bose,31.0,bangalore,corporate professionals,8am,phool makhana,1,129,129,2026-05-19,cancelled,upi,2026-05,26-35
+AHR01037,sanjay gupta,37.0,bangalore,homemakers,4pm,phool makhana,1,129,129,2026-08-27,pending,debit card,2026-08,36-50
+AHR01663,raj patel,35.0,bangalore,athletes,4pm,phool makhana,1,129,129,2026-01-27,cancelled,debit card,2026-01,26-35
+AHR02381,nisha iyer,29.0,bangalore,athletes,4pm,black pepper makhana,1,149,149,2026-10-18,cancelled,upi,2026-10,26-35
+AHR02107,meera pillai,30.0,bangalore,govt exam aspirants,8am,phool makhana,3,129,387,2026-08-22,pending,upi,2026-08,26-35
+AHR01978,sunita bose,22.0,mumbai,students,8am,black pepper makhana,1,149,149,2026-03-13,delivered,upi,2026-03,18-25
+AHR01739,vinay chopra,30.0,delhi,govt exam aspirants,4pm,black pepper makhana,1,149,149,2026-01-02,pending,wallet,2026-01,26-35
+AHR01192,pallavi mishra,37.0,hyderabad,corporate professionals,8am,ready to mix sattu,1,99,99,2026-01-20,shipped,net banking,2026-01,36-50
+AHR01920,suresh reddy,32.0,mumbai,corporate professionals,8am,phool makhana,4,129,516,2026-03-01,returned,debit card,2026-03,26-35
+AHR01457,kritika iyer,26.0,bangalore,corporate professionals,8am,ready to mix sattu,4,99,396,2026-08-14,delivered,net banking,2026-08,26-35
+AHR01676,pallavi rao,25.0,pune,athletes,8am,ready to mix sattu,1,99,99,2026-01-21,delivered,upi,2026-01,18-25
+AHR01761,sanjay rao,24.0,bangalore,govt exam aspirants,4pm,phool makhana,2,129,258,2026-09-12,delivered,upi,2026-09,18-25
+AHR02382,pallavi verma,30.0,bangalore,corporate professionals,4pm,phool makhana,3,129,387,2026-10-22,shipped,credit card,2026-10,26-35
+AHR01729,anita sharma,31.0,bangalore,corporate professionals,4pm,black pepper makhana,1,149,149,2026-03-25,pending,debit card,2026-03,26-35
+AHR01413,anita das,30.0,bangalore,corporate professionals,4pm,ready to mix sattu,1,99,99,2026-04-04,shipped,credit card,2026-04,26-35
+AHR01826,arjun iyer,23.0,mumbai,students,4pm,phool makhana,1,129,129,2026-04-16,delivered,upi,2026-04,18-25
+AHR01617,manish singh,35.0,hyderabad,corporate professionals,8am,ready to mix sattu,1,99,99,2026-06-15,delivered,upi,2026-06,26-35
+AHR01418,vishal malhotra,24.0,pune,athletes,4pm,peri peri makhana,2,149,298,2026-01-15,shipped,upi,2026-01,18-25
+AHR02458,pooja shah,24.0,delhi ncr,govt exam aspirants,8am,ready to mix sattu,3,99,297,2026-03-03,delivered,upi,2026-03,18-25
+AHR01970,ravi pandey,31.0,delhi,homemakers,8am,mint makhana,3,149,447,2026-01-02,delivered,credit card,2026-01,26-35
+AHR01605,ravi mehta,24.0,bangalore,students,4pm,phool makhana,1,129,129,2026-06-02,delivered,debit card,2026-06,18-25
+AHR02464,shreya iyer,34.0,delhi,athletes,8am,ready to mix sattu,2,99,198,2026-05-19,delivered,upi,2026-05,26-35
+AHR01090,rekha joshi,31.0,mumbai,corporate professionals,4pm,black pepper makhana,2,149,298,2026-05-26,delivered,upi,2026-05,26-35
+AHR01849,siddharth iyer,40.0,bangalore,corporate professionals,4pm,black pepper makhana,2,149,298,2026-09-22,delivered,debit card,2026-09,36-50
+AHR02169,pallavi nair,31.0,delhi ncr,corporate professionals,4pm,peri peri makhana,2,149,298,2026-10-16,shipped,credit card,2026-10,26-35
+AHR02463,manish malhotra,34.0,bangalore,athletes,4pm,peri peri makhana,1,149,149,2026-04-01,pending,credit card,2026-04,26-35
+AHR01754,gaurav patel,37.0,mumbai,homemakers,8am,ready to mix sattu,1,99,99,2026-02-24,delivered,credit card,2026-02,36-50
+AHR01499,shreya bose,24.0,delhi ncr,students,8am,peri peri makhana,1,149,149,2026-05-04,delivered,credit card,2026-05,18-25
+AHR01012,nikhil nair,30.0,delhi ncr,homemakers,4pm,mint makhana,1,149,149,2026-08-01,delivered,upi,2026-08,26-35
+AHR01397,anjali singh,26.0,delhi,govt exam aspirants,8am,ready to mix sattu,4,99,396,2026-10-01,delivered,net banking,2026-10,26-35
+AHR01285,harish kumar,39.0,bangalore,corporate professionals,8am,mint makhana,3,149,447,2026-10-07,delivered,upi,2026-10,36-50
+AHR02067,lavanya reddy,34.0,bangalore,homemakers,4pm,peri peri makhana,3,149,447,2026-01-14,delivered,debit card,2026-01,26-35
+AHR01691,vinay nair,35.0,hyderabad,corporate professionals,4pm,phool makhana,1,129,129,2026-02-14,cancelled,upi,2026-02,26-35
+AHR02280,meera mehta,38.0,hyderabad,corporate professionals,4pm,mint makhana,1,149,149,2026-10-18,delivered,upi,2026-10,36-50
+AHR02433,preeti rao,31.0,bangalore,athletes,8am,ready to mix sattu,2,99,198,2026-04-20,delivered,credit card,2026-04,26-35
+AHR01690,anita verma,33.0,delhi ncr,corporate professionals,4pm,black pepper makhana,1,149,149,2026-07-01,shipped,credit card,2026-07,26-35
+AHR01852,swati bose,24.0,mumbai,students,8am,ready to mix sattu,4,99,396,2026-05-01,pending,credit card,2026-05,18-25
+AHR01160,arun kumar,32.0,pune,athletes,4pm,ready to mix sattu,3,99,297,2026-03-14,delivered,upi,2026-03,26-35
+AHR01896,shreya gupta,20.0,delhi,students,4pm,phool makhana,4,129,516,2026-01-09,delivered,net banking,2026-01,18-25
+AHR02215,neha das,48.0,bangalore,homemakers,4pm,mint makhana,1,149,149,2026-07-12,delivered,credit card,2026-07,36-50
+AHR01258,kavya pillai,22.0,mumbai,athletes,8am,black pepper makhana,4,149,596,2026-08-17,shipped,credit card,2026-08,18-25
+AHR01336,nisha mishra,22.0,bangalore,students,4pm,black pepper makhana,2,149,298,2026-10-16,delivered,credit card,2026-10,18-25
+AHR02437,vikram iyer,23.0,mumbai,students,4pm,black pepper makhana,3,149,447,2026-05-31,delivered,credit card,2026-05,18-25
+AHR02040,suresh das,39.0,delhi,corporate professionals,8am,ready to mix sattu,3,99,297,2026-08-15,shipped,upi,2026-08,36-50
+AHR01516,ravi bose,21.0,delhi,students,4pm,mint makhana,1,149,149,2026-08-08,delivered,upi,2026-08,18-25
+AHR02016,swati rao,48.0,delhi ncr,homemakers,4pm,ready to mix sattu,2,99,198,2026-08-03,returned,upi,2026-08,36-50
+AHR01769,akash iyer,35.0,mumbai,athletes,8am,black pepper makhana,1,149,149,2026-08-21,delivered,upi,2026-08,26-35
+AHR02345,amit nair,21.0,bangalore,students,8am,ready to mix sattu,3,99,297,2026-10-02,shipped,credit card,2026-10,18-25
+AHR01762,vikram gupta,21.0,delhi,govt exam aspirants,4pm,ready to mix sattu,1,99,99,2026-06-10,delivered,upi,2026-06,18-25
+AHR02104,anjali das,27.0,mumbai,athletes,4pm,black pepper makhana,4,149,596,2026-10-22,delivered,wallet,2026-10,26-35
+AHR01522,pooja kumar,23.0,delhi ncr,govt exam aspirants,8am,peri peri makhana,1,149,149,2026-03-06,delivered,credit card,2026-03,18-25
+AHR01023,sunita das,19.0,bangalore,students,4pm,mint makhana,1,149,149,2026-03-13,delivered,upi,2026-03,18-25
+AHR01357,neha verma,34.0,hyderabad,athletes,8am,ready to mix sattu,1,99,99,2026-07-03,delivered,net banking,2026-07,26-35
+AHR02300,kavya pillai,19.0,bangalore,students,8am,ready to mix sattu,3,99,297,2026-07-08,delivered,upi,2026-07,18-25
+AHR01341,sanjay patel,19.0,bangalore,students,4pm,black pepper makhana,1,149,149,2026-05-16,shipped,upi,2026-05,18-25
+AHR01432,suresh malhotra,29.0,hyderabad,corporate professionals,8am,peri peri makhana,1,149,149,2026-09-08,delivered,credit card,2026-09,26-35
+AHR01474,sneha joshi,26.0,hyderabad,corporate professionals,8am,ready to mix sattu,1,99,99,2026-05-12,delivered,credit card,2026-05,26-35
+AHR01218,shreya sharma,28.0,mumbai,corporate professionals,8am,black pepper makhana,2,149,298,2026-02-10,delivered,upi,2026-02,26-35
+AHR01912,vishal mehta,39.0,delhi ncr,homemakers,4pm,black pepper makhana,2,149,298,2026-03-19,pending,credit card,2026-03,36-50
+AHR02231,meera kumar,36.0,mumbai,corporate professionals,4pm,peri peri makhana,1,149,149,2026-04-21,delivered,wallet,2026-04,36-50
+AHR02012,sunita joshi,28.0,mumbai,corporate professionals,4pm,peri peri makhana,2,149,298,2026-03-05,delivered,upi,2026-03,26-35
+AHR02489,pallavi reddy,37.0,hyderabad,corporate professionals,8am,ready to mix sattu,2,99,198,2026-08-25,delivered,credit card,2026-08,36-50
+AHR01094,kritika iyer,21.0,bangalore,govt exam aspirants,4pm,black pepper makhana,2,149,298,2026-05-25,delivered,upi,2026-05,18-25
+AHR02009,vikram singh,22.0,delhi,students,8am,ready to mix sattu,2,99,198,2026-10-20,returned,credit card,2026-10,18-25
+AHR02071,gaurav bose,30.0,mumbai,govt exam aspirants,4pm,mint makhana,3,149,447,2026-06-03,delivered,debit card,2026-06,26-35
+AHR02093,akash singh,29.0,bangalore,corporate professionals,8am,phool makhana,2,129,258,2026-02-04,delivered,upi,2026-02,26-35
+AHR01697,anjali malhotra,28.0,hyderabad,corporate professionals,8am,ready to mix sattu,1,99,99,2026-05-08,shipped,net banking,2026-05,26-35
+AHR02371,rekha gupta,29.0,delhi ncr,corporate professionals,4pm,ready to mix sattu,1,99,99,2026-10-30,delivered,upi,2026-10,26-35
+AHR01997,lavanya pandey,25.0,bangalore,corporate professionals,8am,phool makhana,2,129,258,2026-05-10,delivered,credit card,2026-05,18-25
+AHR01154,vinay bose,23.0,delhi,students,4pm,black pepper makhana,1,149,149,2026-08-11,delivered,net banking,2026-08,18-25
+AHR02100,shreya das,33.0,bangalore,athletes,4pm,phool makhana,1,129,129,2026-09-11,shipped,wallet,2026-09,26-35
+AHR02328,kavya joshi,24.0,pune,students,8am,ready to mix sattu,4,99,396,2026-02-25,delivered,upi,2026-02,18-25
+AHR02398,deepak gupta,33.0,hyderabad,homemakers,8am,phool makhana,2,129,258,2026-10-18,delivered,upi,2026-10,26-35
+AHR01790,kavya iyer,37.0,bangalore,corporate professionals,4pm,mint makhana,1,149,149,2026-10-06,cancelled,upi,2026-10,36-50
+AHR01581,arjun verma,23.0,hyderabad,govt exam aspirants,4pm,phool makhana,1,129,129,2026-03-15,pending,upi,2026-03,18-25
+AHR01704,meera mehta,29.0,bangalore,corporate professionals,4pm,black pepper makhana,1,149,149,2026-08-04,delivered,upi,2026-08,26-35
+AHR02287,preeti iyer,27.0,bangalore,corporate professionals,8am,mint makhana,2,149,298,2026-07-17,delivered,upi,2026-07,26-35
+AHR01488,sunita patel,25.0,delhi,govt exam aspirants,8am,ready to mix sattu,3,99,297,2026-06-08,cancelled,credit card,2026-06,18-25
+AHR01560,vinay shah,23.0,hyderabad,athletes,4pm,ready to mix sattu,3,99,297,2026-08-10,pending,upi,2026-08,18-25
+AHR02120,anjali das,44.0,mumbai,homemakers,4pm,black pepper makhana,2,149,298,2026-02-19,returned,debit card,2026-02,36-50
+AHR01802,pooja reddy,33.0,mumbai,corporate professionals,8am,phool makhana,3,129,387,2026-08-19,delivered,upi,2026-08,26-35
+AHR01513,akash mehta,24.0,bangalore,students,8am,ready to mix sattu,2,99,198,2026-08-15,shipped,upi,2026-08,18-25
+AHR01634,priya rao,24.0,mumbai,students,4pm,mint makhana,2,149,298,2026-04-10,shipped,wallet,2026-04,18-25
+AHR02132,akash pillai,28.0,bangalore,govt exam aspirants,4pm,phool makhana,4,129,516,2026-04-07,delivered,upi,2026-04,26-35
+AHR02367,priya verma,28.0,mumbai,corporate professionals,8am,mint makhana,2,149,298,2026-05-07,delivered,upi,2026-05,26-35
+AHR01791,vishal bose,29.0,bangalore,athletes,4pm,black pepper makhana,2,149,298,2026-04-06,delivered,net banking,2026-04,26-35
+AHR01117,shreya patel,47.0,bangalore,homemakers,4pm,ready to mix sattu,1,99,99,2026-03-29,delivered,net banking,2026-03,36-50
+AHR01741,nikhil malhotra,21.0,bangalore,students,4pm,peri peri makhana,1,149,149,2026-06-13,delivered,upi,2026-06,18-25
+AHR02082,madhuri pillai,23.0,delhi ncr,students,8am,black pepper makhana,2,149,298,2026-01-18,shipped,debit card,2026-01,18-25
+AHR01831,siddharth das,36.0,delhi ncr,homemakers,8am,phool makhana,1,129,129,2026-09-09,shipped,wallet,2026-09,36-50
+AHR01120,vishal rao,30.0,bangalore,govt exam aspirants,4pm,mint makhana,1,149,149,2026-07-14,shipped,credit card,2026-07,26-35
+AHR01657,lavanya mishra,30.0,delhi,homemakers,4pm,mint makhana,1,149,149,2026-05-13,delivered,upi,2026-05,26-35
+AHR02455,vishal shah,21.0,bangalore,students,4pm,black pepper makhana,1,149,149,2026-10-09,shipped,debit card,2026-10,18-25
+AHR01636,kavya mishra,23.0,bangalore,students,4pm,black pepper makhana,2,149,298,2026-03-17,delivered,upi,2026-03,18-25
+AHR01370,kavya chopra,32.0,mumbai,homemakers,4pm,peri peri makhana,2,149,298,2026-04-17,delivered,upi,2026-04,26-35
+AHR01656,ravi verma,32.0,bangalore,athletes,4pm,phool makhana,2,129,258,2026-02-03,delivered,upi,2026-02,26-35
+AHR01936,kavya shah,24.0,delhi ncr,students,8am,ready to mix sattu,2,99,198,2026-05-07,delivered,debit card,2026-05,18-25
+AHR01823,sanjay mehta,38.0,mumbai,corporate professionals,8am,ready to mix sattu,1,99,99,2026-01-26,delivered,debit card,2026-01,36-50
+AHR01867,rekha patel,25.0,delhi ncr,govt exam aspirants,4pm,mint makhana,3,149,447,2026-10-20,shipped,credit card,2026-10,18-25
+AHR01047,arun joshi,27.0,delhi ncr,govt exam aspirants,8am,ready to mix sattu,1,99,99,2026-03-31,delivered,upi,2026-03,26-35
+AHR02319,rahul das,18.0,bangalore,students,4pm,peri peri makhana,2,149,298,2026-09-13,returned,wallet,2026-09,18-25
+AHR01992,nisha pandey,37.0,bangalore,corporate professionals,4pm,peri peri makhana,3,149,447,2026-06-27,delivered,upi,2026-06,36-50
+AHR01877,pooja malhotra,26.0,mumbai,corporate professionals,8am,ready to mix sattu,3,99,297,2026-07-08,delivered,upi,2026-07,26-35
+AHR01774,sunita iyer,31.0,mumbai,corporate professionals,4pm,phool makhana,1,129,129,2026-10-20,delivered,upi,2026-10,26-35
+AHR01312,ravi iyer,34.0,bangalore,corporate professionals,4pm,peri peri makhana,3,149,447,2026-05-26,delivered,upi,2026-05,26-35
+AHR01005,neha mishra,28.0,bangalore,corporate professionals,4pm,peri peri makhana,1,149,149,2026-09-11,delivered,upi,2026-09,26-35
+AHR02004,priya pillai,20.0,delhi ncr,students,4pm,peri peri makhana,3,149,447,2026-05-21,shipped,debit card,2026-05,18-25
+AHR02330,rohit shah,31.0,bangalore,athletes,4pm,ready to mix sattu,3,99,297,2026-03-25,delivered,debit card,2026-03,26-35
+AHR01264,pooja sharma,18.0,bangalore,students,4pm,phool makhana,3,129,387,2026-05-28,delivered,credit card,2026-05,18-25
+AHR02209,akash singh,36.0,delhi ncr,corporate professionals,8am,phool makhana,1,129,129,2026-05-07,delivered,upi,2026-05,36-50
+AHR02399,ravi verma,45.0,delhi,homemakers,8am,ready to mix sattu,1,99,99,2026-01-11,delivered,upi,2026-01,36-50
+AHR01444,sunita malhotra,34.0,bangalore,corporate professionals,4pm,peri peri makhana,2,149,298,2026-02-08,pending,credit card,2026-02,26-35
+AHR02003,nikhil pandey,32.0,pune,corporate professionals,8am,ready to mix sattu,1,99,99,2026-06-05,delivered,credit card,2026-06,26-35
+AHR02078,priya pandey,33.0,hyderabad,corporate professionals,8am,phool makhana,1,129,129,2026-01-01,delivered,upi,2026-01,26-35
+AHR01838,nikhil gupta,20.0,delhi ncr,athletes,8am,mint makhana,1,149,149,2026-09-07,delivered,debit card,2026-09,18-25
+AHR02369,siddharth shah,37.0,delhi,corporate professionals,4pm,black pepper makhana,1,149,149,2026-10-08,delivered,upi,2026-10,36-50
+AHR01305,shreya mehta,19.0,bangalore,students,4pm,peri peri makhana,3,149,447,2026-01-17,delivered,upi,2026-01,18-25
+AHR02199,sunita mishra,18.0,mumbai,students,4pm,black pepper makhana,1,149,149,2026-10-31,cancelled,upi,2026-10,18-25
+AHR01314,rohit mehta,26.0,mumbai,athletes,4pm,black pepper makhana,2,149,298,2026-08-17,delivered,upi,2026-08,26-35
+AHR01150,kavya mishra,47.0,hyderabad,homemakers,4pm,ready to mix sattu,2,99,198,2026-08-17,delivered,credit card,2026-08,36-50
+AHR02149,sunita verma,19.0,pune,students,4pm,peri peri makhana,1,149,149,2026-07-22,delivered,debit card,2026-07,18-25
+AHR01575,neha malhotra,32.0,delhi,corporate professionals,8am,peri peri makhana,2,149,298,2026-01-22,delivered,net banking,2026-01,26-35
+AHR01051,kavya das,30.0,bangalore,corporate professionals,4pm,mint makhana,1,149,149,2026-08-07,delivered,upi,2026-08,26-35
+AHR02223,rekha das,23.0,mumbai,students,4pm,mint makhana,3,149,447,2026-07-23,delivered,credit card,2026-07,18-25
+AHR01727,ravi verma,37.0,hyderabad,corporate professionals,4pm,black pepper makhana,1,149,149,2026-08-15,delivered,upi,2026-08,36-50
+AHR01834,pallavi mishra,28.0,bangalore,corporate professionals,4pm,mint makhana,1,149,149,2026-02-15,delivered,wallet,2026-02,26-35
+AHR02116,neha shah,31.0,delhi,corporate professionals,4pm,black pepper makhana,4,149,596,2026-05-06,pending,upi,2026-05,26-35
+AHR02167,madhuri mishra,38.0,mumbai,corporate professionals,8am,peri peri makhana,2,149,298,2026-08-20,delivered,debit card,2026-08,36-50
+AHR01471,swati bose,33.0,bangalore,athletes,8am,phool makhana,2,129,258,2026-05-28,shipped,upi,2026-05,26-35
+AHR01972,nisha mehta,32.0,bangalore,corporate professionals,4pm,black pepper makhana,2,149,298,2026-04-22,delivered,upi,2026-04,26-35
+AHR01654,arun pandey,32.0,bangalore,athletes,4pm,ready to mix sattu,1,99,99,2026-01-15,delivered,net banking,2026-01,26-35
+AHR01400,preeti patel,24.0,mumbai,students,4pm,ready to mix sattu,2,99,198,2026-03-01,delivered,upi,2026-03,18-25
+AHR01512,amit reddy,31.0,hyderabad,homemakers,4pm,black pepper makhana,2,149,298,2026-02-22,shipped,upi,2026-02,26-35
+AHR01321,harish singh,23.0,bangalore,athletes,4pm,black pepper makhana,3,149,447,2026-02-28,delivered,upi,2026-02,18-25
+AHR01020,raj shah,34.0,hyderabad,corporate professionals,8am,ready to mix sattu,1,99,99,2026-02-22,delivered,upi,2026-02,26-35
+AHR01685,vinay bose,32.0,mumbai,corporate professionals,8am,phool makhana,1,129,129,2026-01-06,delivered,wallet,2026-01,26-35
+AHR01036,anjali kumar,26.0,bangalore,corporate professionals,4pm,peri peri makhana,3,149,447,2026-10-20,delivered,credit card,2026-10,26-35
+AHR01903,arun malhotra,35.0,delhi,homemakers,4pm,peri peri makhana,1,149,149,2026-10-22,delivered,upi,2026-10,26-35
+AHR01828,pallavi nair,20.0,bangalore,athletes,8am,ready to mix sattu,1,99,99,2026-01-07,delivered,upi,2026-01,18-25
+AHR02374,suresh nair,21.0,pune,students,8am,ready to mix sattu,1,99,99,2026-03-05,pending,upi,2026-03,18-25
+AHR01408,preeti kumar,24.0,delhi,students,4pm,black pepper makhana,1,149,149,2026-10-14,shipped,upi,2026-10,18-25
+AHR01921,raj kumar,35.0,delhi ncr,corporate professionals,4pm,peri peri makhana,2,149,298,2026-09-20,delivered,upi,2026-09,26-35
+AHR01538,manish shah,31.0,hyderabad,corporate professionals,4pm,mint makhana,1,149,149,2026-09-30,delivered,upi,2026-09,26-35
+AHR01759,pooja verma,30.0,bangalore,athletes,4pm,peri peri makhana,1,149,149,2026-03-14,shipped,upi,2026-03,26-35
+AHR02063,akash bose,31.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-06-17,delivered,credit card,2026-06,26-35
+AHR01246,rekha mishra,32.0,pune,corporate professionals,8am,ready to mix sattu,1,99,99,2026-04-21,returned,upi,2026-04,26-35
+AHR02128,shreya pillai,24.0,mumbai,students,8am,black pepper makhana,2,149,298,2026-07-28,delivered,upi,2026-07,18-25
+AHR01785,gaurav rao,38.0,delhi,corporate professionals,4pm,peri peri makhana,3,149,447,2026-08-01,delivered,upi,2026-08,36-50
+AHR01490,suresh bose,30.0,delhi ncr,govt exam aspirants,4pm,mint makhana,1,149,149,2026-01-21,delivered,wallet,2026-01,26-35
+AHR01155,arun verma,22.0,delhi ncr,students,4pm,ready to mix sattu,1,99,99,2026-04-02,shipped,credit card,2026-04,18-25
+AHR01962,divya shah,35.0,mumbai,corporate professionals,4pm,ready to mix sattu,1,99,99,2026-09-27,delivered,credit card,2026-09,26-35
+AHR01854,deepak kumar,28.0,bangalore,athletes,4pm,mint makhana,1,149,149,2026-02-21,cancelled,upi,2026-02,26-35
+AHR01626,smita joshi,35.0,pune,athletes,8am,phool makhana,2,129,258,2026-04-04,delivered,upi,2026-04,26-35
+AHR01686,meera rao,18.0,mumbai,students,4pm,peri peri makhana,2,149,298,2026-06-06,delivered,debit card,2026-06,18-25
+AHR01570,rohit rao,27.0,delhi,govt exam aspirants,4pm,peri peri makhana,2,149,298,2026-07-01,delivered,debit card,2026-07,26-35
+AHR02456,swati iyer,38.0,delhi,corporate professionals,4pm,mint makhana,1,149,149,2026-10-09,delivered,upi,2026-10,36-50
+AHR01018,shreya patel,21.0,mumbai,govt exam aspirants,8am,ready to mix sattu,1,99,99,2026-04-30,delivered,upi,2026-04,18-25
+AHR01128,arjun chopra,39.0,mumbai,corporate professionals,8am,black pepper makhana,4,149,596,2026-07-06,shipped,debit card,2026-07,36-50
+AHR02228,anita singh,23.0,bangalore,students,8am,phool makhana,3,129,387,2026-04-16,delivered,debit card,2026-04,18-25
+AHR01928,lavanya chopra,37.0,mumbai,corporate professionals,8am,ready to mix sattu,1,99,99,2026-06-13,delivered,upi,2026-06,36-50
+AHR01981,divya rao,35.0,mumbai,athletes,8am,ready to mix sattu,3,99,297,2026-05-10,shipped,credit card,2026-05,26-35
+AHR02500,madhuri kumar,27.0,delhi ncr,corporate professionals,8am,ready to mix sattu,1,99,99,2026-03-03,pending,net banking,2026-03,26-35
+AHR01191,harish singh,35.0,mumbai,athletes,4pm,black pepper makhana,1,149,149,2026-01-03,shipped,debit card,2026-01,26-35
+AHR02140,swati pillai,32.0,bangalore,athletes,8am,ready to mix sattu,1,99,99,2026-09-09,delivered,credit card,2026-09,26-35
+AHR01993,harish kumar,23.0,pune,students,8am,mint makhana,1,149,149,2026-08-21,delivered,credit card,2026-08,18-25
+AHR02494,deepak pandey,29.0,hyderabad,corporate professionals,4pm,peri peri makhana,1,149,149,2026-05-31,delivered,upi,2026-05,26-35
+AHR02279,kavya pandey,28.0,bangalore,athletes,8am,phool makhana,3,129,387,2026-07-21,delivered,upi,2026-07,26-35
+AHR01607,harish chopra,34.0,bangalore,homemakers,8am,mint makhana,1,149,149,2026-02-04,delivered,debit card,2026-02,26-35
+AHR01181,preeti verma,42.0,delhi,homemakers,4pm,peri peri makhana,2,149,298,2026-05-16,delivered,credit card,2026-05,36-50
+AHR01302,siddharth verma,26.0,bangalore,corporate professionals,4pm,phool makhana,3,129,387,2026-08-25,shipped,upi,2026-08,26-35
+AHR01497,ravi kumar,31.0,bangalore,athletes,4pm,mint makhana,2,149,298,2026-09-07,delivered,debit card,2026-09,26-35
+AHR02320,smita chopra,32.0,hyderabad,corporate professionals,4pm,peri peri makhana,1,149,149,2026-04-25,pending,upi,2026-04,26-35
+AHR02284,harish shah,27.0,delhi,athletes,8am,mint makhana,3,149,447,2026-03-19,delivered,credit card,2026-03,26-35
+AHR02264,kavya verma,20.0,mumbai,athletes,8am,ready to mix sattu,2,99,198,2026-01-07,delivered,credit card,2026-01,18-25
+AHR01518,raj iyer,26.0,bangalore,corporate professionals,4pm,peri peri makhana,1,149,149,2026-01-19,delivered,credit card,2026-01,26-35
+AHR02070,madhuri reddy,28.0,delhi ncr,corporate professionals,8am,ready to mix sattu,1,99,99,2026-01-04,delivered,upi,2026-01,26-35
+AHR01477,vishal singh,32.0,hyderabad,homemakers,8am,ready to mix sattu,2,99,198,2026-03-14,delivered,upi,2026-03,26-35
+AHR01158,swati rao,30.0,delhi ncr,corporate professionals,8am,phool makhana,1,129,129,2026-07-22,shipped,upi,2026-07,26-35
+AHR02196,vishal singh,27.0,mumbai,athletes,4pm,mint makhana,2,149,298,2026-06-10,delivered,debit card,2026-06,26-35
+AHR01017,pooja joshi,22.0,bangalore,athletes,8am,mint makhana,1,149,149,2026-05-21,delivered,upi,2026-05,18-25
+AHR02073,vinay malhotra,23.0,delhi,students,8am,black pepper makhana,2,149,298,2026-02-01,delivered,upi,2026-02,18-25
+AHR01509,karan nair,38.0,hyderabad,corporate professionals,8am,black pepper makhana,1,149,149,2026-09-15,delivered,upi,2026-09,36-50
+AHR01547,pooja nair,32.0,hyderabad,athletes,4pm,peri peri makhana,1,149,149,2026-09-04,delivered,upi,2026-09,26-35
+AHR01659,deepak pandey,24.0,mumbai,athletes,8am,ready to mix sattu,1,99,99,2026-07-06,shipped,net banking,2026-07,18-25
+AHR02253,arun chopra,19.0,delhi ncr,students,8am,ready to mix sattu,1,99,99,2026-02-18,delivered,debit card,2026-02,18-25
+AHR02020,sunita patel,32.0,mumbai,corporate professionals,4pm,peri peri makhana,1,149,149,2026-05-06,delivered,upi,2026-05,26-35
+AHR02285,nisha verma,24.0,bangalore,govt exam aspirants,8am,peri peri makhana,1,149,149,2026-03-24,delivered,debit card,2026-03,18-25
+AHR01960,harish malhotra,25.0,delhi ncr,govt exam aspirants,4pm,mint makhana,2,149,298,2026-03-03,delivered,upi,2026-03,18-25
+AHR02439,madhuri mehta,18.0,delhi,students,4pm,mint makhana,3,149,447,2026-01-22,cancelled,net banking,2026-01,18-25
+AHR01284,shreya reddy,39.0,delhi ncr,corporate professionals,8am,ready to mix sattu,3,99,297,2026-09-22,cancelled,upi,2026-09,36-50
+AHR01798,vikram reddy,18.0,pune,students,8am,ready to mix sattu,1,99,99,2026-03-06,delivered,upi,2026-03,18-25
+AHR01226,anita mehta,28.0,bangalore,athletes,4pm,black pepper makhana,1,149,149,2026-02-10,delivered,upi,2026-02,26-35
+AHR01027,pallavi mishra,26.0,delhi ncr,govt exam aspirants,4pm,ready to mix sattu,1,99,99,2026-05-15,delivered,net banking,2026-05,26-35
+AHR01438,pooja verma,31.0,mumbai,athletes,8am,ready to mix sattu,1,99,99,2026-10-30,returned,credit card,2026-10,26-35
+AHR02488,harish gupta,25.0,hyderabad,corporate professionals,4pm,mint makhana,1,149,149,2026-10-04,shipped,credit card,2026-10,18-25
+AHR01230,kritika das,26.0,delhi ncr,corporate professionals,8am,black pepper makhana,1,149,149,2026-02-11,pending,wallet,2026-02,26-35
+AHR01038,harish nair,31.0,mumbai,athletes,8am,ready to mix sattu,2,99,198,2026-06-05,shipped,upi,2026-06,26-35
+AHR01750,neha mehta,22.0,delhi,students,8am,ready to mix sattu,1,99,99,2026-08-21,delivered,debit card,2026-08,18-25
+AHR02046,sneha mishra,41.0,delhi ncr,homemakers,4pm,black pepper makhana,1,149,149,2026-09-22,returned,credit card,2026-09,36-50
+AHR01470,arun patel,40.0,bangalore,corporate professionals,4pm,peri peri makhana,2,149,298,2026-08-11,shipped,net banking,2026-08,36-50
+AHR02359,deepak rao,27.0,mumbai,athletes,4pm,black pepper makhana,1,149,149,2026-01-17,shipped,credit card,2026-01,26-35
+AHR01410,pooja rao,28.0,bangalore,athletes,4pm,phool makhana,2,129,258,2026-07-05,delivered,credit card,2026-07,26-35
+AHR01688,raj shah,28.0,bangalore,homemakers,4pm,black pepper makhana,2,149,298,2026-07-26,delivered,upi,2026-07,26-35
+AHR02408,sanjay pandey,24.0,delhi ncr,govt exam aspirants,8am,black pepper makhana,2,149,298,2026-09-16,delivered,debit card,2026-09,18-25
+AHR01640,nikhil bose,25.0,pune,corporate professionals,8am,black pepper makhana,2,149,298,2026-01-04,returned,debit card,2026-01,18-25
+AHR02323,harish malhotra,26.0,mumbai,govt exam aspirants,8am,ready to mix sattu,1,99,99,2026-09-07,pending,upi,2026-09,26-35
+AHR02219,kritika rao,33.0,delhi,corporate professionals,8am,phool makhana,3,129,387,2026-08-18,delivered,debit card,2026-08,26-35
+AHR02159,neha mehta,19.0,bangalore,students,8am,ready to mix sattu,2,99,198,2026-07-18,shipped,upi,2026-07,18-25
+AHR02278,anita pillai,30.0,bangalore,athletes,4pm,peri peri makhana,1,149,149,2026-05-19,cancelled,upi,2026-05,26-35
+AHR02393,rahul malhotra,19.0,delhi,students,4pm,peri peri makhana,1,149,149,2026-04-02,delivered,upi,2026-04,18-25
+AHR01801,rohit pandey,29.0,delhi ncr,govt exam aspirants,4pm,phool makhana,1,129,129,2026-05-20,shipped,credit card,2026-05,26-35
+AHR01161,rahul iyer,28.0,delhi,govt exam aspirants,8am,black pepper makhana,3,149,447,2026-06-26,delivered,net banking,2026-06,26-35
+AHR01957,vishal kumar,34.0,hyderabad,athletes,8am,peri peri makhana,1,149,149,2026-02-09,pending,upi,2026-02,26-35
+AHR02187,anita singh,22.0,hyderabad,athletes,8am,black pepper makhana,2,149,298,2026-01-29,delivered,upi,2026-01,18-25
+AHR01822,lavanya rao,19.0,bangalore,students,4pm,mint makhana,1,149,149,2026-10-09,delivered,upi,2026-10,18-25
+AHR02299,deepak mishra,21.0,bangalore,students,4pm,black pepper makhana,2,149,298,2026-01-11,delivered,net banking,2026-01,18-25
+AHR01878,rekha sharma,18.0,bangalore,students,8am,ready to mix sattu,2,99,198,2026-10-02,delivered,wallet,2026-10,18-25
+AHR01914,preeti pillai,24.0,mumbai,students,4pm,mint makhana,2,149,298,2026-08-07,delivered,upi,2026-08,18-25
+AHR01153,nikhil mishra,23.0,mumbai,students,8am,phool makhana,2,129,258,2026-10-01,delivered,upi,2026-10,18-25
+AHR02403,rekha verma,19.0,delhi,students,8am,peri peri makhana,3,149,447,2026-01-23,delivered,net banking,2026-01,18-25
+AHR01510,vinay mehta,33.0,bangalore,corporate professionals,4pm,mint makhana,4,149,596,2026-07-01,shipped,debit card,2026-07,26-35
+AHR02136,vinay nair,23.0,hyderabad,govt exam aspirants,4pm,mint makhana,1,149,149,2026-03-01,delivered,upi,2026-03,18-25
+AHR02251,sneha shah,32.0,delhi,athletes,4pm,phool makhana,1,129,129,2026-06-29,delivered,debit card,2026-06,26-35
+AHR02286,pallavi bose,20.0,pune,students,8am,ready to mix sattu,1,99,99,2026-03-26,pending,net banking,2026-03,18-25
+AHR01104,vikram bose,33.0,bangalore,athletes,8am,phool makhana,1,129,129,2026-02-15,delivered,upi,2026-02,26-35
+AHR01587,pallavi kumar,37.0,mumbai,homemakers,4pm,phool makhana,1,129,129,2026-10-09,delivered,debit card,2026-10,36-50
+AHR02357,vinay mehta,24.0,bangalore,students,4pm,ready to mix sattu,1,99,99,2026-07-10,delivered,upi,2026-07,18-25
+AHR02144,sanjay patel,30.0,delhi,homemakers,8am,ready to mix sattu,1,99,99,2026-04-06,pending,debit card,2026-04,26-35
+AHR01054,madhuri mehta,33.0,hyderabad,homemakers,8am,peri peri makhana,1,149,149,2026-10-17,delivered,upi,2026-10,26-35
+AHR01152,lavanya kumar,31.0,bangalore,corporate professionals,4pm,mint makhana,2,149,298,2026-09-07,delivered,net banking,2026-09,26-35
+AHR01404,shreya gupta,39.0,mumbai,corporate professionals,8am,mint makhana,1,149,149,2026-08-16,shipped,upi,2026-08,36-50
+AHR02485,meera joshi,24.0,delhi ncr,govt exam aspirants,4pm,peri peri makhana,3,149,447,2026-08-10,returned,credit card,2026-08,18-25
+AHR01208,amit pillai,31.0,delhi,corporate professionals,4pm,peri peri makhana,1,149,149,2026-06-25,delivered,upi,2026-06,26-35
+AHR02447,amit mishra,21.0,delhi,students,4pm,black pepper makhana,2,149,298,2026-08-04,shipped,credit card,2026-08,18-25
+AHR02123,madhuri nair,28.0,delhi,athletes,8am,ready to mix sattu,3,99,297,2026-03-17,delivered,upi,2026-03,26-35
+AHR02347,akash verma,31.0,delhi,corporate professionals,8am,ready to mix sattu,4,99,396,2026-10-15,shipped,upi,2026-10,26-35
+AHR01009,gaurav pandey,19.0,bangalore,students,8am,ready to mix sattu,1,99,99,2026-06-29,delivered,credit card,2026-06,18-25
+AHR02015,arun shah,35.0,pune,corporate professionals,4pm,black pepper makhana,1,149,149,2026-04-01,delivered,upi,2026-04,26-35
+AHR02373,neha pandey,31.0,delhi ncr,homemakers,8am,ready to mix sattu,4,99,396,2026-10-22,delivered,upi,2026-10,26-35
+AHR02061,amit singh,48.0,delhi ncr,homemakers,8am,ready to mix sattu,1,99,99,2026-03-19,delivered,upi,2026-03,36-50
+AHR01453,vinay mishra,20.0,delhi,students,4pm,phool makhana,1,129,129,2026-01-11,delivered,net banking,2026-01,18-25
+AHR01254,neha nair,24.0,pune,students,8am,phool makhana,2,129,258,2026-06-16,shipped,upi,2026-06,18-25
+AHR01897,sunita pillai,20.0,delhi,students,8am,ready to mix sattu,2,99,198,2026-02-27,delivered,upi,2026-02,18-25
+AHR02337,neha mehta,19.0,pune,students,4pm,peri peri makhana,1,149,149,2026-02-17,delivered,wallet,2026-02,18-25
+AHR01881,nikhil gupta,24.0,delhi ncr,govt exam aspirants,4pm,phool makhana,1,129,129,2026-06-04,cancelled,debit card,2026-06,18-25
+AHR02443,harish pandey,26.0,bangalore,athletes,8am,ready to mix sattu,3,99,297,2026-01-03,shipped,wallet,2026-01,26-35
+AHR01624,ravi mishra,30.0,delhi,govt exam aspirants,4pm,peri peri makhana,1,149,149,2026-01-21,delivered,wallet,2026-01,26-35
+AHR01346,shreya sharma,19.0,mumbai,students,8am,ready to mix sattu,1,99,99,2026-09-26,delivered,upi,2026-09,18-25
+AHR02315,sunita shah,35.0,mumbai,athletes,4pm,peri peri makhana,4,149,596,2026-03-25,pending,upi,2026-03,26-35
+AHR01263,swati nair,21.0,delhi,govt exam aspirants,8am,ready to mix sattu,1,99,99,2026-04-30,delivered,upi,2026-04,18-25
+AHR01151,sanjay singh,20.0,bangalore,students,4pm,mint makhana,2,149,298,2026-02-28,delivered,credit card,2026-02,18-25
+AHR01473,sunita chopra,35.0,bangalore,corporate professionals,4pm,phool makhana,1,129,129,2026-08-23,delivered,upi,2026-08,26-35
+AHR01641,anita kumar,24.0,bangalore,athletes,8am,ready to mix sattu,1,99,99,2026-08-09,delivered,upi,2026-08,18-25
+AHR02435,rohit rao,19.0,delhi,students,8am,peri peri makhana,3,149,447,2026-10-28,delivered,wallet,2026-10,18-25
+AHR02440,harish bose,18.0,delhi,students,8am,phool makhana,1,129,129,2026-01-14,delivered,credit card,2026-01,18-25
+AHR01551,suresh das,20.0,bangalore,govt exam aspirants,8am,phool makhana,1,129,129,2026-01-02,delivered,upi,2026-01,18-25
+AHR01929,anjali singh,36.0,delhi ncr,homemakers,4pm,black pepper makhana,1,149,149,2026-07-30,delivered,upi,2026-07,36-50
+AHR01489,pooja pillai,21.0,delhi,govt exam aspirants,4pm,mint makhana,3,149,447,2026-09-01,delivered,credit card,2026-09,18-25
+AHR02386,smita das,46.0,mumbai,homemakers,4pm,mint makhana,1,149,149,2026-10-15,delivered,upi,2026-10,36-50
+AHR02172,arjun mehta,40.0,bangalore,corporate professionals,8am,phool makhana,1,129,129,2026-06-11,delivered,debit card,2026-06,36-50
+AHR01147,sanjay kumar,25.0,bangalore,govt exam aspirants,4pm,black pepper makhana,2,149,298,2026-06-04,delivered,credit card,2026-06,18-25
+AHR01403,akash iyer,24.0,delhi,govt exam aspirants,4pm,mint makhana,1,149,149,2026-08-07,delivered,upi,2026-08,18-25
+AHR01955,ravi kumar,33.0,bangalore,corporate professionals,8am,peri peri makhana,2,149,298,2026-07-16,delivered,debit card,2026-07,26-35
+AHR02435,rohit rao,19.0,delhi,students,8am,peri peri makhana,3,149,447,2026-10-28,delivered,wallet,2026-10,18-25
+AHR01660,kritika malhotra,29.0,delhi,athletes,8am,ready to mix sattu,2,99,198,2026-08-24,delivered,debit card,2026-08,26-35
+AHR01464,arjun reddy,21.0,delhi ncr,athletes,8am,mint makhana,3,149,447,2026-06-17,delivered,upi,2026-06,18-25
+AHR01187,vishal das,21.0,delhi,students,8am,black pepper makhana,2,149,298,2026-06-11,delivered,upi,2026-06,18-25
+AHR02148,ravi bose,24.0,mumbai,govt exam aspirants,4pm,phool makhana,1,129,129,2026-01-06,delivered,upi,2026-01,18-25
+AHR02225,kavya iyer,28.0,mumbai,corporate professionals,8am,ready to mix sattu,1,99,99,2026-09-20,shipped,upi,2026-09,26-35
+AHR01609,nikhil patel,31.0,mumbai,corporate professionals,4pm,mint makhana,1,149,149,2026-08-25,delivered,debit card,2026-08,26-35
+AHR01144,arjun singh,47.0,bangalore,homemakers,4pm,mint makhana,1,149,149,2026-07-08,shipped,credit card,2026-07,36-50
+AHR01752,siddharth reddy,20.0,mumbai,students,8am,phool makhana,4,129,516,2026-02-09,shipped,upi,2026-02,18-25
+AHR01982,rekha bose,29.235449735449734,delhi,corporate professionals,4pm,phool makhana,2,129,258,2026-09-17,delivered,upi,2026-09,26-35
+AHR01198,kavya patel,28.0,delhi,athletes,4pm,peri peri makhana,1,149,149,2026-09-20,cancelled,net banking,2026-09,26-35
+AHR01884,kritika das,33.0,bangalore,corporate professionals,8am,phool makhana,4,129,516,2026-01-11,delivered,upi,2026-01,26-35
+AHR01280,preeti nair,19.0,delhi ncr,students,4pm,phool makhana,3,129,387,2026-09-08,delivered,net banking,2026-09,18-25
+AHR01294,deepak mishra,27.0,delhi ncr,corporate professionals,8am,phool makhana,1,129,129,2026-07-14,shipped,debit card,2026-07,26-35
+AHR02394,nikhil mehta,24.0,bangalore,students,8am,mint makhana,1,149,149,2026-04-15,delivered,debit card,2026-04,18-25
+AHR01401,rahul mishra,33.0,bangalore,corporate professionals,8am,mint makhana,1,149,149,2026-09-27,delivered,net banking,2026-09,26-35
+AHR01123,kavya kumar,40.0,delhi,homemakers,4pm,mint makhana,2,149,298,2026-09-04,delivered,credit card,2026-09,36-50
+AHR02208,sneha kumar,19.0,delhi,students,4pm,black pepper makhana,3,149,447,2026-05-17,delivered,upi,2026-05,18-25
+AHR01203,nikhil sharma,27.0,pune,corporate professionals,8am,ready to mix sattu,2,99,198,2026-03-21,shipped,upi,2026-03,26-35
+AHR01836,suresh mehta,28.0,pune,corporate professionals,8am,phool makhana,1,129,129,2026-01-22,delivered,debit card,2026-01,26-35
+AHR01247,sanjay reddy,23.0,delhi,students,4pm,peri peri makhana,2,149,298,2026-04-02,delivered,credit card,2026-04,18-25
+AHR02466,akash shah,30.0,delhi,corporate professionals,4pm,ready to mix sattu,3,99,297,2026-08-31,cancelled,net banking,2026-08,26-35
+AHR01515,preeti singh,48.0,bangalore,homemakers,8am,peri peri makhana,1,149,149,2026-07-10,delivered,upi,2026-07,36-50
+AHR02154,shreya malhotra,26.0,bangalore,athletes,8am,ready to mix sattu,2,99,198,2026-01-22,delivered,credit card,2026-01,26-35
+AHR01385,anita joshi,36.0,delhi,corporate professionals,4pm,mint makhana,3,149,447,2026-07-06,pending,upi,2026-07,36-50
+AHR02351,divya reddy,34.0,bangalore,athletes,4pm,peri peri makhana,1,149,149,2026-08-20,delivered,credit card,2026-08,26-35
+AHR01855,pallavi nair,32.0,mumbai,athletes,8am,ready to mix sattu,1,99,99,2026-01-15,delivered,upi,2026-01,26-35
+AHR01220,divya mishra,20.0,delhi,govt exam aspirants,8am,ready to mix sattu,1,99,99,2026-03-06,delivered,debit card,2026-03,18-25
+AHR01642,akash iyer,31.0,bangalore,corporate professionals,4pm,mint makhana,3,149,447,2026-04-06,delivered,debit card,2026-04,26-35
+AHR01002,anjali nair,29.0,delhi,corporate professionals,4pm,mint makhana,3,149,447,2026-03-30,delivered,upi,2026-03,26-35
+AHR01113,manish chopra,40.0,bangalore,corporate professionals,8am,peri peri makhana,1,149,149,2026-07-29,delivered,upi,2026-07,36-50
+AHR01699,rahul gupta,28.0,hyderabad,homemakers,4pm,ready to mix sattu,1,99,99,2026-08-24,delivered,upi,2026-08,26-35
+AHR02461,nikhil kumar,22.0,bangalore,students,4pm,black pepper makhana,2,149,298,2026-02-08,delivered,upi,2026-02,18-25
+AHR01952,meera pandey,23.0,delhi ncr,students,8am,peri peri makhana,1,149,149,2026-08-28,delivered,upi,2026-08,18-25
+AHR02346,meera mishra,45.0,bangalore,homemakers,4pm,black pepper makhana,2,149,298,2026-01-27,delivered,credit card,2026-01,36-50
+AHR02292,vinay nair,23.0,delhi,students,4pm,ready to mix sattu,2,99,198,2026-07-04,delivered,upi,2026-07,18-25
+AHR02383,raj rao,27.0,delhi,govt exam aspirants,8am,phool makhana,1,129,129,2026-10-11,delivered,upi,2026-10,26-35
+AHR01442,vinay malhotra,30.0,bangalore,athletes,8am,peri peri makhana,1,149,149,2026-01-11,delivered,credit card,2026-01,26-35
+AHR02137,harish singh,40.0,mumbai,corporate professionals,4pm,peri peri makhana,1,149,149,2026-07-03,delivered,wallet,2026-07,36-50
+AHR02257,akash nair,18.0,pune,students,4pm,mint makhana,2,149,298,2026-02-09,delivered,upi,2026-02,18-25
+AHR01664,smita joshi,40.0,delhi ncr,corporate professionals,4pm,phool makhana,1,129,129,2026-01-12,delivered,upi,2026-01,36-50
+AHR02402,vikram gupta,35.0,delhi ncr,corporate professionals,8am,phool makhana,2,129,258,2026-02-07,delivered,credit card,2026-02,26-35
+AHR02258,siddharth malhotra,35.0,mumbai,athletes,4pm,peri peri makhana,1,149,149,2026-06-04,delivered,upi,2026-06,26-35
+AHR02360,neha bose,50.0,mumbai,homemakers,8am,phool makhana,1,129,129,2026-06-03,delivered,wallet,2026-06,36-50
+AHR01318,anjali chopra,28.0,bangalore,corporate professionals,4pm,peri peri makhana,1,149,149,2026-10-22,delivered,upi,2026-10,26-35
+AHR01649,priya singh,30.0,mumbai,athletes,4pm,mint makhana,1,149,149,2026-04-07,delivered,credit card,2026-04,26-35
+AHR01710,sneha rao,32.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-01-27,delivered,credit card,2026-01,26-35
+AHR02283,deepak iyer,27.0,bangalore,athletes,8am,ready to mix sattu,4,99,396,2026-05-22,delivered,upi,2026-05,26-35
+AHR01973,akash bose,29.0,mumbai,athletes,4pm,phool makhana,2,129,258,2026-03-09,delivered,upi,2026-03,26-35
+AHR01628,siddharth reddy,20.0,bangalore,students,4pm,peri peri makhana,2,149,298,2026-05-06,delivered,credit card,2026-05,18-25
+AHR01633,divya patel,21.0,mumbai,govt exam aspirants,4pm,phool makhana,1,129,129,2026-09-08,delivered,wallet,2026-09,18-25
+AHR02307,divya das,34.0,mumbai,corporate professionals,8am,phool makhana,1,129,129,2026-03-16,pending,net banking,2026-03,26-35
+AHR02249,divya chopra,20.0,bangalore,students,8am,phool makhana,1,129,129,2026-05-10,delivered,upi,2026-05,18-25
+AHR02492,preeti bose,34.0,mumbai,athletes,4pm,black pepper makhana,3,149,447,2026-07-19,delivered,credit card,2026-07,26-35
+AHR02255,nisha mehta,32.0,delhi ncr,athletes,4pm,ready to mix sattu,2,99,198,2026-02-05,delivered,upi,2026-02,26-35
+AHR02355,nisha gupta,27.0,bangalore,corporate professionals,4pm,peri peri makhana,1,149,149,2026-09-05,shipped,debit card,2026-09,26-35
+AHR02413,lavanya mehta,40.0,delhi,corporate professionals,4pm,black pepper makhana,1,149,149,2026-01-22,delivered,upi,2026-01,36-50
+AHR01796,shreya pandey,20.0,pune,athletes,4pm,phool makhana,1,129,129,2026-06-25,returned,upi,2026-06,18-25
+AHR01646,siddharth pandey,36.0,hyderabad,corporate professionals,8am,ready to mix sattu,1,99,99,2026-06-25,returned,debit card,2026-06,36-50
+AHR02013,shreya pandey,19.0,delhi,students,8am,phool makhana,2,129,258,2026-07-25,delivered,upi,2026-07,18-25
+AHR01557,karan mehta,30.0,bangalore,corporate professionals,4pm,peri peri makhana,1,149,149,2026-10-17,delivered,credit card,2026-10,26-35
+AHR01682,sneha malhotra,23.0,delhi,govt exam aspirants,8am,ready to mix sattu,2,99,198,2026-05-18,returned,credit card,2026-05,18-25
+AHR01578,ravi das,33.0,delhi,homemakers,8am,ready to mix sattu,1,99,99,2026-03-31,delivered,upi,2026-03,26-35
+AHR02110,anjali malhotra,27.0,pune,corporate professionals,4pm,black pepper makhana,3,149,447,2026-04-27,delivered,upi,2026-04,26-35
+AHR02267,pallavi kumar,23.0,pune,students,4pm,phool makhana,2,129,258,2026-05-07,delivered,upi,2026-05,18-25
+AHR02184,kritika iyer,28.0,delhi,corporate professionals,8am,phool makhana,3,129,387,2026-02-13,shipped,net banking,2026-02,26-35
+AHR01525,swati kumar,27.0,bangalore,athletes,4pm,mint makhana,2,149,298,2026-01-03,delivered,wallet,2026-01,26-35
+AHR02060,gaurav singh,31.0,bangalore,corporate professionals,8am,ready to mix sattu,2,99,198,2026-02-14,delivered,upi,2026-02,26-35
+AHR01541,nikhil mishra,30.0,bangalore,corporate professionals,4pm,peri peri makhana,4,149,596,2026-03-28,delivered,wallet,2026-03,26-35
+AHR02195,neha bose,25.0,delhi,govt exam aspirants,8am,black pepper makhana,2,149,298,2026-02-03,delivered,debit card,2026-02,18-25
+AHR01749,swati bose,26.0,hyderabad,corporate professionals,4pm,mint makhana,2,149,298,2026-01-07,delivered,upi,2026-01,26-35
+AHR02416,sanjay rao,27.0,pune,athletes,8am,black pepper makhana,4,149,596,2026-04-01,delivered,upi,2026-04,26-35
+AHR01485,rahul das,29.0,mumbai,govt exam aspirants,4pm,ready to mix sattu,4,99,396,2026-08-20,delivered,debit card,2026-08,26-35
+AHR01096,siddharth kumar,37.0,pune,homemakers,4pm,black pepper makhana,2,149,298,2026-03-13,shipped,credit card,2026-03,36-50
+AHR02021,anjali iyer,23.0,delhi ncr,govt exam aspirants,4pm,peri peri makhana,2,149,298,2026-06-19,pending,net banking,2026-06,18-25
+AHR01564,rahul mishra,28.0,delhi ncr,govt exam aspirants,4pm,peri peri makhana,1,149,149,2026-06-24,shipped,debit card,2026-06,26-35
+AHR02265,meera reddy,43.0,mumbai,homemakers,8am,ready to mix sattu,1,99,99,2026-04-20,delivered,upi,2026-04,36-50
+AHR01743,priya reddy,23.0,delhi,govt exam aspirants,8am,mint makhana,1,149,149,2026-10-23,shipped,debit card,2026-10,18-25
+AHR01864,rohit joshi,40.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-10-21,delivered,upi,2026-10,36-50
+AHR01892,kavya patel,26.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-08-25,delivered,upi,2026-08,26-35
+AHR02039,sanjay pillai,26.0,bangalore,athletes,8am,peri peri makhana,1,149,149,2026-09-01,delivered,credit card,2026-09,26-35
+AHR01207,raj mehta,20.0,mumbai,students,4pm,peri peri makhana,1,149,149,2026-04-18,delivered,upi,2026-04,18-25
+AHR01393,suresh nair,34.0,mumbai,corporate professionals,4pm,peri peri makhana,2,149,298,2026-09-29,pending,upi,2026-09,26-35
+AHR01795,deepak chopra,18.0,hyderabad,students,4pm,mint makhana,1,149,149,2026-08-19,shipped,upi,2026-08,18-25
+AHR01871,nikhil pandey,21.0,mumbai,students,4pm,peri peri makhana,1,149,149,2026-05-15,delivered,upi,2026-05,18-25
+AHR01398,sneha das,50.0,hyderabad,homemakers,4pm,phool makhana,1,129,129,2026-10-07,returned,upi,2026-10,36-50
+AHR01767,arun rao,39.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-02-17,delivered,upi,2026-02,36-50
+AHR02406,pallavi verma,46.0,delhi ncr,homemakers,4pm,black pepper makhana,1,149,149,2026-03-26,shipped,debit card,2026-03,36-50
+AHR02242,vinay pandey,30.0,mumbai,corporate professionals,4pm,phool makhana,1,129,129,2026-03-16,delivered,credit card,2026-03,26-35
+AHR02029,arjun pillai,33.0,mumbai,corporate professionals,8am,black pepper makhana,2,149,298,2026-03-17,delivered,net banking,2026-03,26-35
+AHR01643,pallavi bose,21.0,bangalore,govt exam aspirants,8am,mint makhana,2,149,298,2026-03-27,delivered,upi,2026-03,18-25
+AHR01613,meera iyer,23.0,bangalore,athletes,4pm,mint makhana,1,149,149,2026-01-25,shipped,debit card,2026-01,18-25
+AHR01961,unknown,34.0,bangalore,homemakers,4pm,black pepper makhana,1,149,149,2026-08-06,delivered,credit card,2026-08,26-35
+AHR01726,nisha joshi,26.0,bangalore,govt exam aspirants,4pm,phool makhana,2,129,258,2026-10-26,delivered,debit card,2026-10,26-35
+AHR01684,manish patel,22.0,bangalore,athletes,8am,ready to mix sattu,1,99,99,2026-10-08,delivered,upi,2026-10,18-25
+AHR01099,siddharth mishra,27.0,bangalore,corporate professionals,4pm,black pepper makhana,2,149,298,2026-04-04,cancelled,net banking,2026-04,26-35
+AHR01805,nisha mehta,47.0,delhi ncr,homemakers,8am,mint makhana,1,149,149,2026-04-30,delivered,upi,2026-04,36-50
+AHR01407,vikram mehta,34.0,delhi,corporate professionals,8am,peri peri makhana,2,149,298,2026-03-12,delivered,debit card,2026-03,26-35
+AHR01503,preeti rao,18.0,hyderabad,students,8am,peri peri makhana,2,149,298,2026-09-07,delivered,upi,2026-09,18-25
+AHR02072,harish pillai,30.0,delhi,corporate professionals,4pm,phool makhana,1,129,129,2026-06-15,delivered,debit card,2026-06,26-35
+AHR02057,pallavi rao,26.0,bangalore,govt exam aspirants,8am,mint makhana,3,149,447,2026-03-13,delivered,upi,2026-03,26-35
+AHR01930,vikram mehta,27.0,delhi,govt exam aspirants,4pm,ready to mix sattu,2,99,198,2026-05-14,delivered,upi,2026-05,26-35
+AHR01780,sunita mishra,41.0,delhi,homemakers,8am,ready to mix sattu,1,99,99,2026-04-01,delivered,upi,2026-04,36-50
+AHR01201,pooja nair,21.0,delhi,students,4pm,peri peri makhana,1,149,149,2026-06-25,delivered,net banking,2026-06,18-25
+AHR01135,rekha das,27.0,bangalore,athletes,4pm,peri peri makhana,3,149,447,2026-08-03,returned,net banking,2026-08,26-35
+AHR02052,anjali pandey,35.0,delhi ncr,corporate professionals,4pm,black pepper makhana,1,149,149,2026-10-28,delivered,upi,2026-10,26-35
+AHR01041,smita nair,32.0,bangalore,corporate professionals,8am,peri peri makhana,1,149,149,2026-03-14,delivered,upi,2026-03,26-35
+AHR02018,smita patel,23.0,delhi,students,4pm,black pepper makhana,4,149,596,2026-01-12,shipped,net banking,2026-01,18-25
+AHR01231,karan shah,28.0,bangalore,corporate professionals,4pm,peri peri makhana,3,149,447,2026-05-09,shipped,debit card,2026-05,26-35
+AHR01379,smita bose,26.0,bangalore,corporate professionals,8am,phool makhana,3,129,387,2026-10-21,pending,upi,2026-10,26-35
+AHR01289,vikram chopra,19.0,bangalore,students,4pm,ready to mix sattu,1,99,99,2026-08-17,delivered,upi,2026-08,18-25
+AHR01419,madhuri chopra,18.0,pune,students,8am,ready to mix sattu,1,99,99,2026-02-10,delivered,debit card,2026-02,18-25
+AHR01392,raj joshi,35.0,mumbai,corporate professionals,4pm,ready to mix sattu,1,99,99,2026-01-12,pending,upi,2026-01,26-35
+AHR01593,pallavi patel,31.0,delhi,corporate professionals,4pm,black pepper makhana,1,149,149,2026-07-23,delivered,debit card,2026-07,26-35
+AHR02163,rahul verma,45.0,hyderabad,homemakers,8am,ready to mix sattu,3,99,297,2026-03-15,delivered,upi,2026-03,36-50
+AHR02087,anita joshi,19.0,mumbai,students,4pm,ready to mix sattu,4,99,396,2026-02-26,delivered,debit card,2026-02,18-25
+AHR01648,unknown,23.0,delhi ncr,govt exam aspirants,8am,mint makhana,3,149,447,2026-05-24,cancelled,debit card,2026-05,18-25
+AHR02153,divya sharma,27.0,hyderabad,corporate professionals,8am,ready to mix sattu,3,99,297,2026-04-05,delivered,credit card,2026-04,26-35
+AHR02368,vishal pillai,23.0,delhi,students,8am,black pepper makhana,1,149,149,2026-09-18,delivered,upi,2026-09,18-25
+AHR01521,pooja chopra,37.0,mumbai,corporate professionals,4pm,black pepper makhana,2,149,298,2026-06-26,pending,debit card,2026-06,36-50
+AHR01065,rahul patel,30.0,bangalore,athletes,8am,phool makhana,1,129,129,2026-02-15,shipped,credit card,2026-02,26-35
+AHR01015,arjun chopra,26.0,mumbai,corporate professionals,8am,peri peri makhana,1,149,149,2026-09-06,shipped,net banking,2026-09,26-35
+AHR02181,akash das,28.0,delhi ncr,homemakers,4pm,ready to mix sattu,2,99,198,2026-03-08,pending,net banking,2026-03,26-35
+AHR02065,sanjay bose,24.0,bangalore,students,4pm,black pepper makhana,2,149,298,2026-10-04,delivered,upi,2026-10,18-25
+AHR01493,kavya iyer,24.0,delhi,govt exam aspirants,4pm,mint makhana,1,149,149,2026-08-26,delivered,credit card,2026-08,18-25
+AHR01380,manish chopra,28.0,bangalore,corporate professionals,4pm,ready to mix sattu,2,99,198,2026-09-03,shipped,credit card,2026-09,26-35
+AHR01188,rekha das,31.0,delhi,corporate professionals,4pm,mint makhana,1,149,149,2026-05-22,returned,upi,2026-05,26-35
+AHR01217,swati das,39.0,mumbai,corporate professionals,8am,mint makhana,1,149,149,2026-08-16,shipped,net banking,2026-08,36-50
+AHR01792,kritika pandey,32.0,bangalore,homemakers,4pm,black pepper makhana,1,149,149,2026-05-14,delivered,upi,2026-05,26-35
+AHR02077,madhuri malhotra,31.0,delhi ncr,homemakers,8am,ready to mix sattu,1,99,99,2026-04-25,delivered,wallet,2026-04,26-35
+AHR01879,lavanya shah,32.0,pune,corporate professionals,8am,ready to mix sattu,1,99,99,2026-05-25,delivered,upi,2026-05,26-35
+AHR01338,karan kumar,29.0,pune,corporate professionals,8am,ready to mix sattu,3,99,297,2026-01-08,shipped,credit card,2026-01,26-35
+AHR01720,suresh mishra,28.0,delhi,athletes,8am,ready to mix sattu,2,99,198,2026-10-15,shipped,upi,2026-10,26-35
+AHR01296,deepak pillai,28.0,bangalore,athletes,4pm,phool makhana,1,129,129,2026-05-28,delivered,debit card,2026-05,26-35
+AHR02017,pallavi bose,35.0,bangalore,corporate professionals,4pm,mint makhana,1,149,149,2026-10-20,shipped,net banking,2026-10,26-35
+AHR02276,nisha sharma,23.0,delhi ncr,govt exam aspirants,8am,phool makhana,1,129,129,2026-07-05,delivered,credit card,2026-07,18-25
+AHR01456,divya pillai,23.0,mumbai,students,4pm,black pepper makhana,1,149,149,2026-10-27,shipped,debit card,2026-10,18-25
+AHR01795,deepak chopra,18.0,hyderabad,students,4pm,mint makhana,1,149,149,2026-08-19,shipped,upi,2026-08,18-25
+AHR01816,karan nair,29.0,delhi,athletes,4pm,phool makhana,1,129,129,2026-09-05,delivered,upi,2026-09,26-35
+AHR01270,sunita rao,33.0,hyderabad,corporate professionals,4pm,black pepper makhana,1,149,149,2026-06-30,delivered,upi,2026-06,26-35
+AHR01996,pooja gupta,26.0,bangalore,corporate professionals,4pm,mint makhana,1,149,149,2026-08-21,delivered,upi,2026-08,26-35
+AHR01202,arjun gupta,32.0,mumbai,corporate professionals,4pm,peri peri makhana,2,149,298,2026-04-08,delivered,upi,2026-04,26-35
+AHR01162,lavanya mishra,39.0,bangalore,corporate professionals,4pm,peri peri makhana,1,149,149,2026-10-18,pending,net banking,2026-10,36-50
+AHR01730,preeti chopra,24.0,bangalore,students,8am,phool makhana,4,129,516,2026-02-21,shipped,upi,2026-02,18-25
+AHR01402,suresh pillai,22.0,bangalore,students,4pm,black pepper makhana,4,149,596,2026-09-20,delivered,upi,2026-09,18-25
+AHR01703,neha bose,29.0,bangalore,homemakers,4pm,peri peri makhana,1,149,149,2026-03-10,delivered,debit card,2026-03,26-35
+AHR02130,rahul das,20.0,bangalore,govt exam aspirants,4pm,peri peri makhana,2,149,298,2026-09-26,delivered,net banking,2026-09,18-25
+AHR01566,preeti malhotra,34.0,pune,corporate professionals,4pm,black pepper makhana,2,149,298,2026-02-01,cancelled,upi,2026-02,26-35
+AHR02414,shreya iyer,30.0,bangalore,corporate professionals,8am,phool makhana,2,129,258,2026-07-01,shipped,upi,2026-07,26-35
+AHR02022,kavya rao,21.0,mumbai,govt exam aspirants,8am,ready to mix sattu,2,99,198,2026-09-24,returned,net banking,2026-09,18-25
+AHR02026,kavya gupta,27.0,pune,athletes,8am,ready to mix sattu,2,99,198,2026-02-07,delivered,debit card,2026-02,26-35
+AHR02412,swati reddy,36.0,delhi,corporate professionals,4pm,peri peri makhana,1,149,149,2026-05-18,delivered,wallet,2026-05,36-50
+AHR02105,nisha nair,34.0,mumbai,athletes,4pm,mint makhana,1,149,149,2026-01-21,delivered,debit card,2026-01,26-35
+AHR01206,anjali gupta,30.0,bangalore,corporate professionals,8am,phool makhana,1,129,129,2026-06-27,delivered,credit card,2026-06,26-35
+AHR01035,manish joshi,38.0,bangalore,corporate professionals,8am,ready to mix sattu,3,99,297,2026-01-19,delivered,net banking,2026-01,36-50
+AHR01776,pallavi malhotra,29.0,mumbai,corporate professionals,4pm,black pepper makhana,1,149,149,2026-01-02,returned,net banking,2026-01,26-35
+AHR01509,karan nair,38.0,hyderabad,corporate professionals,8am,black pepper makhana,1,149,149,2026-09-15,delivered,upi,2026-09,36-50
+AHR02452,gaurav bose,31.0,mumbai,corporate professionals,8am,phool makhana,4,129,516,2026-01-16,delivered,upi,2026-01,26-35
+AHR01472,rahul das,20.0,pune,athletes,4pm,peri peri makhana,2,149,298,2026-08-03,delivered,debit card,2026-08,18-25
+AHR02391,sanjay pandey,33.0,hyderabad,corporate professionals,4pm,black pepper makhana,3,149,447,2026-02-21,delivered,credit card,2026-02,26-35
+AHR01092,nisha mehta,20.0,mumbai,students,8am,phool makhana,1,129,129,2026-06-06,delivered,debit card,2026-06,18-25
+AHR02364,shreya pandey,34.0,bangalore,corporate professionals,4pm,mint makhana,2,149,298,2026-02-10,shipped,credit card,2026-02,26-35
+AHR01898,divya rao,25.0,delhi,govt exam aspirants,4pm,ready to mix sattu,1,99,99,2026-05-25,delivered,upi,2026-05,18-25
+AHR01565,sneha pandey,20.0,delhi ncr,govt exam aspirants,4pm,black pepper makhana,2,149,298,2026-08-17,delivered,upi,2026-08,18-25
+AHR02370,smita mehta,28.0,bangalore,corporate professionals,8am,ready to mix sattu,2,99,198,2026-10-24,delivered,upi,2026-10,26-35
+AHR01777,vikram kumar,25.0,delhi,athletes,4pm,ready to mix sattu,2,99,198,2026-04-07,delivered,credit card,2026-04,18-25
+AHR01242,vinay malhotra,22.0,bangalore,athletes,4pm,peri peri makhana,1,149,149,2026-07-29,delivered,upi,2026-07,18-25
+AHR01014,anjali sharma,31.0,delhi ncr,corporate professionals,4pm,mint makhana,1,149,149,2026-10-01,delivered,wallet,2026-10,26-35
+AHR01316,sunita reddy,33.0,mumbai,corporate professionals,4pm,black pepper makhana,1,149,149,2026-04-29,cancelled,upi,2026-04,26-35
+AHR01601,amit singh,38.0,mumbai,corporate professionals,8am,ready to mix sattu,3,99,297,2026-07-20,delivered,upi,2026-07,36-50
+AHR01388,karan joshi,28.0,mumbai,corporate professionals,4pm,peri peri makhana,1,149,149,2026-06-26,delivered,credit card,2026-06,26-35
+AHR02298,shreya nair,25.0,bangalore,athletes,4pm,black pepper makhana,2,149,298,2026-07-08,shipped,upi,2026-07,18-25
+AHR01167,vikram nair,31.0,bangalore,corporate professionals,8am,mint makhana,1,149,149,2026-05-24,pending,upi,2026-05,26-35
+AHR01841,sneha pillai,32.0,bangalore,athletes,8am,phool makhana,1,129,129,2026-01-17,delivered,upi,2026-01,26-35
+AHR01021,manish pandey,25.0,bangalore,athletes,4pm,peri peri makhana,4,149,596,2026-03-15,delivered,credit card,2026-03,18-25
+AHR01647,amit bose,37.0,delhi,corporate professionals,8am,ready to mix sattu,1,99,99,2026-02-21,delivered,net banking,2026-02,36-50
+AHR02155,vinay joshi,34.0,delhi ncr,homemakers,8am,ready to mix sattu,1,99,99,2026-05-09,cancelled,upi,2026-05,26-35
+AHR01832,kavya malhotra,40.0,delhi,corporate professionals,4pm,black pepper makhana,1,149,149,2026-06-20,pending,debit card,2026-06,36-50
+AHR02268,harish joshi,36.0,mumbai,corporate professionals,8am,ready to mix sattu,1,99,99,2026-06-14,shipped,upi,2026-06,36-50
+AHR01563,swati verma,22.0,pune,students,8am,ready to mix sattu,2,99,198,2026-01-15,delivered,debit card,2026-01,18-25
+AHR02491,anita verma,32.0,delhi,corporate professionals,4pm,black pepper makhana,2,149,298,2026-09-26,delivered,credit card,2026-09,26-35
+AHR01687,akash nair,40.0,delhi,homemakers,4pm,mint makhana,2,149,298,2026-01-25,delivered,net banking,2026-01,36-50
+AHR01958,arun shah,40.0,mumbai,corporate professionals,8am,phool makhana,1,129,129,2026-07-21,delivered,upi,2026-07,36-50
+AHR01190,vikram rao,24.0,mumbai,students,4pm,peri peri makhana,1,149,149,2026-03-24,delivered,credit card,2026-03,18-25
+AHR01976,ravi reddy,29.235449735449734,bangalore,govt exam aspirants,4pm,peri peri makhana,2,149,298,2026-08-11,delivered,debit card,2026-08,26-35
+AHR01700,pooja mishra,24.0,mumbai,athletes,8am,ready to mix sattu,1,99,99,2026-04-12,delivered,credit card,2026-04,18-25
+AHR01511,siddharth chopra,42.0,pune,homemakers,4pm,black pepper makhana,1,149,149,2026-01-26,cancelled,upi,2026-01,36-50
+AHR02083,unknown,40.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-05-02,delivered,upi,2026-05,36-50
+AHR01475,kritika shah,37.0,mumbai,corporate professionals,4pm,phool makhana,3,129,387,2026-01-24,delivered,credit card,2026-01,36-50
+AHR01857,raj reddy,32.0,mumbai,athletes,8am,phool makhana,1,129,129,2026-09-15,delivered,net banking,2026-09,26-35
+AHR01748,rekha mishra,23.0,bangalore,students,4pm,mint makhana,2,149,298,2026-08-29,shipped,debit card,2026-08,18-25
+AHR01253,lavanya reddy,20.0,hyderabad,students,8am,ready to mix sattu,1,99,99,2026-07-07,pending,upi,2026-07,18-25
+AHR01022,rohit singh,23.0,mumbai,athletes,4pm,peri peri makhana,1,149,149,2026-08-15,pending,upi,2026-08,18-25
+AHR02338,deepak mehta,24.0,bangalore,students,4pm,mint makhana,1,149,149,2026-04-14,shipped,upi,2026-04,18-25
+AHR01460,preeti kumar,45.0,delhi ncr,homemakers,8am,mint makhana,1,149,149,2026-07-05,cancelled,credit card,2026-07,36-50
+AHR02185,kritika shah,24.0,bangalore,students,4pm,peri peri makhana,1,149,149,2026-02-03,delivered,debit card,2026-02,18-25
+AHR01277,akash iyer,20.0,bangalore,athletes,4pm,peri peri makhana,2,149,298,2026-04-29,delivered,upi,2026-04,18-25
+AHR01956,vishal gupta,22.0,hyderabad,athletes,4pm,phool makhana,1,129,129,2026-01-02,shipped,wallet,2026-01,18-25
+AHR02216,ravi shah,26.0,mumbai,corporate professionals,4pm,black pepper makhana,2,149,298,2026-06-15,delivered,credit card,2026-06,26-35
+AHR01386,arun patel,20.0,mumbai,students,8am,mint makhana,2,149,298,2026-10-15,delivered,upi,2026-10,18-25
+AHR01806,ravi pandey,38.0,bangalore,corporate professionals,4pm,black pepper makhana,3,149,447,2026-02-08,delivered,credit card,2026-02,36-50
+AHR02438,sanjay pillai,26.0,bangalore,corporate professionals,8am,phool makhana,1,129,129,2026-07-22,delivered,wallet,2026-07,26-35
+AHR01344,rekha shah,28.0,bangalore,corporate professionals,8am,phool makhana,2,129,258,2026-05-20,delivered,upi,2026-05,26-35
+AHR01770,nisha verma,38.0,bangalore,corporate professionals,4pm,phool makhana,2,129,258,2026-02-01,cancelled,upi,2026-02,36-50
+AHR02333,swati iyer,23.0,bangalore,students,4pm,black pepper makhana,2,149,298,2026-09-04,delivered,upi,2026-09,18-25
+AHR01131,sneha gupta,40.0,mumbai,homemakers,4pm,mint makhana,1,149,149,2026-04-11,delivered,net banking,2026-04,36-50
+AHR01872,sunita kumar,26.0,bangalore,corporate professionals,4pm,peri peri makhana,2,149,298,2026-06-18,cancelled,credit card,2026-06,26-35
+AHR02124,kavya singh,27.0,delhi,govt exam aspirants,4pm,black pepper makhana,1,149,149,2026-03-10,returned,upi,2026-03,26-35
+AHR02397,kritika gupta,46.0,bangalore,homemakers,8am,peri peri makhana,2,149,298,2026-09-29,cancelled,net banking,2026-09,36-50
+AHR01088,unknown,37.0,pune,corporate professionals,4pm,phool makhana,2,129,258,2026-05-21,delivered,upi,2026-05,36-50
+AHR02483,madhuri chopra,26.0,delhi,govt exam aspirants,4pm,phool makhana,2,129,258,2026-10-01,shipped,upi,2026-10,26-35
+AHR01331,pallavi gupta,33.0,mumbai,corporate professionals,8am,ready to mix sattu,2,99,198,2026-10-23,delivered,debit card,2026-10,26-35
+AHR02239,ravi bose,36.0,pune,corporate professionals,8am,phool makhana,2,129,258,2026-10-04,delivered,debit card,2026-10,36-50
+AHR01467,smita singh,41.0,mumbai,homemakers,8am,ready to mix sattu,2,99,198,2026-06-17,shipped,upi,2026-06,36-50
+AHR01122,anjali iyer,38.0,bangalore,homemakers,4pm,black pepper makhana,2,149,298,2026-04-25,returned,credit card,2026-04,36-50
+AHR02045,amit mehta,31.0,mumbai,corporate professionals,8am,ready to mix sattu,2,99,198,2026-10-20,delivered,upi,2026-10,26-35
+AHR02096,arun pillai,37.0,delhi,homemakers,8am,ready to mix sattu,1,99,99,2026-06-17,delivered,upi,2026-06,36-50
+AHR02131,arjun chopra,20.0,hyderabad,students,8am,ready to mix sattu,4,99,396,2026-09-28,delivered,upi,2026-09,18-25
+AHR02295,madhuri mishra,32.0,bangalore,corporate professionals,8am,ready to mix sattu,1,99,99,2026-08-12,delivered,net banking,2026-08,26-35
+AHR01861,akash iyer,24.0,bangalore,students,4pm,peri peri makhana,2,149,298,2026-09-13,cancelled,upi,2026-09,18-25
+AHR02460,raj malhotra,21.0,pune,students,4pm,ready to mix sattu,2,99,198,2026-09-21,delivered,upi,2026-09,18-25
+AHR02127,raj chopra,28.0,delhi ncr,corporate professionals,4pm,black pepper makhana,1,149,149,2026-04-03,delivered,net banking,2026-04,26-35

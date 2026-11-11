@@ -1,0 +1,7 @@
+product_id,sku,product_name,category,routine_slot,serving_format,unit_price,cogs,packaging_labor,total_unit_cost,gross_margin_pct
+1,SKU-SAT-015,Instant Sattu Breakfast Premix (15 Sachets),Breakfast / Protein,8:00 AM,15 x 30g Sachets,375,115,35,150,0.6
+2,SKU-MAK-PER15,Roasted Peri Peri Makhana (15 Snack Sachets),Snacks / Crunch,4:00 PM,15 x 20g Sachets,375,108,42,150,0.6
+3,SKU-MAK-PEP15,Roasted Black Pepper Makhana (15 Snack Sachets),Snacks / Crunch,4:00 PM,15 x 20g Sachets,375,104,42,146,0.61
+4,SKU-MAK-MNT15,Roasted Mint / Pudina Makhana (15 Snack Sachets),Snacks / Crunch,4:00 PM,15 x 20g Sachets,375,106,42,148,0.61
+5,SKU-MAK-PHL250,Classic Phool Makhana - Plain / Raw (250g Jar),Clean Staples,Family / Cooking,250g Jar,299,85,25,110,0.63
+6,SKU-COM-84BOX,The 8 AM & 4 PM Workday Routine Box,Combo Box,Full Day Routine,15 Sattu + 15 Assorted Makhana,699,215,65,280,0.6
